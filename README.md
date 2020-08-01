@@ -7,7 +7,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 # Code
 
-* [Convert a TSV file to JSON](https://github.com/werowe/HypatiaAcademy/blob/master/convertCSVtoJSON.py)
+* [Convert a CSV file to JSON](https://github.com/werowe/HypatiaAcademy/blob/master/convertCSVtoJSON.py)
 * [Calculate the Square Root of a Number](https://github.com/werowe/HypatiaAcademy/blob/master/squareRoot.ipynb)
 * [Sorting Algorithm](https://github.com/werowe/HypatiaAcademy/blob/master/sortAlgorithm.py)
 
