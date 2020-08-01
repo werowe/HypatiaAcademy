@@ -12,3 +12,9 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [Sorting Algorithm](https://github.com/werowe/HypatiaAcademy/blob/master/sortAlgorithm.py)
 
 
+# Video Tutorials
+
+* [Python Data Types](https://youtu.be/oVk6z4sfzAQ)
+* [Python Editors and Interpreters](https://youtu.be/oXvs7cZ84PQ)
+* [How to Calculate the Square Root or a Number Manually](https://youtu.be/6u6oOUiia2Q)
+
