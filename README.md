@@ -7,11 +7,15 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 # Code
 
+## Tutorials and Lectures
 * [Convert a CSV file to JSON](https://github.com/werowe/HypatiaAcademy/blob/master/convertCSVtoJSON.py)
 * [Calculate the Square Root of a Number](https://github.com/werowe/HypatiaAcademy/blob/master/squareRoot.ipynb)
 * [Sorting Algorithm](https://github.com/werowe/HypatiaAcademy/blob/master/sortAlgorithm.py)
 * [Bytes and Bits](https://github.com/werowe/HypatiaAcademy/blob/master/bitsAndBytes.ipynb)
 * [Character Encoding](https://github.com/werowe/HypatiaAcademy/blob/master/character%20encoding.ipynb)
+
+## Student Contributions and Assignments
+* [Convert customer.csv to JSON](https://github.com/werowe/HypatiaAcademy/tree/master/assignment)
 
 
 # Video Tutorials
