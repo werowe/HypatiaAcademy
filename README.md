@@ -15,7 +15,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [Character Encoding](https://github.com/werowe/HypatiaAcademy/blob/master/character%20encoding.ipynb)
 
 ## Student Contributions and Assignments
-* [Convert customer.csv to JSON](https://github.com/werowe/HypatiaAcademy/tree/master/assignment)
+* [First Semester Material](https://github.com/werowe/HypatiaAcademy/tree/master/assignment)
 
 
 # Video Tutorials
