@@ -9,6 +9,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 ## Tutorials and Lectures
 * [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/functions.ipynb)
+* [Arrays](https://github.com/werowe/HypatiaAcademy/blob/master/Array.ipynb)
 * [Convert a CSV file to JSON](https://github.com/werowe/HypatiaAcademy/blob/master/convertCSVtoJSON.py)
 * [Calculate the Square Root of a Number](https://github.com/werowe/HypatiaAcademy/blob/master/squareRoot.ipynb)
 * [Sorting Algorithm](https://github.com/werowe/HypatiaAcademy/blob/master/sortAlgorithm.py)
