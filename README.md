@@ -2,6 +2,8 @@
 
 Here are lecture notes, videos, tutorials, and solutions to coding exercises for [Hypatia Academy](https://hypatiaacademy.io/en/index.html).
 
+We teach Python programming to children ages 13 to 18.  But adults can use this material too.  Because it's for children comments are disabled on the YouTube videos.
+
 See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA) as well.
 
 
