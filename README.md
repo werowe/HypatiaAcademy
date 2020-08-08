@@ -17,6 +17,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [Sorting Algorithm](https://github.com/werowe/HypatiaAcademy/blob/master/sortAlgorithm.py)
 * [Bytes and Bits](https://github.com/werowe/HypatiaAcademy/blob/master/bitsAndBytes.ipynb)
 * [Character Encoding](https://github.com/werowe/HypatiaAcademy/blob/master/character%20encoding.ipynb)
+* [Bits and Bytes](https://www.youtube.com/watch?v=xuyt0RyJE9A)
 
 ## Student Contributions and Assignments
 * [First Semester Material](https://github.com/werowe/HypatiaAcademy/tree/master/assignment)
