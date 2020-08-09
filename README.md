@@ -29,4 +29,5 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [Python Editors and Interpreters](https://youtu.be/oXvs7cZ84PQ)
 * [How to Calculate the Square Root or a Number Manually](https://youtu.be/6u6oOUiia2Q)
 * [Learning to Sort](https://www.youtube.com/watch?v=6T6VNN8Qs4I)
+* [Character Sets and Character Encoding](https://www.youtube.com/watch?v=WuxF225DW1Y)
 
