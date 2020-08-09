@@ -23,6 +23,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [First Semester Material](https://github.com/werowe/HypatiaAcademy/tree/master/assignment)
 
 
+
 # Video Tutorials
 
 * [Python Data Types](https://youtu.be/oVk6z4sfzAQ)
