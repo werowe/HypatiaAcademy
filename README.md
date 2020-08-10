@@ -1,4 +1,5 @@
-# Hypatia Academy
+# Hypatia Academy 
+![](https://github.com/werowe/HypatiaAcademy/blob/master/images/logo.png)
 
 Here are lecture notes, videos, tutorials, and solutions to coding exercises for [Hypatia Academy](https://hypatiaacademy.io/en/index.html).
 
