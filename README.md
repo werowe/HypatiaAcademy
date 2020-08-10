@@ -18,6 +18,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [Bytes and Bits](https://github.com/werowe/HypatiaAcademy/blob/master/bitsAndBytes.ipynb)
 * [Character Encoding](https://github.com/werowe/HypatiaAcademy/blob/master/character%20encoding.ipynb)
 * [Bits and Bytes](https://github.com/werowe/HypatiaAcademy/blob/master/bitsAndBytes.ipynb)
+* [Sets and Tuples](https://github.com/werowe/HypatiaAcademy/blob/master/tuplesAndSetsLecture.ipynb)
 
 ## Student Contributions and Assignments
 * [First Semester Material](https://github.com/werowe/HypatiaAcademy/tree/master/assignment)
