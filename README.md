@@ -32,3 +32,122 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [Learning to Sort](https://www.youtube.com/watch?v=6T6VNN8Qs4I)
 * [Character Sets and Character Encoding](https://youtu.be/nVdgxm0ah1c)
 
+
+
+# Curriculum
+
+Variables and types
+
+Dictionaries
+Keys, interator
+
+
+
+
+Arrays
+
+Functions
+
+
+Main
+ 
+
+named arguments
+
+
+
+Loops
+
+
+for i in Range()
+
+while()
+
+
+
+String Functions
+
+Sets
+
+None type
+
+If,then,else
+Tuples
+
+Pickle
+
+
+Formatted output
+Printing decimals
+
+
+Zip function 
+sort algorithm
+
+Regular expressions 
+
+
+List Comprehensions
+
+Lambda functions 
+
+Map function 
+ 
+
+Multiply Calculator
+
+Numpy
+
+Matplotlib
+
+
+
+ 
+
+Estimate Sine
+
+
+
+
+
+
+Dates and Time
+
+
+Lambda and Map
+
+Regular Expressions
+
+
+Unicode
+
+Working with files
+
+JSON
+
+CVS
+
+Working with databases
+
+Objects and Classes
+
+
+
+Runnable Tasks, Thread
+
+
+
+MongoDB
+
+
+
+
+PySpark
+
+
+Pandas
+
+
+
+
+
