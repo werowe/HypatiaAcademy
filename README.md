@@ -36,113 +36,47 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 # Curriculum
 
+## Language Basics
 * Variables and types
-
-** Dictionaries
-...Keys, interator..
-
-Arrays
-
-Functions
-
-
-Main
+- Dictionaries
+- Keys, interator 
+* Lists (Arrays)
+* Functions
+* Algorithms
+ - Sort Algorithm
+ - Estimate Sine
+ - Calculate Square Root
+* Main Function
+* Loops
+* String Functions
+* Character Sets
+* Working with files
+* Sets
+* None type
+* If,then,else
+* Tuples
+* Formatted output
+* Dates and Time
+* Pickle
+* Zip
+* Regular expressions 
+* List Comprehensions
+* Lambda and Map
  
+## Advanced Topics
+* Objects and Classes
+* Regular Expressions
+* Runnable Tasks, Thread
 
-named arguments
+# Databases
 
+* noSQL Databses (MongoDB)
+* SQL Databases (PostgreSQL)
 
-
-Loops
-
-
-for i in Range()
-
-while()
-
-
-
-String Functions
-
-Sets
-
-None type
-
-If,then,else
-Tuples
-
-Pickle
-
-
-Formatted output
-Printing decimals
-
-
-Zip function 
-sort algorithm
-
-Regular expressions 
-
-
-List Comprehensions
-
-Lambda functions 
-
-Map function 
- 
-
-Multiply Calculator
-
-Numpy
-
-Matplotlib
-
-
-
- 
-
-Estimate Sine
-
-
-
-
-
-
-Dates and Time
-
-
-Lambda and Map
-
-Regular Expressions
-
-
-Unicode
-
-Working with files
-
-JSON
-
-CVS
-
-Working with databases
-
-Objects and Classes
-
-
-
-Runnable Tasks, Thread
-
-
-
-MongoDB
-
-
-
-
-PySpark
-
-
-Pandas
+## Data Science
+* PySpark
+* Pandas
+* Numpy
 
 
 
