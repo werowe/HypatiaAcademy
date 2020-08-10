@@ -38,14 +38,14 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 ## Language Basics
 * Variables and types
-- Dictionaries
-- Keys, interator 
+  - Dictionaries
+  - Keys, interator 
 * Lists (Arrays)
 * Functions
 * Algorithms
- - Sort Algorithm
- - Estimate Sine
- - Calculate Square Root
+  - Sort Algorithm
+  - Estimate Sine
+  - Calculate Square Root
 * Main Function
 * Loops
 * String Functions
