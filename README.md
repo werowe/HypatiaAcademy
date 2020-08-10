@@ -36,13 +36,10 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 # Curriculum
 
-Variables and types
+* Variables and types
 
-Dictionaries
-Keys, interator
-
-
-
+** Dictionaries
+...Keys, interator..
 
 Arrays
 
