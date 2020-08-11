@@ -71,6 +71,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * Objects and Classes
 * Regular Expressions
 * Runnable Tasks, Thread
+* Hadoop File System, Avro, and Parquet File Formats
 
 # Databases
 
