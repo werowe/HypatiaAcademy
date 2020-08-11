@@ -22,9 +22,6 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [Bits and Bytes](https://github.com/werowe/HypatiaAcademy/blob/master/bitsAndBytes.ipynb)
 * [Sets and Tuples](https://github.com/werowe/HypatiaAcademy/blob/master/tuplesAndSetsLecture.ipynb)
 
-## Student Contributions and Assignments
-* [First Semester Material](https://github.com/werowe/HypatiaAcademy/tree/master/assignment)
-
 
 
 # Video Tutorials
