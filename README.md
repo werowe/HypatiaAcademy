@@ -80,6 +80,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * PySpark
 * Pandas
 * Numpy
+* Matplotlib
 
 
 
