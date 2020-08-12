@@ -57,6 +57,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * If,then,else
 * Tuples
 * Formatted output
+  - Locales
+  - Dates
 * Dates and Time
 * Pickle
 * Zip
