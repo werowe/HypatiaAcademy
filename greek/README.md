@@ -1,9 +1,4 @@
-# Heading
-
-## Basics of Data Types
-
-**boldface**
-
+ 
 
 * [Bits and Bytes](https://github.com/werowe/HypatiaAcademy/blob/master/greek/bitsAndBytes.md)
 
