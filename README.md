@@ -9,7 +9,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 
 # Greek
-* ![https://github.com/werowe/HypatiaAcademy/blob/master/images/greek.png] [Class Notes in Greek](https://github.com/werowe/HypatiaAcademy/tree/master/greek)
+* ![](https://github.com/werowe/HypatiaAcademy/blob/master/images/greek.png) [Class Notes in Greek](https://github.com/werowe/HypatiaAcademy/tree/master/greek)
 
 # Code
 
