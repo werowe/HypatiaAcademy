@@ -8,7 +8,7 @@ We teach Python programming to children ages 13 to 18.  But adults can use this 
 See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA) as well.
 
 
-# Greek
+# Ελληνικά
 ![](https://github.com/werowe/HypatiaAcademy/blob/master/images/greek.png) [Class Notes in Greek](https://github.com/werowe/HypatiaAcademy/tree/master/greek)
 
 # Code
