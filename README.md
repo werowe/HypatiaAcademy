@@ -117,19 +117,19 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    </tr>
    
    
-   <tr>
-   <th colspan="4">Machine Learning</th>
-  </tr>
-    <tr>
+ <tr>
+ <th colspan="4">Machine Learning</th>
+ </tr>
+ <tr>
  <td>Pandas</td>
  <td>Numpy</td>
  <td>Matplotlib<td>
  <td>Linear Regression<td>
-  <tr>
-    <tr>
+ </tr>
+ <tr>
  <td>Logstic Regression</td>
  <td>Nueral Networks</td>
-   <tr>
+ <tr>
       
 </table>
 
