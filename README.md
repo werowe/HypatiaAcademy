@@ -136,7 +136,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  <tr>
  <td>Pandas</td>
  <td>Numpy</td>
- <td>Matplotlib<td>
+ <td>Matplotlib</td>
  <td>Linear Regression</td>
  </tr>
  <tr>
