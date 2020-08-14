@@ -61,6 +61,11 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
      <td>Dates and Times</td>   
    </tr>
 
+<tr>
+     <td>Bites and Bytes</td>
+     <td>Character Encoding</td> 
+   </tr>
+
  <tr>
  <th colspan="4">Functions</th>
  </tr>  
@@ -124,7 +129,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    <td>Objects and Classes</td>
    <td>Regular Expressions</td>
    <td>Tasks and Threads</td>
-   <td>Regular Expressions</td>
+   <td>Modules</td>
    </tr>
      
   <tr>
