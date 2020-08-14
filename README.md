@@ -48,6 +48,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
     </tr>
     <tr>
     <td>Dictionaries</td><td> Lists </td><td>Sets</td><td>Tuples </td> 
+        </tr>
+        <tr>
       <td>Integers and Floats</td><td> Strings </td><td>JSON</td><td>Dates and Times</td>   
    </tr>
 
@@ -87,6 +89,16 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <tr>
   <td>Hadoop</td><td>MongoDB</td><td>PostgreSQL</td><td>Spark</td><td>  
    </tr>
+   
+   
+   <tr>
+  <th colspan="4">Machine Learning</th>
+  </tr>
+    <tr>
+ <td>Pandas</td>
+<td>Numpy</td>
+<td>Matplotlib<(td>
+  <tr>
  
      
 </table>
@@ -95,18 +107,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  
  
  
+ 
 
-
-# Databases
-
-* noSQL Databses (MongoDB)
-* SQL Databases (PostgreSQL)
-
-## Data Science
-* PySpark
-* Pandas
-* Numpy
-* Matplotlib
 
 
 
