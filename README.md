@@ -46,12 +46,14 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <tr>
     <th colspan="4">Variables and types</th>
   </tr>
+  
   <tr>
     <td>Dictionaries</td>
-    <td>Lists </td>
+    <td>Lists</td>
     <td>Sets</td>
-    <td>Tuples </td> 
+    <td>Tuples</td> 
    </tr>
+   
    <tr>
      <td>Integers and Floats</td>
      <td>Strings</td>
@@ -62,6 +64,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  <tr>
  <th colspan="4">Functions</th>
  </tr>  
+ 
  <tr>  
   <td>Regular Functions</td>
   <td>Main</td>
@@ -70,8 +73,9 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  </tr>
  
   <tr>
-    <th colspan="4">Control Flow </th>
+    <th colspan="4">Control Flow</th>
   </tr>
+  
   <tr>
   <td>If-Then-Else</td>
   <td>While Loops</td>
@@ -80,8 +84,9 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   </tr>
   
    <tr>
-  <th colspan="4">Formatting Output</th>
-  </tr> 
+   <th colspan="4">Formatting Output</th>
+   </tr> 
+   
    <tr>
    <td>Strings and Variables</td>
    <td>Floating Point Numbers </td> 
@@ -89,9 +94,10 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    <td>Localization</td> 
    </tr>
    
-    <tr>
-  <th colspan="4">Working with Files</th>
-  </tr> 
+   <tr>
+   <th colspan="4">Working with Files</th>
+   </tr> 
+   
    <tr>
    <td>Reading and Writing</td>
    <td>CSV and JSON</td> 
@@ -99,46 +105,51 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    <td>S3 and Hadoop</td> 
    </tr>
   
-  <tr>
-  <th colspan="4">Algorithms</th>
-  </tr> 
+   <tr>
+   <th colspan="4">Algorithms</th>
+   </tr> 
+   
    <tr>
    <td>Manual Sorting</td>
-   <td> Square Root </td> 
+   <td>Square Root</td> 
    <td>Sine</td>
-   <td> Bubble Sort </td> 
+   <td>Bubble Sort</td> 
    </tr>
    
-    <tr>
+   <tr>
    <th colspan="4">Advanced Topics</th>
-  </tr>
+   </tr>
+  
   <tr>
-  <td>Objects and Classes</td>
+   <td>Objects and Classes</td>
    <td>Regular Expressions</td>
    <td>Tasks and Threads</td>
    <td>Regular Expressions</td>
    </tr>
      
-   <tr>
+  <tr>
    <th colspan="4">Databases</th>
   </tr>
+  
   <tr>
   <td>MongoDB</td>
   <td>PostgreSQL</td>
   <td>Spark</td>
   <td>Hive</td> 
-   </tr>
+  </tr>
    
    
  <tr>
  <th colspan="4">Machine Learning</th>
  </tr>
+ 
  <tr>
  <td>Pandas</td>
  <td>Numpy</td>
  <td>Matplotlib</td>
  <td>Linear Regression</td>
  </tr>
+ 
  <tr>
  <td>Logstic Regression</td>
  <td>Nueral Networks</td>
