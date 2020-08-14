@@ -45,32 +45,48 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <table border="1">
   <tr>
     <th colspan="4">Variables and types</th>
-    </tr>
-    <tr>
-    <td>Dictionaries</td><td> Lists </td><td>Sets</td><td>Tuples </td> 
-        </tr>
-        <tr>
-      <td>Integers and Floats</td><td> Strings </td><td>JSON</td><td>Dates and Times</td>   
+  </tr>
+  <tr>
+    <td>Dictionaries</td>
+    <td>Lists </td>
+    <td>Sets</td>
+    <td>Tuples </td> 
+   </tr>
+   <tr>
+     <td>Integers and Floats</td>
+     <td> Strings </td>
+     <td>JSON</td>
+     <td>Dates and Times</td>   
    </tr>
 
  <tr>
- <th colspan="4">Functions</th>
+ <th> colspan="4">Functions</th>
  <tr>
  </tr>    
-  <td>Regular Functions</td><td>Main</td><td>Lamda</td><td>Map</td>  
+  <td>Regular Functions</td>
+  <td>Main</td>
+  <td>Lamda</td>
+  <td>Map</td>  
  </tr>
  
   <tr>
     <th colspan="4">Control Flow </th>
   </tr>
-    <tr>
-  <td>If-then-else</td><td> While Loops </td><td> For Loops </td><td>Handling Exceptions</td><td>  
-    </tr>
   <tr>
-   <th colspan="4">Algorithms</th>
-   </tr> 
+  <td>If-Then-Else</td>
+  <td>While Loops</td>
+  <td>For Loops</td>
+  <td>Handling Exceptions</td><td>  
+  </tr>
+  
+  <tr>
+  <th colspan="4">Algorithms</th>
+  </tr> 
    <tr>
-   <td>Sorting</td><td> Square Root </td> 
+   <td>Manual Sorting</td>
+   <td> Square Root </td> 
+   <td>Sine</td>
+   <td> Bubble Sort </td> 
    </tr>
    
     <tr>
@@ -78,39 +94,33 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   </tr>
   <tr>
   <td>Objects and Classes</td>
-<td>Regular Expressions</td>
-<td>Tasks and Threads</td>
-<td>Hadoop, Avro, and Parquet</td>
+   <td>Regular Expressions</td>
+   <td>Tasks and Threads</td>
+   <td>Hadoop, Avro, and Parquet</td>
    </tr>
      
    <tr>
    <th colspan="4">Databases</th>
   </tr>
   <tr>
-  <td>Hadoop</td><td>MongoDB</td><td>PostgreSQL</td><td>Spark</td><td>  
+  <td>MongoDB</td><td>PostgreSQL</td><td>Spark</td><td>  
    </tr>
    
    
    <tr>
-  <th colspan="4">Machine Learning</th>
+   <th colspan="4">Machine Learning</th>
   </tr>
     <tr>
  <td>Pandas</td>
-<td>Numpy</td>
-<td>Matplotlib<(td>
+ <td>Numpy</td>
+ <td>Matplotlib<td>
+ <td>Linear Regression<td>
   <tr>
- 
-     
+    <tr>
+ <td>Logstic Regression</td>
+ <td>Nueral Networks</td>
+   <tr>
+      
 </table>
- 
- 
- 
- 
- 
- 
-
-
-
-
 
 
