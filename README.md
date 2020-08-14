@@ -46,14 +46,19 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 <table border="1">
   <tr>
-    <th colspan="2">Month</th>
+    <th colspan="2">Variables and types</th>
+     <th colspan="2">Functions</th>
   </tr>
 <tr>
-  <td>Dictionaries</td><td> Keys, interator </td>
+  <td>Dictionaries</td><td> Keys, interator </td>  <td></td><td> </td>
 </tr>
+  <tr>
+    <th colspan="2">Algorithm</th>
+     <th colspan="2"></th>
+  </tr>
 </table>
 
-* Variables and types
+* 
   - 
   -
 * Lists (Arrays)
