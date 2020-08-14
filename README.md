@@ -41,6 +41,15 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 # Curriculum
 
 ## Language Basics
+
+
+
+<table>
+<tr>
+  <td>aaaaa</td><td>bbbbbb</td>
+</tr>
+</table>
+
 * Variables and types
   - Dictionaries
   - Keys, interator 
