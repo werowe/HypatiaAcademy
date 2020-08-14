@@ -46,8 +46,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 <table border="1">
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <th colspan="2">Month</th>
   </tr>
 <tr>
   <td>Dictionaries</td><td> Keys, interator </td>
