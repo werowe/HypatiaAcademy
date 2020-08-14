@@ -65,7 +65,6 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
      <td>Bites and Bytes</td>
      <td>Character Encoding</td> 
      <td>Ranges</td> 
-     <td>Character Encoding</td> 
      <td>Binary</td> 
    </tr>
 
