@@ -44,18 +44,33 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 <table border="1">
   <tr>
-    <th colspan="2">Variables and types</th>
-     <th colspan="2">Functions</th>
-  </tr>
-<tr>
-  <td>Dictionaries</td><td> Lists </td>   <td> Main </td>  
-    <td>Sets</td><td> Tuples </td>   
-</tr>
+    <th colspan="4">Variables and types</th>
+    </tr>
+    <tr>
+    <td>Dictionaries</td><td> Lists </td>     
+    <td>Sets</td><td>Tuples </td>   
+   </tr>
+
+ <tr>
+ <th colspan="4">Functions</th>
+ <tr>
+ </tr>    
+  <td>Regular Functions</td><td>Main</td><td>Lamda</td><td>Map</td>  
+ </tr>
+ 
   <tr>
-    <th colspan="2">Algorithm</th>Control Flow<th colspan="2"></th>
+    <th colspan="4">Control Flow </th>
   </tr>
-  <td>Sorting</td><td> Square Root </td> <td>If-then-else</td><td> While and For Loops </td>   
-    <td> </td><td>   </td> <td>Handling Exceptions</td><td> </td>  
+  <td>If-then-else</td><td> While Loops </td><td> For Loops </td><td>Handling Exceptions</td><td>  
+  
+  <tr>
+   <th colspan="4">Algorithms</th>
+   </tr> 
+   <tr>
+   <td>Sorting</td><td> Square Root </td> 
+   </tr>
+     
+     
 </table>
  
  
