@@ -143,7 +143,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  <td>Logstic Regression</td>
  <td>Nueral Networks</td>
  <td>Classification</td>
- <tr>
+ </tr>
       
 </table>
 
