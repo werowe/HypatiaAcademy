@@ -40,8 +40,6 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 # Curriculum
 
-## Language Basics
-
 
 
 <table border="1">
@@ -50,23 +48,17 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
      <th colspan="2">Functions</th>
   </tr>
 <tr>
-  <td>Dictionaries</td><td> Keys, interator </td>  <td></td><td> </td>
+  <td>Dictionaries</td><td> Lists </td>   <td> Main </td>  
+    <td>Sets</td><td> Tuples </td>   
 </tr>
   <tr>
-    <th colspan="2">Algorithm</th>
-     <th colspan="2"></th>
+    <th colspan="2">Algorithm</th>Control Flow<th colspan="2"></th>
   </tr>
+  <td>Sorting</td><td> Square Root </td> <td>If-then-else</td><td> While and For Loops </td>   
+    <td> </td><td>   </td> <td>Handling Exceptions</td><td> </td>  
 </table>
-
-* 
-  - 
-  -
-* Lists (Arrays)
-* Functions
-* Algorithms
-  - Sort Algorithm
-  - Estimate Sine
-  - Calculate Square Root
+ 
+ 
 * Main Function
 * Loops
 * String Functions
