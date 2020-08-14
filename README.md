@@ -64,6 +64,9 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <tr>
      <td>Bites and Bytes</td>
      <td>Character Encoding</td> 
+     <td>Ranges</td> 
+     <td>Character Encoding</td> 
+     <td>Binary</td> 
    </tr>
 
  <tr>
@@ -159,6 +162,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  <td>Logstic Regression</td>
  <td>Nueral Networks</td>
  <td>Classification</td>
+  <td>Decision Trees</td>
  </tr>
       
 </table>
