@@ -61,8 +61,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
  <tr>
  <th colspan="4">Functions</th>
- <tr>
- </tr>    
+ </tr>  
+ <tr>  
   <td>Regular Functions</td>
   <td>Main</td>
   <td>Lamda</td>
@@ -76,7 +76,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <td>If-Then-Else</td>
   <td>While Loops</td>
   <td>For Loops</td>
-  <td>Handling Exceptions</td><td>  
+  <td>Handling Exceptions</td> 
   </tr>
   
    <tr>
