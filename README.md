@@ -54,8 +54,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    </tr>
    <tr>
      <td>Integers and Floats</td>
-     <td> Strings </td>
-     <td>JSON</td>
+     <td>Strings</td>
+     <td>None</td>
      <td>Dates and Times</td>   
    </tr>
 
@@ -88,6 +88,16 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    <td>Dates and Times</td>
    <td>Localization</td> 
    </tr>
+   
+    <tr>
+  <th colspan="4">Working with Files</th>
+  </tr> 
+   <tr>
+   <td>Reading and Writing</td>
+   <td>CSV and JSON</td> 
+   <td>Internet</td>
+   <td>Hadoop, Parquet, Avro</td> 
+   </tr>
   
   <tr>
   <th colspan="4">Algorithms</th>
@@ -106,7 +116,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <td>Objects and Classes</td>
    <td>Regular Expressions</td>
    <td>Tasks and Threads</td>
-   <td>Hadoop, Avro, and Parquet</td>
+   <td>Regular Expressions</td>
    </tr>
      
    <tr>
