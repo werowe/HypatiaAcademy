@@ -60,7 +60,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    </tr>
 
  <tr>
- <th> colspan="4">Functions</th>
+ <th colspan="4">Functions</th>
  <tr>
  </tr>    
   <td>Regular Functions</td>
@@ -78,6 +78,16 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <td>For Loops</td>
   <td>Handling Exceptions</td><td>  
   </tr>
+  
+   <tr>
+  <th colspan="4">Formatting Output</th>
+  </tr> 
+   <tr>
+   <td>Strings and Variables</td>
+   <td>Floating Point Numbers </td> 
+   <td>Dates and Times</td>
+   <td>Localization</td> 
+   </tr>
   
   <tr>
   <th colspan="4">Algorithms</th>
