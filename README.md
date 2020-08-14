@@ -44,15 +44,19 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 
 
-<table>
+<table border="1">
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
 <tr>
-  <td>aaaaa</td><td>bbbbbb</td>
+  <td>Dictionaries</td><td> Keys, interator </td>
 </tr>
 </table>
 
 * Variables and types
-  - Dictionaries
-  - Keys, interator 
+  - 
+  -
 * Lists (Arrays)
 * Functions
 * Algorithms
