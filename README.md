@@ -96,7 +96,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    <td>Reading and Writing</td>
    <td>CSV and JSON</td> 
    <td>Internet</td>
-   <td>Hadoop, Parquet, Avro</td> 
+   <td>S3 and Hadoop</td> 
    </tr>
   
   <tr>
@@ -123,7 +123,10 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    <th colspan="4">Databases</th>
   </tr>
   <tr>
-  <td>MongoDB</td><td>PostgreSQL</td><td>Spark</td><td>  
+  <td>MongoDB</td>
+  <td>PostgreSQL</td>
+  <td>Spark</td>
+  <td>Hive</td> 
    </tr>
    
    
@@ -134,11 +137,12 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  <td>Pandas</td>
  <td>Numpy</td>
  <td>Matplotlib<td>
- <td>Linear Regression<td>
+ <td>Linear Regression</td>
  </tr>
  <tr>
  <td>Logstic Regression</td>
  <td>Nueral Networks</td>
+ <td>Classification</td>
  <tr>
       
 </table>
