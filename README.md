@@ -16,7 +16,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 ## Tutorials and Lectures
 * [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb)
 * [Lists](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb)
-* [Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics(dictionaries.ipynb)
+* [Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb)
 * [Convert a CSV file to JSON](https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py)
 * [Calculate the Square Root of a Number](https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb)
 * [Sorting Algorithm](https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/sortAlgorithm.py)
