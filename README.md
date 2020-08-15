@@ -128,7 +128,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    </tr>
   
   <tr>
-   <td>Rolling Dice</td>
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/rollDice.ipynb">Rolling Dice</a></td>
    <td>Tic-Tac-Toe</td>
    <td>Working with Instagram</td>
    <td>Black Jack</td>
