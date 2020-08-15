@@ -124,6 +124,18 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    </tr>
    
    <tr>
+   <th colspan="4">Fun Topics</th>
+   </tr>
+  
+  <tr>
+   <td>Rolling Dice</td>
+   <td>Tic-Tac-Toe</td>
+   <td>Working with Instagram</td>
+   <td>Black Jack</td>
+   </tr>
+     
+   
+   <tr>
    <th colspan="4">Advanced Topics</th>
    </tr>
   
