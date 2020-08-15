@@ -14,16 +14,16 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 # Code
 
 ## Tutorials and Lectures
-* [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/functions.ipynb)
-* [Lists](https://github.com/werowe/HypatiaAcademy/blob/master/Array.ipynb)
-* [Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/dictionaries.ipynb)
-* [Convert a CSV file to JSON](https://github.com/werowe/HypatiaAcademy/blob/master/convertCSVtoJSON.py)
-* [Calculate the Square Root of a Number](https://github.com/werowe/HypatiaAcademy/blob/master/squareRoot.ipynb)
-* [Sorting Algorithm](https://github.com/werowe/HypatiaAcademy/blob/master/sortAlgorithm.py)
+* [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb)
+* [Lists](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb)
+* [Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics(dictionaries.ipynb)
+* [Convert a CSV file to JSON](https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py)
+* [Calculate the Square Root of a Number](https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb)
+* [Sorting Algorithm](https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/sortAlgorithm.py)
 * [Bytes and Bits](https://github.com/werowe/HypatiaAcademy/blob/master/bitsAndBytes.ipynb)
-* [Character Encoding](https://github.com/werowe/HypatiaAcademy/blob/master/character%20encoding.ipynb)
-* [Bits and Bytes](https://github.com/werowe/HypatiaAcademy/blob/master/bitsAndBytes.ipynb)
-* [Sets and Tuples](https://github.com/werowe/HypatiaAcademy/blob/master/tuplesAndSetsLecture.ipynb)
+* [Character Encoding](https://github.com/werowe/HypatiaAcademy/blob/master/basics/character%20encoding.ipynb)
+* [Bits and Bytes](https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb)
+* [Sets and Tuples](https://github.com/werowe/HypatiaAcademy/blob/master/basics/tuplesAndSetsLecture.ipynb)
 
 
 
