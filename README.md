@@ -15,13 +15,12 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 ## Tutorials and Lectures
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+ 
+[]()  | 
+------|------
+[Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb) | [Lists](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb)
 
-* [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb)
-* [Lists](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb)
+ 
 * [Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb)
 * [Convert a CSV file to JSON](https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py)
 * [Calculate the Square Root of a Number](https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb)
