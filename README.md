@@ -1,5 +1,10 @@
 # Hypatia Academy 
-![](https://github.com/werowe/HypatiaAcademy/blob/master/images/logo.png)
+<table>
+<tr>
+  <td><img src="https://github.com/werowe/HypatiaAcademy/blob/master/images/logo.png"/></td>
+<td><img src="https://github.com/werowe/HypatiaAcademy/blob/master/images/hypatia.png"/></td>
+  </tr>
+</table>
 
 Here are lecture notes, videos, tutorials, and solutions to coding exercises for [Hypatia Academy](https://hypatiaacademy.io/en/index.html).
 
@@ -11,7 +16,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 # Ελληνικά
 ![](https://github.com/werowe/HypatiaAcademy/blob/master/images/greek.png) [Class Notes in Greek](https://github.com/werowe/HypatiaAcademy/blob/master/greek/README.md)
 
-![](https://github.com/werowe/HypatiaAcademy/blob/master/images/hypatia.png)
+
 
 # Code
 
