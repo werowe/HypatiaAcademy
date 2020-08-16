@@ -30,7 +30,7 @@ Then logon like this
  
  ```bash
  nohup jupyter notebook --ip=parisx&
- 
+ ````
  **Type `more nohup.out` and look for **
  
  http://parisx:8888/?token=xxxxxxxxxxxxxxx
