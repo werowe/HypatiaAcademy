@@ -16,18 +16,19 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 ## Tutorials and Lectures
 
  
-[]()  | 
+XXX | BBB
 ------|------
-[Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb) | [Lists](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb)
+| [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb) | [Lists](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb)
 
  
-* [Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb)
-* [Convert a CSV file to JSON](https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py)
-* [Calculate the Square Root of a Number](https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb)
-* [Sorting Algorithm](https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/sortAlgorithm.py)
-* [Character Encoding](https://github.com/werowe/HypatiaAcademy/blob/master/basics/character%20encoding.ipynb)
-* [Bits and Bytes](https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb)
-* [Sets and Tuples](https://github.com/werowe/HypatiaAcademy/blob/master/basics/tuplesAndSetsLecture.ipynb)
+| [Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb) |
+| [Convert a CSV file to JSON] | (https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py) |
+|[Calculate the Square Root of a Number] (https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb) |
+| [Sorting Algorithm](https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/sortAlgorithm.py)
+| [Character Encoding](https://github.com/werowe/HypatiaAcademy/blob/master/basics/character%20encoding.ipynb)|
+| [Bits and Bytes](https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb) |
+| [Sets and Tuples](https://github.com/werowe/HypatiaAcademy/blob/master/basics/tuplesAndSetsLecture.ipynb) |
+| Decimal | Localization
 
 
 
