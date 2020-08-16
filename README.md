@@ -28,12 +28,13 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/sortAlgorithm.py>Sorting Algorithm</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/character%20encoding.ipynb> Character Encoding</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb>Bits and Bytes</a></td>
-
+</tr>
  
 <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/tuplesAndSetsLecture.ipynb> Sets and Tuples</a></td>
 <td> Decimal</td> 
  <td>Localization</td> 
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/rollDice.ipynb">Rolling Dice</a></td>
 </tr>
  
 </table>
