@@ -12,8 +12,8 @@ Run this to upload your key to Amazon.  Get the instace-id from Walker.  You mus
 aws ec2-instance-connect send-ssh-public-key \
   --instance-id xxxxxxxxx
   --availability-zone eu-west-3c \
-  --instance-os-user george \
-  --ssh-public-key file://george.pub
+  --instance-os-user yourname \
+  --ssh-public-key file://yourname.pub
 ```
 
 Then logon like this
