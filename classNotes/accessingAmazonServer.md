@@ -31,10 +31,10 @@ Then logon like this
  ```bash
  nohup jupyter notebook --ip=parisx&
  ````
- Type `more nohup.out` and look for **
+ Type `more nohup.out` and look for:
  
- http://parisx:8888/?token=xxxxxxxxxxxxxxx
+ `http://parisx:8888/?token=xxxxxxxxxxxxxxx`
  
- change parisx to walkercodetutorials.com
+ change **parisx** to **walkercodetutorials.com**
  
- Type **quit** at top right of screen to shut it down to shut it down
+If you need to install a new Python package, type **quit** at top right of screen to shut it down to shut it down.  Then log back into the Amazon command prompt and start Jupyter again as explained above.
