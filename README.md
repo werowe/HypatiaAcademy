@@ -19,7 +19,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb">Functions</a></td> 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb">Lists</a></td> 
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb"></a></td>   Dictionaries
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb"> Dictionaries</a></td>  
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py">Convert CSV to JSON</a></td> 
 </tr>
    
