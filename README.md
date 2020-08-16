@@ -15,21 +15,28 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 ## Tutorials and Lectures
 
-| | | |
-|-|-|-| 
- | [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb) 
-| [Lists](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb) 
-| [Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb) 
-| [Convert CSV to JSON] (https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py) 
-|[Square Root](https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb)  
-| [Sorting Algorithm](https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/sortAlgorithm.py)
-| [Character Encoding](https://github.com/werowe/HypatiaAcademy/blob/master/basics/character%20encoding.ipynb) 
-| [Bits and Bytes](https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb)  
-| [Sets and Tuples](https://github.com/werowe/HypatiaAcademy/blob/master/basics/tuplesAndSetsLecture.ipynb)  
-| Decimal 
-| Localization |
+<table border="1">
+  <tr>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb>Functions</a></td> 
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb>Lists</a></td> 
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb></a></td>   Dictionaries
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py>Convert CSV to JSON</a></td> 
+</tr>
+   
+<tr>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb>Square Root</a></td>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/sortAlgorithm.py>Sorting Algorithm</a></td>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/character%20encoding.ipynb> Character Encoding</a></td>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb>Bits and Bytes</a></td>
 
-
+ 
+<tr>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/tuplesAndSetsLecture.ipynb> Sets and Tuples</a></td>
+<td> Decimal</td> 
+ <td>Localization</td> 
+</tr>
+ 
+</table>
 
 # Video Tutorials
 
