@@ -16,7 +16,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 ## Tutorials and Lectures
 
 | Syntax | Description |
- | Header | Title |
+| ----------- | ----------- |
+| Header | Title |
 | Paragraph | Text |
 
 * [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb)
