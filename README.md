@@ -31,7 +31,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 </tr>
    
 <tr>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb">Calculate Square Root</a></td>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb">Calculate Square Root Manually</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/sortAlgorithm.py">Sorting Algorithm</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/character%20encoding.ipynb"> Character Encoding</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb">Bits and Bytes</a></td>
@@ -40,9 +40,12 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/tuplesAndSetsLecture.ipynb"> Sets and Tuples</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Decimal%20Class.ipynb">Decimal</a></td> 
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Localization.ipynb">Localization</a></td> 
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Localization.ipynb">Language and Countries</a></td> 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/rollDice.ipynb">Rolling Dice</a></td>
 </tr>
+
+<tr>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb">Formatting Output</a></tr>
  
 </table>
 
