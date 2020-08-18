@@ -45,7 +45,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 </tr>
 
 <tr>
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb">Dates and Times</a>
+ <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Dates%20and%20Times.ipynb">Dates and Times</a>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb">Formatting Output</a>
 <td>import statement</td>
 </tr>
