@@ -141,7 +141,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    <tr>
    <td>Manual Sorting</td>
    <td>Square Root</td> 
-   <td>Sine</td>
+   <td>Google Page Rank Search</td>
    <td>Bubble Sort</td> 
    </tr>
    
