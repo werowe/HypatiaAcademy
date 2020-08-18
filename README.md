@@ -46,6 +46,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb">Formatting Output</a></tr>
+<td>import statement</td>
+</tr>
  
 </table>
 
