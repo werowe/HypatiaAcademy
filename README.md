@@ -49,7 +49,11 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb">Formatting Output</a>
 <td>import statement</td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/ticTacToe.ipynb">Tic Tac Toe</a>  
-  
+  </tr>
+ 
+<tr> 
+ <td><a href="https://docs.google.com/document/d/10Oe61z1pxopTjgzTZdztdRFqf50bLJupCV-z8ZOd4Bc/edit?usp=sharing">Team Project: Inventory System</a>
+</td>
 </tr>
  
 </table>
