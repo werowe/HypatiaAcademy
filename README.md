@@ -46,14 +46,15 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 <tr>
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Dates%20and%20Times.ipynb">Dates and Times</a>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb">Formatting Output</a>
-<td>import statement</td>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb">Formatting Output</a></td>
+<td><a href="https://pypi.org/project/pip/">Pip and Import</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/ticTacToe.ipynb">Tic Tac Toe</a>  
   </tr>
  
 <tr> 
  <td><a href="https://docs.google.com/document/d/10Oe61z1pxopTjgzTZdztdRFqf50bLJupCV-z8ZOd4Bc/edit?usp=sharing">Team Project: Inventory System</a></td>
 <td><a href="http://localhost:8888/notebooks/Documents/pythonClass/working%20with%20files.ipynb">Working with Files</a>
+  <td><a href="https://docs.python.org/3/library/hashlib.html">Encryption</a>
  </tr>
  
 </table>
