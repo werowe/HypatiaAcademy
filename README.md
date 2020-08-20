@@ -53,6 +53,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  
 <tr> 
  <td><a href="https://docs.google.com/document/d/10Oe61z1pxopTjgzTZdztdRFqf50bLJupCV-z8ZOd4Bc/edit?usp=sharing">Team Project: Inventory System</a>
+   
+<td><a href="http://localhost:8888/notebooks/Documents/pythonClass/working%20with%20files.ipynb>Working with Files</a>
 </td>
 </tr>
  
