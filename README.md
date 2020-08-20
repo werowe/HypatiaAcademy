@@ -53,21 +53,26 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  
 <tr> 
  <td><a href="https://docs.google.com/document/d/10Oe61z1pxopTjgzTZdztdRFqf50bLJupCV-z8ZOd4Bc/edit?usp=sharing">Team Project: Inventory System</a></td>
-<td><a href="http://localhost:8888/notebooks/Documents/pythonClass/working%20with%20files.ipynb">Working with Files</a>
-  <td><a href="https://docs.python.org/3/library/hashlib.html">Encryption</a>
+<td><a href="http://localhost:8888/notebooks/Documents/pythonClass/working%20with%20files.ipynb">Working with Files</a></td>
+  <td><a href="https://docs.python.org/3/library/hashlib.html">Encryption</a></td>
  </tr>
  
 </table>
 
 # Video Tutorials
-
-* [Python Data Types](https://youtu.be/oVk6z4sfzAQ)
-* [Python Editors and Interpreters](https://youtu.be/oXvs7cZ84PQ)
-* [How to Calculate the Square Root of a Number Manually](https://youtu.be/6u6oOUiia2Q)
-* [Learning to Sort](https://www.youtube.com/watch?v=6T6VNN8Qs4I)
-* [Character Sets and Character Encoding](https://youtu.be/nVdgxm0ah1c)
-* [Functions](https://youtu.be/N3iFuashvjM)
-* [Sets and Tuples](https://www.youtube.com/watch?v=qonWnyqBalg)
+<table border="1">
+  <tr>
+ <td><a href="https://youtu.be/oVk6z4sfzAQ">Python Data Types</a></td>
+ <td><a href="https://youtu.be/oXvs7cZ84PQ">Python Editors and Interpreters</a></td>
+ <td><a href="https://youtu.be/6u6oOUiia2Q">Calculate Square Roots</a></td>
+ <td><a href="https://www.youtube.com/watch?v=6T6VNN8Qs4I">Learning to Sort</a></td>
+ </tr>  
+    <tr>
+ <td><a href="https://youtu.be/nVdgxm0ah1c">Character Sets and Character Encoding</a></td>
+ <td><a href="https://youtu.be/N3iFuashvjM">Functions</a></td>
+ <td><a href="https://www.youtube.com/watch?v=qonWnyqBalg">Sets and Tuples</a></td>
+ </tr>
+ </table>
 
 
 
