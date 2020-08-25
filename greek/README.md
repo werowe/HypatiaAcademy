@@ -9,3 +9,5 @@
 * [Loops](https://github.com/werowe/HypatiaAcademy/blob/master/greek/no.4%20-%20Loops.ipynb)
 
 * [Strings](https://github.com/werowe/HypatiaAcademy/blob/master/greek/no.5%20-%20Strings.ipynb)
+
+* [Dates and Times](https://github.com/werowe/HypatiaAcademy/blob/master/greek/no.6%20-%20dates%20and%20times.ipynb)
