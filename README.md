@@ -58,7 +58,9 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
     <td><a href="https://app.codility.com/programmers/lessons/1-iterations/binary_gap/">Binary Gap</a></td>
  </tr>
  
- 
+  <tr> 
+ <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Class%20and%20objects.ipynb">Classes and Objects</a></td>
+ </tr>
 
    
 </table>
