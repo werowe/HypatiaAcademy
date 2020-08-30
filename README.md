@@ -60,6 +60,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  
   <tr> 
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Class%20and%20objects.ipynb">Classes and Objects</a></td>
+ <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/convertCustomerCSVtoJSON.py">CSV Reader Object</a></td>
  </tr>
 
    
@@ -200,7 +201,17 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <td>Hive</td> 
   </tr>
    
-   
+  <tr>
+ <th colspan="4">Machine Learning Math Background</th>
+ </tr>
+ 
+ <tr>
+ <td>Basic Descriptive Statistics</td>
+ <td>Linear Algebra</td>
+ <td>Regression Models in Excel</td>
+ </tr>
+ 
+ 
  <tr>
  <th colspan="4">Machine Learning</th>
  </tr>
