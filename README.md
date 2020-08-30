@@ -143,15 +143,15 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    <tr>
    <td>Strings and Variables</td>
    <td>Floating Point Numbers </td> 
-   <td>Dates and Times</td>
-   <td>Localization</td> 
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Dates%20and%20Times.ipynb">Dates and Times</a></td>
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Localization.ipynbLocalization"/>Localization</a></td> 
    </tr>
    <tr>
    <th colspan="4">Working with Files</th>
    </tr> 
    <tr>
    <td>Reading and Writing</td>
-   <td>CSV and JSON</td> 
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py">CSV and JSON</a></td> 
    <td>Internet</td>
    <td>S3 and Hadoop</td> 
    </tr>
@@ -161,8 +161,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    </tr> 
    
    <tr>
-   <td>Manual Sorting</td>
-   <td>Square Root</td> 
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/sortAlgorithm.py"/>Manual Sorting</a></td>
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb"/>Square Root</a></td> 
    <td>Google Page Rank Search</td>
    <td>Bubble Sort</td> 
    </tr>
@@ -173,7 +173,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   
   <tr>
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/rollDice.ipynb">Rolling Dice</a></td>
-   <td>Tic-Tac-Toe</td>
+   <td><a href="://github.com/werowe/HypatiaAcademy/blob/master/assignment/ticTacToe.ipynb"/>Tic-Tac-Toe</a></td>
    <td>Working with Instagram</td>
    <td>Black Jack</td>
    </tr>
