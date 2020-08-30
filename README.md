@@ -96,7 +96,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <tr>
     <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb"/>Dictionaries</a></td>
     <td>Lists</td>
-    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/tuplesAndSetsLecture.ipynbTuples">Sets and Tuples</a></td> 
+    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/tuplesAndSetsLecture.ipynb">Sets and Tuples</a></td> 
    </tr>
    
    <tr>
