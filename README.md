@@ -103,12 +103,12 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
      <td>Integers and Floats</td>
      <td>Strings</td>
      <td>None</td>
-     <td>Dates and Times</td>   
+     <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Dates%20and%20Times.ipynb">Dates and Times</a></td>   
    </tr>
 
 <tr>
-     <td>Bites and Bytes</td>
-     <td>Character Encoding</td> 
+     <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb">Bites and Bytes</a></td>
+     <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/character%20encoding.ipynb">Character Encoding</a></td> 
      <td>Ranges</td> 
      <td>Binary</td> 
    </tr>
@@ -183,7 +183,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    </tr>
   
   <tr>
-   <td>Objects and Classes</td>
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Class%20and%20objects.ipynb">Objects and Classes</a></td>
    <td>Regular Expressions</td>
    <td>Tasks and Threads</td>
    <td>Modules</td>
