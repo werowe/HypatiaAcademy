@@ -94,7 +94,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   </tr>
   
   <tr>
-    <td>Dictionaries</td>
+    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb"/>Dictionaries</a></td>
     <td>Lists</td>
     <td>Sets</td>
     <td>Tuples</td> 
