@@ -54,7 +54,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <tr> 
  <td><a href="https://docs.google.com/document/d/10Oe61z1pxopTjgzTZdztdRFqf50bLJupCV-z8ZOd4Bc/edit?usp=sharing">Team Project: Inventory System</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb">Working with Files</a></td>
-  <td><a href="https://docs.python.org/3/library/hashlib.html">Encryption</a></td>
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/encryption.ipynb">Encryption</a></td>
     <td><a href="https://app.codility.com/programmers/lessons/1-iterations/binary_gap/">Binary Gap</a></td>
  </tr>
  
