@@ -150,7 +150,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    <th colspan="4">Working with Files</th>
    </tr> 
    <tr>
-   <td>Reading and Writing</td>
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb">Reading and Writing</a></td>
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py">CSV and JSON</a></td> 
    <td>Internet</td>
    <td>S3 and Hadoop</td> 
