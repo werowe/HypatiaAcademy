@@ -77,6 +77,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  <td><a href="https://youtu.be/nVdgxm0ah1c">Character Sets and Character Encoding</a></td>
  <td><a href="https://youtu.be/N3iFuashvjM">Functions</a></td>
  <td><a href="https://www.youtube.com/watch?v=qonWnyqBalg">Sets and Tuples</a></td>
+ <td><a href="https://youtu.be/DLM9lD0yUdg">Class and Objects</a></td>     
  </tr>
  </table>
 
