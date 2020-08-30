@@ -173,7 +173,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   
   <tr>
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/rollDice.ipynb">Rolling Dice</a></td>
-   <td><a href="://github.com/werowe/HypatiaAcademy/blob/master/assignment/ticTacToe.ipynb"/>Tic-Tac-Toe</a></td>
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/ticTacToe.ipynb"/>Tic-Tac-Toe</a></td>
    <td>Working with Instagram</td>
    <td>Black Jack</td>
    </tr>
