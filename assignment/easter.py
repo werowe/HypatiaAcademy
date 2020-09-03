@@ -1,8 +1,7 @@
 import math
 
-# https://c-for-dummies.com/blog/?p=2431
 
-def easter(year, month, day):
+def easter(year):
   
     Y = year
     a = Y%19
@@ -19,4 +18,6 @@ def easter(year, month, day):
     m = math.floor((a+11*h+22*L)/451)
     month = math.floor((h+L-7*m+114)/31)
     day = ((h+L-7*m+114)%31)+1
+    
+    return year, month, day
 
