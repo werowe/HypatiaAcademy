@@ -25,6 +25,7 @@ def easter(year):
  easter(2021)
 
   # convert Gregorian to Julian
+  # assignment is to calculate easter for next 10 years in gregorian and julian formats
   # pip install jdcal
   # https://pypi.org/project/jdcal/
   
