@@ -20,4 +20,11 @@ def easter(year):
     day = ((h+L-7*m+114)%31)+1
     
     return year, month, day
+  
+  
+ easter(2021)
+
+  # convert Gregorian to Julian
+  # pip install jdcal
+  # https://pypi.org/project/jdcal/
 
