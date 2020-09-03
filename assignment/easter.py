@@ -27,4 +27,7 @@ def easter(year):
   # convert Gregorian to Julian
   # pip install jdcal
   # https://pypi.org/project/jdcal/
+  
+  # find algorithm to calculate Ramadan
+  
 
