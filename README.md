@@ -66,6 +66,10 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/README.md">Assignments</a></td>
  </tr>
 
+
+ <tr> 
+ <td>Using APIs</td>
+ </tr>
    
 </table>
 
