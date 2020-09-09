@@ -22,6 +22,6 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
         self.wfile.write(response.getvalue())
 
 
-httpd = HTTPServer(('(non loopback address of your server)', 4443), SimpleHTTPRequestHandler)
+httpd = HTTPServer(('parisx', 4443), SimpleHTTPRequestHandler)
 
 httpd.serve_forever()
