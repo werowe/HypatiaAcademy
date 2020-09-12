@@ -92,7 +92,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  </tr>
  
   <tr>
- <td><a href="https://youtu.be/r7NW4C3yl64">APIsg</a></td>
+ <td><a href="https://youtu.be/r7NW4C3yl64">Intro to APIs</a></td>
      
  </tr>
  </table>
