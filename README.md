@@ -70,7 +70,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  <tr> 
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/APIs.ipynb">Using APIs</a></td>
    <td>String Functions</td>
-  <td><a href=https://github.com/werowe/HypatiaAcademy/blob/master/basics/bashShellCommands.md">Bash Shell commands</a></td>
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/bashShellCommands.md">Bash Shell commands</a></td>
  </tr>
    
 </table>
