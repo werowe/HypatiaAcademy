@@ -59,6 +59,7 @@ now print where you are:
 
 `pwd`
 
+prints:
 /Users/walkerrowe/Documents/bash
 
 Make a directory called **walker**.
