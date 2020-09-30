@@ -63,6 +63,7 @@ prints:
 /Users/walkerrowe/Documents/bash
 
 Make a directory called **walker**.
+
 `mkdir walker`
 
 put the text **hello walker** into the file **hello** in the **walker** folder.
