@@ -23,7 +23,7 @@ this means to show what folder you are in now
 
 ## change directory
 
-this means go to your home directory
+this means go to your home directory\
 
 `cd`
 
@@ -45,47 +45,47 @@ means copy file a.txt to b.txt
 
 ## Exercise
 
-go to Documents folder:
+go to Documents folder:\
 
 `cd Documents/`
 
-make a directory called **bash**
+make a directory called **bash**\
 `mkdir bash`
 
-go to the bash directory you just made:
+go to the bash directory you just made:\
 
 `cd bash`
 
-now print where you are:
+now print where you are:\
 
 `pwd`
 
-prints:
+prints:\
 /Users/walkerrowe/Documents/bash
 
-Make a directory called **walker**.
+Make a directory called **walker**.\
 
 `mkdir walker`
 
-put the text **hello walker** into the file **hello.txt** in the **walker** folder.
+put the text **hello walker** into the file **hello.txt** in the **walker** folder.\
 
 `echo "hello walker" >> walker/hello.txt`
 
-do a long listings (gives you all info) on the file **hello.txt** in the **walker** folder.
+do a long listing (gives all file details) on the file **hello.txt** in the **walker** folder.\
 
 `ls -l walker/hello.txt`
 
--rw-r--r--  1 walkerrowe  staff  13 Sep 29 16:59 walker/hello.txt
+-rw-r--r--  1 walkerrowe  staff  13 Sep 29 16:59 walker/hello.txt\
 
-go to the **walker** folder
+go to the **walker** folder\
 
 `cd walker`
 
-copy the file **hello.txt** up one level to the directory above it
+copy the file **hello.txt** up one level to the directory above it\
 
 `cp hello.txt ../`
 
-list the contents of the folder one level above here you are:
+list the contents of the folder one level above here you are:\
 
 `ls -l ../`
  
@@ -95,11 +95,14 @@ drwxr-xr-x  3 walkerrowe  staff  96 Sep 29 16:59 walker\
 
 
 `pwd`
+
+prints:\
+
 /Users/walkerrowe/Documents/bash/walker
 
 `ls .`
 
-hello.txt
+hello.txt\
 
 `ls ..`
 
