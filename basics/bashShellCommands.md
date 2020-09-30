@@ -32,7 +32,8 @@ go up one level and change to the **Downloads** folder
 `cd ..\Downloads`
 
 go to the **Downloads** folder
-cd Downloads
+
+`cd Downloads`
 
 
 ## copy file
