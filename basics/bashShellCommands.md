@@ -89,8 +89,8 @@ list the contents of the folder one level above here you are:
 
 `ls -l ../`
  
--rw-r--r--  1 walkerrowe  staff  13 Sep 29 17:01 hello.txt
-drwxr-xr-x  3 walkerrowe  staff  96 Sep 29 16:59 walker
+-rw-r--r--  1 walkerrowe  staff  13 Sep 29 17:01 hello.txt\
+drwxr-xr-x  3 walkerrowe  staff  96 Sep 29 16:59 walker\
 -rw-r--r--  1 walkerrowe  staff  13 Sep 29 16:59 walker/hello.txt
 
 
