@@ -66,7 +66,7 @@ Make a directory called **walker**.
 
 `mkdir walker`
 
-put the text **hello walker** into the file **hello** in the **walker** folder.
+put the text **hello walker** into the file **hello.txt** in the **walker** folder.
 
 `echo "hello walker" >> walker/hello.txt`
 
