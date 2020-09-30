@@ -23,86 +23,86 @@ this means to show what folder you are in now
 
 ## change directory
 
-this means go to your home directory\
+this means go to your home directory<br/>
 
 `cd`
 
-go up one level and change to the **Downloads** folder
+go up one level and change to the **Downloads** folder<br/>
 
 `cd ..\Downloads`
 
-go to the **Downloads** folder
+go to the **Downloads** folder<br/>
 
 `cd Downloads`
 
 
 ## copy file
 
-means copy file a.txt to b.txt
+means copy file a.txt to b.txt<br/>
 
 `cp a.txt b.txt`
 
 
 ## Exercise
 
-go to Documents folder:\
+go to Documents folder:<br/>
 
 `cd Documents/`
 
-make a directory called **bash**\
+make a directory called **bash**<br/>
 `mkdir bash`
 
-go to the bash directory you just made:\
+go to the bash directory you just made:<br/>
 
 `cd bash`
 
-now print where you are:\
+now print where you are:<br/>
 
 `pwd`
 
-prints:\
+<br/>
 /Users/walkerrowe/Documents/bash
 
-Make a directory called **walker**.\
+Make a directory called **walker**.<br/>
 
 `mkdir walker`
 
-put the text **hello walker** into the file **hello.txt** in the **walker** folder.\
+put the text **hello walker** into the file **hello.txt** in the **walker** folder.<br/>
 
 `echo "hello walker" >> walker/hello.txt`
 
-do a long listing (gives all file details) on the file **hello.txt** in the **walker** folder.\
+do a long listing (gives all file details) on the file **hello.txt** in the **walker** folder.<br/>
 
 `ls -l walker/hello.txt`
 
--rw-r--r--  1 walkerrowe  staff  13 Sep 29 16:59 walker/hello.txt\
+-rw-r--r--  1 walkerrowe  staff  13 Sep 29 16:59 walker/hello.txt<br/>
 
-go to the **walker** folder\
+go to the **walker** folder<br/>
 
 `cd walker`
 
-copy the file **hello.txt** up one level to the directory above it\
+copy the file **hello.txt** up one level to the directory above it<br/>
 
 `cp hello.txt ../`
 
-list the contents of the folder one level above here you are:\
+list the contents of the folder one level above here you are:<br/>
 
 `ls -l ../`
  
--rw-r--r--  1 walkerrowe  staff  13 Sep 29 17:01 hello.txt\
-drwxr-xr-x  3 walkerrowe  staff  96 Sep 29 16:59 walker\
+-rw-r--r--  1 walkerrowe  staff  13 Sep 29 17:01 hello.txt<br/>
+drwxr-xr-x  3 walkerrowe  staff  96 Sep 29 16:59 walker<br/>
 -rw-r--r--  1 walkerrowe  staff  13 Sep 29 16:59 walker/hello.txt
 
 
 `pwd`
 
-prints:\
+<br/>
 
 /Users/walkerrowe/Documents/bash/walker
 
 `ls .`
 
-hello.txt\
+hello.txt<br/>
 
 `ls ..`
 
