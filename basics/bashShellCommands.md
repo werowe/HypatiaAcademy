@@ -101,6 +101,7 @@ drwxr-xr-x  3 walkerrowe  staff  96 Sep 29 16:59 walker\
 
 hello.txt
 
-`ls ..
+`ls ..`
+
 hello.txt	walker
 
