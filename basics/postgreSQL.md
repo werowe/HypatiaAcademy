@@ -3,12 +3,13 @@
 
 # Notes for Walker
 * create database mumteha;
-* expenses=# create user mumteha with encrypted password 'xxxx';
+* 
+create user mumteha with encrypted password 'xxxx';
 * grant all privileges on database mumteha to mumteha;
 
 
 # Connect to Database
-psql -h paris2x -d mumteha -U mumteha
+psql -h paris2x -d mumteha -U xxxx
 
 
 
