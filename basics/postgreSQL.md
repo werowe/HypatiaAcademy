@@ -40,11 +40,11 @@ discount float,
 quantity int,
     productnumber varchar(50)
 );
-
+```
 
 # Add some Data
 
-```
+ 
 
 Copy and paste [this data](https://raw.githubusercontent.com/werowe/glue/master/customersOrders.sql) into PostgreSQL:
 
