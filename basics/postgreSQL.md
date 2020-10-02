@@ -1,10 +1,10 @@
-
+# Create Inventory System Databases and Add Some Data
 
 
 # Notes for Walker
-create database mumteha;
-expenses=# create user mumteha with encrypted password 'xxxx';
-grant all privileges on database mumteha to mumteha;
+* create database mumteha;
+* expenses=# create user mumteha with encrypted password 'xxxx';
+* grant all privileges on database mumteha to mumteha;
 
 
 # Connect to Database
