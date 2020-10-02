@@ -15,7 +15,7 @@ psql -h paris2x -d mumteha -U mumteha
 
 # Create Customers and Orders Table
 
-``sql
+```sql
 CREATE TABLE customers
   ( 
      customernumber     varchar(100) PRIMARY KEY, 
