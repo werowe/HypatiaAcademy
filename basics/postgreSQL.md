@@ -31,7 +31,7 @@ CREATE TABLE customers
 CREATE TABLE orders
   ( 
      customernumber    varchar(100) ,
-    ordernumber varchar(100) varchar(100) PRIMARY KEY,
+    ordernumber varchar(100) PRIMARY KEY,
     comments varchar(200),
     orderdate date,
     ordertype varchar(10),
