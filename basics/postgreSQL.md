@@ -3,8 +3,7 @@
 
 # Notes for Walker
 * create database mumteha;
-* 
-create user mumteha with encrypted password 'xxxx';
+* create user mumteha with encrypted password 'xxxx';
 * grant all privileges on database mumteha to mumteha;
 
 
