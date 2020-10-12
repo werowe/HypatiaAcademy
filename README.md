@@ -29,6 +29,11 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb"> Dictionaries</a></td>  
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py">Convert CSV to JSON</a></td> 
 </tr>
+  
+   <tr> 
+ <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/stringFunctions.ipynb">String Functions</a></td>
+  
+ </tr>
    
 <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb">Calculate Square Root Manually</a></td>
@@ -62,8 +67,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Class%20and%20objects.ipynb">Classes and Objects</a></td>
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/convertCustomerCSVtoJSON.py">CSV Reader Object</a></td>
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/if-then-else.ipynb">If-then-else</a></td>
-  
-   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/README.md">Assignments</a></td>
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/README.md">Assignments</a></td>
  </tr>
 
 
