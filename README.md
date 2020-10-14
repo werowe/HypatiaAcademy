@@ -99,7 +99,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <tr>
  <td><a href="https://youtu.be/r7NW4C3yl64">Intro to APIs</a></td>
   
-  <td><a href="https://us02web.zoom.us/rec/play/PpzbHcojnigvzaMG_pcBaF43LyV6U0-rYR_BPd1sJafOs2vi82-16w_YpriahMno-5cURCtZqa6-IOie.KDm-s6JIVPW12XJt?continueMode=true&_x_zm_rtaid=shsT9uk_Q82JLqcF2tqE0Q.1602681816401.4ca4859861a64eeb3b090dacb828e491&_x_zm_rhtaid=84>String Functions</a></td>
+  <td><a href="https://us02web.zoom.us/rec/play/PpzbHcojnigvzaMG_pcBaF43LyV6U0-rYR_BPd1sJafOs2vi82-16w_YpriahMno-5cURCtZqa6-IOie.KDm-s6JIVPW12XJt?continueMode=true&_x_zm_rtaid=shsT9uk_Q82JLqcF2tqE0Q.1602681816401.4ca4859861a64eeb3b090dacb828e491&_x_zm_rhtaid=84">String Functions</a></td>
      
  </tr>
  </table>
