@@ -71,7 +71,15 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/README.md">Assignments</a></td>
  </tr>
 
+   <tr> 
+ <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/numpy.ipynb">Numpy</a></td>
+  
+ </tr>
 
+  
+  
+  
+  
  <tr> 
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/APIs.ipynb">Using APIs</a></td>
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/postgreSQL.md">SQL Databases</a></td>
