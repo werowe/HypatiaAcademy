@@ -73,7 +73,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
    <tr> 
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/numpy.ipynb">Numpy</a></td>
-  
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/14%20july%202021%20numpy%20dimensions%20and%20slicing.ipynb">Slicing Nump</a></td>
+        <td><a href="https://docs.google.com/spreadsheets/d/1-IFkDXQfhpKuUXGRNqLGaHmnELe2kYQZAm487fhz1WI/edit?usp=sharing"<Linear Regression in Google Sheets</a></td>
  </tr>
 
   
