@@ -70,26 +70,21 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/if-then-else.ipynb">If-then-else</a></td>
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/README.md">Assignments</a></td>
  </tr>
-
+  
    <tr> 
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/numpy.ipynb">Numpy Introduction</a></td>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/14%20july%202021%20numpy%20dimensions%20and%20slicing.ipynb">Slicing Numpy Arrays</a></td>
- <td><a href="https://docs.google.com/spreadsheets/d/1-IFkDXQfhpKuUXGRNqLGaHmnELe2kYQZAm487fhz1WI/edit?usp=sharing"<Linear Regression in Google Sheets</a></td>
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/linearRegressionwithScikit-Learn.ipynb">Linear Regression with scikit-learn</a></td>
- 
- </tr>
-
-  
-  
-  
-  
- <tr> 
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/APIs.ipynb">Using APIs</a></td>
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/postgreSQL.md">SQL Databases</a></td>
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/bashShellCommands.md">Bash Shell commands</a></td>
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/spark.md">Apache Spark</a></td>
  </tr>
-   
+
+   <tr> 
+ <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/numpy.ipynb">Numpy Introduction</a></td>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/14%20july%202021%20numpy%20dimensions%20and%20slicing.ipynb">Slicing Numpy Arrays</a></td>
+ <td><a href="https://docs.google.com/spreadsheets/d/1-IFkDXQfhpKuUXGRNqLGaHmnELe2kYQZAm487fhz1WI/edit?usp=sharing">Linear Regression in Google Sheets</a></td>
+ <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/linearRegressionwithScikit-Learn.ipynb">Linear Regression with scikit-learn</a></td>
+ </tr>
+    
 </table>
 
 # Video Tutorials
