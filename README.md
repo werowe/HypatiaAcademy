@@ -89,7 +89,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
      
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/vaccines%20versus%20IQ%20linear%20regression.ipynb">Is IQ related to COVID Vaccination Rate?</a></td>
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/Pandas%20Introduction.ipynb">Panda Introduction</a></td>
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignments/Paphosweather.ipynb">Is there Global Warming in Cyprus?</a></td>
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/Paphosweather.ipynb">Is there Global Warming in Cyprus?</a></td>
 
  </tr>
     
