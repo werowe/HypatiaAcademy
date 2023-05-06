@@ -21,7 +21,7 @@ As for mobile devices, on Apple (iOS) there is Object-C and a few more.  Android
 
 * machine learning
 * reading files
-* using APIs
+* using APIs, meaning use public tools on the internet, like check the weather or do translation
 * read and write to databases
 * read JSON/CSV files
 * it's built into popular big data, noSQL databases like Apache Spark
