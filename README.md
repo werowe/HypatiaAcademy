@@ -23,7 +23,11 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 ## Tutorials and Lectures
 
 <table border="1">
-  <tr>
+ <tr>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/what%20is%20python.md">Why Use Python?  What is Python?</a></td> 
+</tr>
+ 
+ <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb">Functions</a></td> 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb">Lists</a></td> 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb"> Dictionaries</a></td>  
