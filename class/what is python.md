@@ -1,7 +1,7 @@
 **What is Python?  When do you use Python?**
 
 
-1.  Can you make a web page with Python?  
+1.  **Can you make a web page with Python?**  
 
 Yes.  You can use the Django framework.  But in general Python is not a graphics or web page language.  Normally you would use JavaScript and HTML and CSS to make a web page. And, as we are teaching, you can make gaming graphics using the PyGame Python package, but people who write games use other languages with special tools (frameworks, APIs) to do that as it is easier.
 
@@ -17,7 +17,7 @@ Before you learn any framework you have to learn the language that uses it, like
 
 As for mobile devices, on Apple (iOS) there is Object-C and a few more.  Android has Kotlin, Java, and a few more.
 
-2.  What do you use Python for?
+2.  **What do you use Python for?**
 
 * machine learning
 * reading files
