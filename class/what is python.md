@@ -3,7 +3,7 @@
 
 1.  Can you make a web page with Python?  
 
-Yes.  You can use the Django framework.  But in general Python is not a graphics or web page language.  Normally you would use JavaScript and HTML and CSS to make a web page. And, as we are teaching, you can make gaming graphics using the PyGame Python package.
+Yes.  You can use the Django framework.  But in general Python is not a graphics or web page language.  Normally you would use JavaScript and HTML and CSS to make a web page. And, as we are teaching, you can make gaming graphics using the PyGame Python package, but people who write games use other languages with special tools (frameworks, APIs) to do that as it is easier.
 
 Most programmers do not use Python for front-end programming.  Front-end programming means web pages or mobile phone apps.  Front-end is anything with a screen or button.  It takes a completely different set of skills to do front-end programming than backend (also known as middleware).  In general the front-end is simpler, since all the business logic is in the back-end.  But the front-end frameworks and API are generally difficult to learn.  
 
