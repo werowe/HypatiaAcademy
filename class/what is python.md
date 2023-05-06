@@ -28,7 +28,17 @@ As for mobile devices, on Apple (iOS) there is Object-C and a few more.  Android
 * using APIs you use it to work with Apache Hadoop and other distributed systems
 
 
-You can say that Python is **middleware**.  There are basically two types of programming: (1) middleware and (2) frontend.
+You can say that Python is **middleware**.  There are basically two types of programming: (1) middleware and (2) frontend.  Middleware is where you put:
+
+* security
+* logic to do things like pick items, sort items, write data, read data
+
+Front-end has some unique items like:
+
+* **listeners**, which respond when you click a button, rotate the screen touch the screen, etc.
+* work with peripheral devices like bluetooth, camera, microphone, etc.
+
+
 
 
 
