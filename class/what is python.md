@@ -7,7 +7,7 @@ Yes.  You can use the Django framework.  But in general Python is not a graphics
 
 Most programmers do not use Python for front-end programming.  Front-end programming means web pages or mobile phone apps.  Front-end is anything with a screen or button.  It takes a completely different set of skills to do front-end programming than backend (also known as middleware).  In general the front-end is simpler, since all the business logic is in the back-end.  But the front-end frameworks and API are generally difficult to learn.  
 
-To create web pages you do not write HTML and CSS.  That would be very SLOOOOOOOW as you have to write all these long takes like <table>.  What programmers do instead is to use code to modify what is called the **dom** (Document object model).  Here are some frameworks:
+To create web pages you do not write HTML and CSS.  That would be very SLOOOOOOOW as you have to write all these long tag like `<table>`.  What programmers do instead is to use code to modify what is called the **dom** (Document object model).  Here are some frameworks:
 
 * JavaScript with React framework
 * Java with Struts
