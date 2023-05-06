@@ -26,6 +26,7 @@ As for mobile devices, on Apple (iOS) there is Object-C and a few more.  Android
 * read JSON/CSV files
 * it's built into popular big data, noSQL databases like Apache Spark
 * using APIs you use it to work with Apache Hadoop and other distributed systems
+* making programs multi-threaded, so they can do more than one thing at the same time
 
 
 You can say that Python is **middleware**.  There are basically two types of programming: (1) middleware and (2) frontend.  Middleware is where you put:
