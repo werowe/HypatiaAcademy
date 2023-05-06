@@ -23,7 +23,7 @@ As for mobile devices, on Apple (iOS) there is Object-C and a few more.  Android
 * reading files
 * using APIs, meaning use public tools on the internet, like check the weather or do translation
 * read and write to databases
-* read JSON/CSV files
+* read JSON/CSV (excel) files.  Most data is stored in this format, like accounting, sales, etc.
 * it's built into popular big data, noSQL databases like Apache Spark
 * using APIs you use it to work with Apache Hadoop and other distributed systems
 * making programs multi-threaded, so they can do more than one thing at the same time
