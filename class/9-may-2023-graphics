@@ -1,0 +1,41 @@
+
+Problem:
+
+we cannot create graphics from Google Colab.
+
+answer:  there is graphics card
+
+
+to fix that we have to install python on our local computer
+
+is we want to make some graphics programs then we to use Python packages that support graphics
+
+OpenGL
+
+PyGame
+
+Jupyter is what we use at Google Colab
+
+
+virtual environments:
+
+you don't want to install Python c:\windows\system32. <----kernel 
+
+no
+
+you want to create a virual environment
+
+On my Mac I am using Conda
+
+This list environments
+
+conda list env
+
+
+On Window or Mac you could use PyEnv, VirtualEnv, Conda
+
+
+
+
+
+
