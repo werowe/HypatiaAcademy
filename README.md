@@ -25,11 +25,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <table border="1">
  <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/what%20is%20python.md">Why Use Python?  What is Python?</a></td> 
-</tr>
-  
-<tr> 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/16-may-2023-read-JSON-to%20dictionary.ipynb">APIs, JSON, Dictionaries, Crypto, and Games</a></td> 
-</tr> 
+ </tr>
  
  <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb">Functions</a></td> 
