@@ -1,4 +1,4 @@
-#homework
+**homework**
 
 odd numbers are 1,3,5,7,9, ...
 <br/>
@@ -12,7 +12,7 @@ even numbers are 0,2,4,6,8, ...
  
  `n % 2 == 1`
  
- ##assignment:
+ **assignment**
  
  make three lists:
 
