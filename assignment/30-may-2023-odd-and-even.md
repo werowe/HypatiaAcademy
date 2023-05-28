@@ -5,19 +5,21 @@ even numbers are 0,2,4,6,8, ...
 
  in python a number n is even if:
  
- n % 2 == 0
+ `n % 2 == 0`
  
  it is odd if:
  
- n % 2 == 1
+ `n % 2 == 1`
  
  assignment:
  
  make three lists:
- 
+
+```python
 odd = []
 even = [] 
 numbers = []
+```
 
 use this to create 10 random numbers:
 
