@@ -13,11 +13,10 @@ even numbers are 0,2,4,6,8, ...
  
  assignment:
  
- make three lists
+ make three lists:
  
- odd = []
+odd = []
 even = [] 
-
 numbers = []
 
 use this to create 10 random numbers:
