@@ -1,0 +1,31 @@
+homework
+
+odd numbers are 1,2,3,4, ...
+even numbets are 0,2,4,6,8, ...
+
+ in python a number n is even if
+ n % 2 == 0
+ 
+ it is off if
+ n % 2 == 1
+ 
+ assignment:
+ 
+ make three lists
+ 
+ odd = []
+even = [] 
+
+numbers = []
+
+use this to create 10 random numbers:
+
+for i in range(10):
+  numbers.append(random.randint(1,10))
+  
+then use the range() function to loop
+through each of them. if the number is eveb
+add it to the even list. if it is odd
+add it to the odd list
+
+print the results
