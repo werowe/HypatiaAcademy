@@ -1,6 +1,7 @@
-homework
+#homework
 
 odd numbers are 1,3,5,7,9, ...
+<br/>
 even numbers are 0,2,4,6,8, ...
 
  in python a number n is even if:
@@ -29,7 +30,7 @@ for i in range(10):
 ```
 
 
-then use the range() function to loop
+then use the `range()` function to loop
 through each number in the list numbers. 
 
 if the number is even
