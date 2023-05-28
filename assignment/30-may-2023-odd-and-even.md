@@ -21,10 +21,12 @@ numbers = []
 
 use this to create 10 random numbers:
 
-
+```
 for i in range(10):
   numbers.append(random.randint(1,10))
-  
+```
+
+
 then use the range() function to loop
 through each number in the list numbers. 
 
