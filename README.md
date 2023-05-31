@@ -28,6 +28,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/16-may-2023-read-JSON-to%20dictionary.ipynb">APIs, JSON, Dictionaries, Crypto, and Games</a></td> 
    
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/factor_number.ipynb">Factor a number, determine if a number is Prime, and the Yield function</a></td> 
+   
+    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/functions-with-a-variable-number-of-arguments.ipynb">Functions with a Variable Number of Arguments</a></td> 
  </tr>
  
  <tr>
