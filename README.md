@@ -46,7 +46,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/decimal%20to%20hex.ipynb">Convert Decimal to Hex</a></td>
      
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/9-june-2023-Bin_to_Decimal.ipynb>Convert binary to decimal and decimal to binary</a></td>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/9-june-2023-Bin_to_Decimal.ipynb">Convert binary to decimal and decimal to binary</a></td>
      
 </tr>
    
