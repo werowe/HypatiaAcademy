@@ -94,7 +94,12 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  </tr>
 
  
-     
+     <tr> 
+ <td>List Comprehensions</td>
+   <td>Lambda Functions</td>
+  <td>Regular Expressions</td>
+
+ </tr>
 
 
 
