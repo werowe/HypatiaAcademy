@@ -70,10 +70,12 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/ticTacToe.ipynb">Tic Tac Toe</a>  
   </tr>
+
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb">Working with Files</a></td>
  
 <tr> 
- <td><a href="https://docs.google.com/document/d/10Oe61z1pxopTjgzTZdztdRFqf50bLJupCV-z8ZOd4Bc/edit?usp=sharing">Team Project: Inventory System</a></td>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb">Working with Files</a></td>
+
+
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/encryption.ipynb">Encryption</a></td>
    
  </tr>
@@ -98,7 +100,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
      
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/vaccines%20versus%20IQ%20linear%20regression.ipynb">Is IQ related to COVID Vaccination Rate?</a></td>
 
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/Paphosweather.ipynb">Is there Global Warming in Cyprus?</a></td>
+
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/13_june_2023_gcd.ipynb">Greatest Common Denominator</a></td>
 
  </tr>
@@ -112,6 +114,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_tutorial_start.ipynb">Numpy Start</a></td> 
 
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/Pandas%20Introduction.ipynb">Panda Introduction</a></td>
+
+    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/Paphosweather.ipynb">Is there Global Warming in Cyprus?</a></td>
     </tr>
 
      <tr> 
