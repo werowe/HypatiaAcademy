@@ -110,6 +110,15 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
     
 </table>
 
+# Numpy, Pandas, and Data Science
+
+<table border="1">
+ <tr>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_tutorial_start.ipynb">Numpy Start</a></td> 
+ </tr>
+</table>
+
+
 # Video Tutorials
 <table border="1">
   <tr>
