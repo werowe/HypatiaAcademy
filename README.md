@@ -102,7 +102,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
    <tr> 
      
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/vaccines%20versus%20IQ%20linear%20regression.ipynb">Is IQ related to COVID Vaccination Rate?</a></td>
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/Pandas%20Introduction.ipynb">Panda Introduction</a></td>
+
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/Paphosweather.ipynb">Is there Global Warming in Cyprus?</a></td>
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/13_june_2023_gcd.ipynb">Greatest Common Denominator</a></td>
 
@@ -115,7 +115,9 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <table border="1">
  <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_tutorial_start.ipynb">Numpy Start</a></td> 
- </tr>
+
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/Pandas%20Introduction.ipynb">Panda Introduction</a></td>
+    </tr>
 </table>
 
 
