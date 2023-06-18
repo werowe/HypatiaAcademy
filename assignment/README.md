@@ -4,6 +4,4 @@
 
 * [Calculate Ramada Date](https://github.com/werowe/HypatiaAcademy/blob/master/assignment/calverter.ipynb)
 
-* [Paphos Weather Metrics](https://github.com/werowe/HypatiaAcademy/blob/master/assignment/paphosWeather.ipynb)
-
 * [String Exercises](https://docs.google.com/document/d/12CWp0a6TF7PML6zSPNklA3OiitRI8GlNLWtQylt44l8/edit?usp=sharing)
