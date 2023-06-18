@@ -73,7 +73,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb">Working with Files</a></td>
 
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/encryption.ipynb">Encryption</a></td>
+ 
    
  </tr>
  
@@ -92,14 +92,11 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   
  </tr>
 
-  
-  
-   <tr> 
+  <tr> 
      
-   
-
-
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/13_june_2023_gcd.ipynb">Greatest Common Denominator</a></td>
+
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/encryption.ipynb">Encryption</a></td>
 
  </tr>
     
