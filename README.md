@@ -67,7 +67,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <tr>
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Dates%20and%20Times.ipynb">Dates and Times</a>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb">Formatting Output</a></td>
-<td><a href="https://pypi.org/project/pip/">Pip and Import</a></td>
+
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/ticTacToe.ipynb">Tic Tac Toe</a>  
   </tr>
  
