@@ -97,6 +97,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
      <tr> 
  <td>List Comprehensions and Lambda Functions</td>
   <td>Regular Expressions</td>
+   <td><a href="[https://github.com/werowe/HypatiaAcademy/blob/master/basics/encryption.ipynb](https://github.com/werowe/HypatiaAcademy/blob/master/class/27_june_2023_cyrillic_alphabet.ipynb)">Print first and last letters of the Cyrillic alphabet </a></td>
 
  </tr>
 
