@@ -97,9 +97,9 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
      <tr> 
  <td>List Comprehensions and Lambda Functions</td>
   <td>Regular Expressions</td>
-   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/27_june_2023_cyrillic_alphabet.ipynb">Print first and last letters of the Cyrillic alphabet </a></td>
+   
 
-   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/d4d2b66815e20166745af41a493fa890653dce49/class/6_june_2024_bits_and_bytes.ipynb#L4">Bits,Bytes, Hex</a></td>
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/d4d2b66815e20166745af41a493fa890653dce49/class/6_june_2024_bits_and_bytes.ipynb#L4">Bits and Bytes</a></td>
 
  </tr>
 
