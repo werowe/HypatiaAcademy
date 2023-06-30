@@ -95,7 +95,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
  
      <tr> 
- <td>List Comprehensions and Lambda Functions</td>
+ <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_list_comprehensions_lambda_functions.ipynb">List Comprehensions and Lambda Functions</a></td>
   <td>Regular Expressions</td>
    
 
