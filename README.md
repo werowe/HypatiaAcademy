@@ -58,7 +58,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 </tr>
  
 <tr>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/tuplesAndSetsLecture.ipynb"> Sets and Tuples</a></td>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/july_21_2023_sets.ipynb"> Sets</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Localization.ipynb">Language and Countries</a></td> 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/rollDice.ipynb">Rolling Dice</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/sample-python-exam.pdf">Sample Python Certification Exam</a></td>
