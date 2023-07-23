@@ -130,7 +130,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  </tr>
 
   <tr> 
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/paphosWeatherSummer2020.ipynb">How how is Paphos?</a></td>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/paphosWeatherSummer2020.ipynb">How hot is Paphos?</a></td>
  </td>
  </tr>
  
