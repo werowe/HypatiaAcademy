@@ -128,6 +128,11 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  <td><a href="https://docs.google.com/spreadsheets/d/1-IFkDXQfhpKuUXGRNqLGaHmnELe2kYQZAm487fhz1WI/edit?usp=sharing">Linear Regression in Google Sheets</a></td>
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/linearRegressionwithScikit-Learn.ipynb">Linear Regression with scikit-learn</a></td>
  </tr>
+
+  <tr> 
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/paphosWeatherSummer2020.ipynb">How how is Paphos?</a></td>
+ </td>
+ </tr>
  
 </table>
 
