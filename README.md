@@ -130,7 +130,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  </tr>
 
   <tr> 
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummer2023.ipynb">How hot is Paphos?</a></td>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb">How hot is Paphos in July?</a></td>
  </td>
  </tr>
  
