@@ -1,0 +1,96 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Multiple Schema Law Insider API",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://www.lawinsider.com/"
+    }
+  ],
+  "paths": {
+    "/api/v1alpha/search": {
+      "post": {
+        "summary": "Query searches",
+        "parameters": [
+          {
+            "name": "token",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "description": "API token for authentication"
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SearchQuery"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful response"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "SearchQuery": {
+        "type": "object",
+        "properties": {
+          "query": {
+            "type": "object",
+            "properties": {
+              "q": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "required": [
+          "query"
+        ]
+      }
+    },
+    "examples": {
+      "freeForm": {
+        "value": {
+          "q": "Agreement"
+        }
+      },
+      "index": {
+        "value": {
+          "_index": "contract"
+        }
+      },
+      "clauseDefinition": {
+        "value": {
+          "q": "",
+          "clause": {
+            "WHEREAS": "Agreement",
+            "Notices": "Limited",
+            "Generally": "Partnership"
+          },
+          "definition": {
+            "Person": "partnership",
+            "Subsidiary": "Equity",
+            "Business Day": "Sunday"
+          },
+          "filing_year": {
+            "max": 2022,
+            "min": 1996
+          }
+        }
+      }
+    }
+  }
+}
