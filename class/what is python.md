@@ -1,5 +1,6 @@
 **What is Python?  When do you use Python?**
 
+[AI Salaries](https://www.foxbusiness.com/fox-news-tech/ai-jobs-salaries-worth-900000-report)
 
 1.  **Can you make a web page with Python?**  
 
