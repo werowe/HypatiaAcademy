@@ -1,5 +1,12 @@
 **What is Python?  When do you use Python?**
 
+1. front end (i.e., web pages)
+2. game
+3. cell phone
+4. machine learning/data science
+5. hardware devices (electronics)
+6. middleware (databases)
+
 [AI Salaries](https://www.foxbusiness.com/fox-news-tech/ai-jobs-salaries-worth-900000-report)
 
 1.  **Can you make a web page with Python?**  
