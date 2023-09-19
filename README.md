@@ -40,8 +40,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 </tr>
   
    <tr> 
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/stringFunctions.ipynb">String Functions</a></td>
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/String%20exercises%20II.ipynb">String Functions Part II</a></td>
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/String%20exercises%20II.ipynb">String Functions</a></td>
   
 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/decimal%20to%20hex.ipynb">Convert Decimal to Hex</a></td>
