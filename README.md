@@ -133,7 +133,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  </td>
 
   
-<td><a href="https://cyprus-daily.news/why-children-in-cyprus-should-learning-computer-programming-and-how-to-do-it">Normalize data. std, mean, z-score in Google Sheets</a></td>
+<td><a href="https://cyprus-daily.news/why-children-in-cyprus-should-learning-computer-programming-and-how-to-do-it">Normalize data, std, mean, z-score in Google Sheets</a></td>
  
  </tr>
  
