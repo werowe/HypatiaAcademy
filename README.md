@@ -132,7 +132,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb">How hot is Paphos in July?</a></td>
  </td>
 
-  <tr> 
+  
 <td><a href="https://cyprus-daily.news/why-children-in-cyprus-should-learning-computer-programming-and-how-to-do-it">Normalize data. std, mean, z-score in Google Sheets</a></td>
  
  </tr>
