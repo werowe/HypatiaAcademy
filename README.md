@@ -173,7 +173,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 # Recorded Classes
 <table border="1">
   <tr>
-  <td><a href="https://us02web.zoom.us/j/85309569389?pwd=NG9Jd0s2VUNmTGJGU0xGMlUzekREdz09">Dictionaries and Sets </a></td>
+  <td><a href="https://us02web.zoom.us/rec/share/bwOrDBmGphhALKndZJVvKZVJjJtHaewRZ1ergRXjrkBxo1shTvQlH36-OP2fG412.MUd2RLwM1Sg54Nri ">Dictionaries and Sets Passcode: 3tH?5?3b </a></td>
 </tr>
  </table>
   
