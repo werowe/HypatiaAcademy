@@ -25,7 +25,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <table border="1">
  <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/what%20is%20python.md">Why Use Python?  What is Python?</a></td> 
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/16-may-2023-read-JSON-to%20dictionary.ipynb">APIs</a></td> 
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/october-6-2023-api-introduction.ipynb">APIs</a></td> 
    
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/factor_number.ipynb">Factor a number, determine if a number is Prime, and the Yield function</a></td> 
    
