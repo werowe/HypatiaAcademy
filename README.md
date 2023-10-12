@@ -134,6 +134,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
   
 <td><a href="https://docs.google.com/spreadsheets/d/1Ni3RoBJ_f2ABnMYY2yJGuvPD7z-UeUezsFAcL78yIoo/edit?usp=sharing">Normalize data, std, mean, z-score in Google Sheets</a></td>
+
+<td><a href="https://bashtage.github.io/kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf">Python for Stats and Data Science text book </a></td>
  
  </tr>
  
