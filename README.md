@@ -174,11 +174,11 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 # Recorded Classes
 <table border="1">
   <tr>
-  <td><a href="https://us02web.zoom.us/rec/share/bwOrDBmGphhALKndZJVvKZVJjJtHaewRZ1ergRXjrkBxo1shTvQlH36-OP2fG412.MUd2RLwM1Sg54Nri ">Dictionaries and Sets Passcode: 3tH?5?3b </a></td>
+  <td><a href="https://www.youtube.com/watch?v=gtabHRGQmU0">Dictionaries and Sets</a></td>
 </tr>
 
   <tr>
-  <td><a href="https://us02web.zoom.us/rec/share/uUm_qgpesF5pOlCF4fEYYQ_PM3EjhfAKJPu3Iu79VaLGsqnke-eBKFXaQDBC82XS.mi8e1iT8JPFfecO8">APIs Passcode: W82^0UAk</a></td>
+  <td><a href="https://www.youtube.com/watch?v=pIssp53kA3s">APIs</a></td>
  </tr>
  
  </table>
