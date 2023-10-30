@@ -175,10 +175,12 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <table border="1">
   <tr>
   <td><a href="https://www.youtube.com/watch?v=gtabHRGQmU0">Dictionaries and Sets</a></td>
-</tr>
+ 
 
-  <tr>
+ 
   <td><a href="https://www.youtube.com/watch?v=pIssp53kA3s">APIs</a></td>
+
+   <td><a href="https://www.youtube.com/watch?v=k6HjYoYrv9g">Regular Expressions</a></td>
  </tr>
  
  </table>
