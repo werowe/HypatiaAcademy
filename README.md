@@ -64,7 +64,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 </tr>
 
 <tr>
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Dates%20and%20Times.ipynb">Dates and Times</a>
+ <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/November_2_2023_dates_and_times.ipynb">Dates and Times</a>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb">Formatting Output</a></td>
 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/7_july_2023_ticTacToe.ipynb">Tic Tac Toe</a>  
