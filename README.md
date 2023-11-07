@@ -169,6 +169,14 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <td><a href="https://us02web.zoom.us/rec/play/PpzbHcojnigvzaMG_pcBaF43LyV6U0-rYR_BPd1sJafOs2vi82-16w_YpriahMno-5cURCtZqa6-IOie.KDm-s6JIVPW12XJt?continueMode=true&_x_zm_rtaid=shsT9uk_Q82JLqcF2tqE0Q.1602681816401.4ca4859861a64eeb3b090dacb828e491&_x_zm_rhtaid=84">String Functions</a></td>
      
  </tr>
+
+<tr>
+
+ <td><a href="https://drive.google.com/file/d/1um0BBueBzgHyx9WsWbIBxUUDELOG_Q1M/view">Book I wrote on Machine Learning</a></td>
+
+</tr>
+
+ 
  </table>
 
 # Recorded Classes
