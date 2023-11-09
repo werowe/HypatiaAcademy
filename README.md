@@ -67,7 +67,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/November_2_2023_dates_and_times.ipynb">Dates and Times</a>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb">Formatting Output</a></td>
 
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/7_july_2023_ticTacToe.ipynb">Tic Tac Toe</a>  
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/7_july_2023_ticTacToe.ipynb">Tic Tac Toe</a></td>  
   
 
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb">Working with Files</a></td>
