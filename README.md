@@ -108,7 +108,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 #Games
 
-<table>
+<table border="1">
 
 <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/rollDice.ipynb">Rolling Dice</a></td>
@@ -119,7 +119,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 </table>
 
 #Algorithms
-
+<table border="1">
+  
 <tr>
 
 <td><a href="https://docs.google.com/spreadsheets/d/1ckIQ-8qxSNhJm856xxLvpDQjkSnIAQMxPAhLhdoMJl8/edit?usp=sharing">Prime GCD Spreadsheet</a></td>
@@ -130,7 +131,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 </tr>
 
-   
+</table>
 
 
 # Numpy, Pandas, and Data Science
