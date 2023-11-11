@@ -25,9 +25,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <table border="1">
  <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/what%20is%20python.md">Why Use Python?  What is Python?</a></td> 
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/october_6_2023_api_introduction.ipynb">APIs</a></td> 
    
-
+ <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/if-then-else.ipynb">If-then-else</a></td>
    
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/functions-with-a-variable-number-of-arguments.ipynb">Functions with a Variable Number of Arguments</a></td> 
  </tr>
@@ -40,19 +39,21 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 </tr>
   
 <tr> 
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/october_6_2023_api_introduction.ipynb">APIs</a></td> 
 
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/String%20exercises%20II.ipynb">String Functions</a></td>
   
 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/decimal%20to%20hex.ipynb">Convert Decimal to Hex</a></td>
      
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/9-june-2023-Bin_to_Decimal.ipynb">Convert binary to decimal and decimal to binary</a></td>
+
      
 </tr>
    
 <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/27_june_2023_cyrillic_alphabet.ipynb"> Character Encoding</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb">Bits, Bytes, Hex, and ASCII characters</a></td>
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/9-june-2023-Bin_to_Decimal.ipynb">Convert binary to decimal and decimal to binary</a></td>
 </tr>
  
 <tr>
@@ -64,20 +65,14 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <tr>
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/November_2_2023_dates_and_times.ipynb">Dates and Times</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb">Formatting Output</a></td>
-
-  
-
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb">Working with Files</a></td>
-
+</tr>
  
-   
- </tr>
- 
-  <tr> 
+ <tr> 
 
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Class%20and%20objects.ipynb">Classes and Objects</a></td>
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/convertCustomerCSVtoJSON.py">CSV Reader Object</a></td>
-   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/if-then-else.ipynb">If-then-else</a></td>
+ 
  
  </tr>
   
