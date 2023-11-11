@@ -36,10 +36,11 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb">Functions</a></td> 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb">Lists</a></td> 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb"> Dictionaries</a></td>  
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py">Convert CSV to JSON</a></td> 
+
 </tr>
   
-   <tr> 
+<tr> 
+
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/String%20exercises%20II.ipynb">String Functions</a></td>
   
 
@@ -66,7 +67,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
   
 
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb">Working with Files</a></td>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb">Working with Files</a></td>
 
  
    
@@ -81,20 +82,14 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  </tr>
   
    <tr> 
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/APIs.ipynb">Using APIs</a></td>
  
  
      <tr> 
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_list_comprehensions_lambda_functions.ipynb">List Comprehensions and Lambda Functions</a></td>
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_regular_expressions.ipynb">Regular Expressions</a></td>
 
- 
 
  </tr>
-
-
-
- 
     
 </table>
 
@@ -127,6 +122,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb">Calculate Square Root Manually</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/26-may-2023-sorting-algorithms.ipynb">Sorting Algorithm</a></td>
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py">Convert CSV to JSON</a></td> 
 </tr>
 
 </table>
