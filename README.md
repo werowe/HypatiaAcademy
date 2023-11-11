@@ -18,16 +18,16 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 
 
-# Code
+ 
 
-## Tutorials and Lectures
+# Python Basic  
 
 <table border="1">
  <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/what%20is%20python.md">Why Use Python?  What is Python?</a></td> 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/october_6_2023_api_introduction.ipynb">APIs</a></td> 
    
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/factor_number.ipynb">Factor a number, determine if a number is Prime, and the Yield function</a></td> 
+
    
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/functions-with-a-variable-number-of-arguments.ipynb">Functions with a Variable Number of Arguments</a></td> 
  </tr>
@@ -59,7 +59,6 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/july_21_2023_sets.ipynb"> Sets</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Localization.ipynb">Language and Countries</a></td> 
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/rollDice.ipynb">Rolling Dice</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/sample-python-exam.pdf">Sample Python Certification Exam</a></td>
 </tr>
 
@@ -81,7 +80,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Class%20and%20objects.ipynb">Classes and Objects</a></td>
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/convertCustomerCSVtoJSON.py">CSV Reader Object</a></td>
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/if-then-else.ipynb">If-then-else</a></td>
-   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/13_june_2023_gcd.ipynb">Greatest Common Divisor</a></td>
+ 
  </tr>
   
    <tr> 
@@ -97,8 +96,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_list_comprehensions_lambda_functions.ipynb">List Comprehensions and Lambda Functions</a></td>
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_regular_expressions.ipynb">Regular Expressions</a></td>
 
-   <td><a href="https://docs.google.com/spreadsheets/d/1ckIQ-8qxSNhJm856xxLvpDQjkSnIAQMxPAhLhdoMJl8/edit?usp=sharing">Prime GCD Spreadsheet</a></td>
-
+ 
 
  </tr>
 
@@ -107,6 +105,33 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  
     
 </table>
+
+#Games
+
+<table>
+
+<tr>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/rollDice.ipynb">Rolling Dice</a></td>
+
+</tr>
+
+
+</table>
+
+#Algorithms
+
+<tr>
+
+<td><a href="https://docs.google.com/spreadsheets/d/1ckIQ-8qxSNhJm856xxLvpDQjkSnIAQMxPAhLhdoMJl8/edit?usp=sharing">Prime GCD Spreadsheet</a></td>
+ 
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/13_june_2023_gcd.ipynb">Greatest Common Divisor</a></td>
+
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/factor_number.ipynb">Factor a number, determine if a number is Prime, and the Yield function</a></td> 
+
+</tr>
+
+   
+
 
 # Numpy, Pandas, and Data Science
 
