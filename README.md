@@ -48,11 +48,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  
 <tr>
 
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Localization.ipynb">Language and Countries</a></td> 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/sample-python-exam.pdf">Sample Python Certification Exam</a></td>
-</tr>
-
-<tr>
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/November_2_2023_dates_and_times.ipynb">Dates and Times</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb">Formatting Output</a></td>
 
@@ -61,7 +57,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  <tr> 
 
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Class%20and%20objects.ipynb">Classes and Objects</a></td>
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/convertCustomerCSVtoJSON.py">CSV Reader Object</a></td>
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Localization.ipynb">Language and Countries</a></td> 
  
  
  </tr>
