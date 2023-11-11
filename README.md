@@ -17,10 +17,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 ![](https://github.com/werowe/HypatiaAcademy/blob/master/images/greek.png) [Class Notes in Greek](https://github.com/werowe/HypatiaAcademy/blob/master/greek/README.md)
 
 
-
- 
-
-# Python Basic  
+# Python Basics  
 
 <table border="1">
  <tr>
@@ -45,7 +42,6 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 </tr>
    
 
- 
 <tr>
 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/sample-python-exam.pdf">Sample Python Certification Exam</a></td>
@@ -81,7 +77,6 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/7_july_2023_ticTacToe.ipynb">Tic Tac Toe</a></td>  
 
 </tr>
-
 
 </table>
 
@@ -173,12 +168,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <tr>
  <td><a href="https://youtu.be/r7NW4C3yl64">Intro to APIs</a></td>
 
-
-     
  </tr>
-
-
-
  
  </table>
 
