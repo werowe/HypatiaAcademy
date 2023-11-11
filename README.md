@@ -44,7 +44,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/String%20exercises%20II.ipynb">String Functions</a></td>
   
 
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/decimal%20to%20hex.ipynb">Convert Decimal to Hex</a></td>
+
      
 
      
@@ -118,6 +118,10 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb">Calculate Square Root Manually</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/26-may-2023-sorting-algorithms.ipynb">Sorting Algorithm</a></td>
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py">Convert CSV to JSON</a></td> 
+</tr>
+
+<tr>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/decimal%20to%20hex.ipynb">Convert Decimal to Hex</a></td>
 </tr>
 
 </table>
