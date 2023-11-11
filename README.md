@@ -50,8 +50,6 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 </tr>
    
 <tr>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb">Calculate Square Root Manually</a></td>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/26-may-2023-sorting-algorithms.ipynb">Sorting Algorithm</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/27_june_2023_cyrillic_alphabet.ipynb"> Character Encoding</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb">Bits, Bytes, Hex, and ASCII characters</a></td>
 </tr>
@@ -66,7 +64,6 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/November_2_2023_dates_and_times.ipynb">Dates and Times</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb">Formatting Output</a></td>
 
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/7_july_2023_ticTacToe.ipynb">Tic Tac Toe</a></td>  
   
 
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb">Working with Files</a></td>
@@ -85,12 +82,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   
    <tr> 
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/APIs.ipynb">Using APIs</a></td>
-   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/postgreSQL.md">SQL Databases</a></td>
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/bashShellCommands.md">Bash Shell commands</a></td>
-  
-   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/encryption.ipynb">Encryption</a></td>
- </tr>
-
+ 
  
      <tr> 
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_list_comprehensions_lambda_functions.ipynb">List Comprehensions and Lambda Functions</a></td>
@@ -106,19 +98,20 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
     
 </table>
 
-#Games
+# Games
 
 <table border="1">
 
 <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/rollDice.ipynb">Rolling Dice</a></td>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/7_july_2023_ticTacToe.ipynb">Tic Tac Toe</a></td>  
 
 </tr>
 
 
 </table>
 
-#Algorithms
+# Algorithms
 <table border="1">
   
 <tr>
@@ -129,6 +122,11 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/factor_number.ipynb">Factor a number, determine if a number is Prime, and the Yield function</a></td> 
 
+</tr>
+
+<tr>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb">Calculate Square Root Manually</a></td>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/26-may-2023-sorting-algorithms.ipynb">Sorting Algorithm</a></td>
 </tr>
 
 </table>
