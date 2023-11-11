@@ -117,25 +117,30 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
     
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/vaccines%20versus%20IQ%20linear%20regression.ipynb">Is IQ related to COVID Vaccination Rate?</a></td>
 
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/Paphosweather.ipynb">Is there Global Warming in Cyprus?</a></td>
+ 
 
 </tr>
 
   <tr> 
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/numpy.ipynb">Numpy Introduction</a></td>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/14%20july%202021%20numpy%20dimensions%20and%20slicing.ipynb">Slicing Numpy Arrays</a></td>
- <td><a href="https://docs.google.com/spreadsheets/d/1-IFkDXQfhpKuUXGRNqLGaHmnELe2kYQZAm487fhz1WI/edit?usp=sharing">Linear Regression in Google Sheets</a></td>
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/linearRegressionwithScikit-Learn.ipynb">Linear Regression with scikit-learn</a></td>
+     <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/Paphosweather.ipynb">Is there Global Warming in Cyprus?</a></td>
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/14%20july%202021%20numpy%20dimensions%20and%20slicing.ipynb">Slicing Numpy Arrays</a></td>
+   <td><a href="https://docs.google.com/spreadsheets/d/1-IFkDXQfhpKuUXGRNqLGaHmnELe2kYQZAm487fhz1WI/edit?usp=sharing">Linear Regression in Google Sheets</a></td>
+ 
  </tr>
 
+<tr>
+
+    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/linearRegressionwithScikit-Learn.ipynb">Linear Regression with scikit-learn</a></td>
+     <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb">How hot is Paphos in July?</a></td>
+</tr>
+
+
   <tr> 
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb">How hot is Paphos in July?</a></td>
  
-
   
-<td><a href="https://docs.google.com/spreadsheets/d/1Ni3RoBJ_f2ABnMYY2yJGuvPD7z-UeUezsFAcL78yIoo/edit?usp=sharing">Normalize data, std, mean, z-score in Google Sheets</a></td>
+  <td><a href="https://docs.google.com/spreadsheets/d/1Ni3RoBJ_f2ABnMYY2yJGuvPD7z-UeUezsFAcL78yIoo/edit?usp=sharing">Normalize data, std, mean, z-score in Google Sheets</a></td>
 
-<td><a href="https://bashtage.github.io/kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf">Python for Stats and Data Science text book </a></td>
+  <td><a href="https://bashtage.github.io/kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf">Python for Stats and Data Science text book </a></td>
 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/stats/october_27_2023_poisson_distribution.ipynb">Poisson Distribution</a></td>
  
