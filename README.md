@@ -53,7 +53,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb">Calculate Square Root Manually</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/26-may-2023-sorting-algorithms.ipynb">Sorting Algorithm</a></td>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/27_june_2023_cyrillic_alphabet.ipynb"> Character Encoding</a></td>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb">Bits and Bytes</a></td>
+<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb">Bits, Bytes, Hex, and ASCII characters</a></td>
 </tr>
  
 <tr>
