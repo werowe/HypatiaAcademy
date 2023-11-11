@@ -116,7 +116,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 <table border="1">
  <tr>
-   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_tutorial_start.ipynb">Numpy Start</a></td> 
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_tutorial_start.ipynb">Numpy Introduction</a></td> 
 
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/Pandas%20Introduction.ipynb">Panda Introduction</a></td>
     
