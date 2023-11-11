@@ -145,6 +145,11 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/stats/october_27_2023_poisson_distribution.ipynb">Poisson Distribution</a></td>
  
  </tr>
+ <tr>
+
+ <td><a href="https://drive.google.com/file/d/1um0BBueBzgHyx9WsWbIBxUUDELOG_Q1M/view">Book I wrote on Machine Learning</a></td>
+
+</tr>
  
 </table>
 
@@ -172,11 +177,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
      
  </tr>
 
-<tr>
 
- <td><a href="https://drive.google.com/file/d/1um0BBueBzgHyx9WsWbIBxUUDELOG_Q1M/view">Book I wrote on Machine Learning</a></td>
-
-</tr>
 
  
  </table>
