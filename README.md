@@ -25,10 +25,10 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <table border="1">
  <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/what%20is%20python.md">Why Use Python?  What is Python?</a></td> 
-   
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/if-then-else.ipynb">If-then-else</a></td>
+ <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/july_21_2023_sets.ipynb"> Sets</a></td>
    
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/functions-with-a-variable-number-of-arguments.ipynb">Functions with a Variable Number of Arguments</a></td> 
+ 
  </tr>
  
  <tr>
@@ -51,7 +51,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 </tr>
  
 <tr>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/july_21_2023_sets.ipynb"> Sets</a></td>
+
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Localization.ipynb">Language and Countries</a></td> 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/sample-python-exam.pdf">Sample Python Certification Exam</a></td>
 </tr>
