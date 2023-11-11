@@ -126,6 +126,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <tr>
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/linearRegressionwithScikit-Learn.ipynb">Linear Regression with scikit-learn</a></td>
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb">How hot is Paphos in July?</a></td>
+   <td><a href="https://drive.google.com/file/d/1um0BBueBzgHyx9WsWbIBxUUDELOG_Q1M/view">Book I wrote on Machine Learning</a></td>
 </tr>
 
 
@@ -138,11 +139,11 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  
  </tr>
  
- <tr>
+ 
 
- <td><a href="https://drive.google.com/file/d/1um0BBueBzgHyx9WsWbIBxUUDELOG_Q1M/view">Book I wrote on Machine Learning</a></td>
 
-</tr>
+
+ 
  
 </table>
 
