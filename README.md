@@ -22,7 +22,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <table border="1">
  <tr>
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/what%20is%20python.md">Why Use Python?  What is Python?</a></td> 
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/if-then-else.ipynb">If-then-else</a></td>
+ <td><a href="https://github.com/werowe/HypatiaAcademy/blob/0978ae18babfcb5a1be3496f3458b157e61f2533/class/25_april_2023_intro.ipynb">Python Introduction</a></td>
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/july_21_2023_sets.ipynb"> Sets</a></td>
    
  
