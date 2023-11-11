@@ -86,22 +86,20 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <tr>
 
 <td><a href="https://docs.google.com/spreadsheets/d/1ckIQ-8qxSNhJm856xxLvpDQjkSnIAQMxPAhLhdoMJl8/edit?usp=sharing">Prime GCD Spreadsheet</a></td>
- 
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/13_june_2023_gcd.ipynb">Greatest Common Divisor</a></td>
-
 <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/factor_number.ipynb">Factor a number, determine if a number is Prime, and the Yield function</a></td> 
 
 </tr>
 
 <tr>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb">Calculate Square Root Manually</a></td>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/26-may-2023-sorting-algorithms.ipynb">Sorting Algorithm</a></td>
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb">Calculate Square Root Manually</a></td>
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/26-may-2023-sorting-algorithms.ipynb">Sorting Algorithm</a></td>
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py">Convert CSV to JSON</a></td> 
 </tr>
 
 <tr>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/decimal%20to%20hex.ipynb">Convert Decimal to Hex</a></td>
-    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/9-june-2023-Bin_to_Decimal.ipynb">Convert binary to decimal and decimal to binary</a></td>
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/decimal%20to%20hex.ipynb">Convert Decimal to Hex</a></td>
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/9-june-2023-Bin_to_Decimal.ipynb">Convert binary to decimal and decimal to binary</a></td>
 </tr>
 
 </table>
@@ -112,10 +110,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <table border="1">
  <tr>
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_tutorial_start.ipynb">Numpy Introduction</a></td> 
-
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/Pandas%20Introduction.ipynb">Panda Introduction</a></td>
-    
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/vaccines%20versus%20IQ%20linear%20regression.ipynb">Is IQ related to COVID Vaccination Rate?</a></td>
+    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/vaccines%20versus%20IQ%20linear%20regression.ipynb">Is IQ related to COVID Vaccination Rate?</a></td>
 
 
 </tr>
@@ -128,7 +124,6 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  </tr>
 
 <tr>
-
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/linearRegressionwithScikit-Learn.ipynb">Linear Regression with scikit-learn</a></td>
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb">How hot is Paphos in July?</a></td>
 </tr>
