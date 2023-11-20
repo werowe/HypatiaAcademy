@@ -169,7 +169,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  
   <tr>
  <td><a href="https://youtu.be/r7NW4C3yl64">Intro to APIs</a></td>
- <td><a href="https://www.youtube.com/watch?v=0UW3MdDXql0">Objects and Classes</a></td>
+ 
 
  </tr>
  
@@ -178,18 +178,15 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 # Recorded Classes
 <table border="1">
   <tr>
-  <td><a href="https://www.youtube.com/watch?v=gtabHRGQmU0">Dictionaries and Sets</a></td>
- 
+    <td><a href="https://www.youtube.com/watch?v=gtabHRGQmU0">Dictionaries and Sets</a></td>
+    <td><a href="https://www.youtube.com/watch?v=pIssp53kA3s">APIs</a></td>
+    <td><a href="https://www.youtube.com/watch?v=k6HjYoYrv9g">Regular Expressions</a></td>
+     <td><a href="https://www.youtube.com/watch?v=n49HUEBaXSU">Dates and Times</a></td>
+   </tr>
 
- 
-  <td><a href="https://www.youtube.com/watch?v=pIssp53kA3s">APIs</a></td>
-
-   <td><a href="https://www.youtube.com/watch?v=k6HjYoYrv9g">Regular Expressions</a></td>
-
-
- <td><a href="https://www.youtube.com/watch?v=n49HUEBaXSU">Dates and Times</a></td>
-   
- </tr>
+  <tr>
+     <td><a href="https://www.youtube.com/watch?v=0UW3MdDXql0">Objects and Classes</a></td>
+  </tr>
  
  </table>
   
