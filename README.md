@@ -65,6 +65,11 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_list_comprehensions_lambda_functions.ipynb">List Comprehensions and Lambda Functions</a></td>
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_regular_expressions.ipynb">Regular Expressions</a></td>
  </tr>
+
+
+ <tr> 
+    <a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/novembe4_28_2023_handling_errors.ipynb">Handling Errors</a></td>
+ </tr>
     
 </table>
 
