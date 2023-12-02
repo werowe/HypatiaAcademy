@@ -191,6 +191,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
   <tr>
      <td><a href="https://www.youtube.com/watch?v=0UW3MdDXql0">Objects and Classes</a></td>
+    <td><a href="https://www.youtube.com/watch?v=qKIIzEb3ucA">Lambda Functions, List Compressions, Map Function</a></td>
   </tr>
  
  </table>
