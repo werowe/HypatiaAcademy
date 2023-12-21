@@ -150,8 +150,10 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/10th_october_zscore.ipynb">Normalize Data with z-Score</td>
  
  </tr>
- 
- 
+     <tr> 
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/22_december_sklearn_logisticregression.ipynb">Income Logistic Regression scikit-learn</td>
+</tr>
+
  
 </table>
 
