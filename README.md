@@ -199,7 +199,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 
 # Recorded Classes in Data Science
-[Unit Distribution and Histogram](https://youtu.be/8vL_3pQ_-VE)
+[Uniform Distribution and Histogram](https://youtu.be/8vL_3pQ_-VE)
   
  
 
