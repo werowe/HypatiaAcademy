@@ -195,6 +195,12 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
      <td><a href="https://www.youtube.com/watch?v=0UW3MdDXql0">Objects and Classes</a></td>
     <td><a href="https://www.youtube.com/watch?v=qKIIzEb3ucA">Lambda Functions, List Compressions, Map Function</a></td>
   </tr>
+
+
+
+# Recorded Classes in Data Science
+[Unit Distribution and Histogram](https://youtu.be/8vL_3pQ_-VE)
+  
  
  </table>
   
