@@ -200,6 +200,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 # Recorded Classes in Data Science
 [Uniform Distribution and Histogram](https://youtu.be/8vL_3pQ_-VE)
+[Explain Why a Histogram of Normally-distributed data looks like a normal curve](https://youtu.be/JOCBil9YwyA)
   
  
 
