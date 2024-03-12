@@ -197,6 +197,9 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   </tr>
  </table>
 
+# Numpy Operations
+* [slicing arrays](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/2024_03_12_numpy_slicing.ipynb)
+
 
 # Recorded Classes in Data Science
 * [Normal and Standard Distribution](https://www.youtube.com/watch?v=wPIJ7_0Ix1g)
