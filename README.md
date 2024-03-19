@@ -178,7 +178,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  
   <tr>
  <td><a href="https://youtu.be/r7NW4C3yl64">Intro to APIs</a></td>
- 
+  <td><a href="https://www.youtube.com/watch?v=CgA0EQjkxlk">Understanding Numpy Dimensions, Shape, and Slicing Operations</a></td>
 
  </tr>
  
