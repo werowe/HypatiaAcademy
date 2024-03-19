@@ -198,8 +198,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  </table>
 
 # Numpy Operations
-* [slicing arrays](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/2024_03_12_numpy_slicing.ipynb)
-* [more slicing operations](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/2023_03_15_more_slicing_lecture.ipynb)
+* [Numpy dimensions, shape, and slicing](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_dimensions_and_arrays_video.ipynb) 
+ 
 
 
 # Recorded Classes in Data Science
