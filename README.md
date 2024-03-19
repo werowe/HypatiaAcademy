@@ -115,7 +115,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 <table border="1">
  <tr>
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_tutorial_start.ipynb">Numpy Introduction</a></td> 
-    td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_dimensions_and_arrays_video.ipynb">Numpy dimension, shape, and slicing</a></td> 
+   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_dimensions_and_arrays_video.ipynb">Numpy dimension, shape, and slicing</a></td> 
    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/Pandas%20Introduction.ipynb">Panda Introduction</a></td>
    
 
