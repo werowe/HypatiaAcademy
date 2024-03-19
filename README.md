@@ -196,16 +196,13 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <tr>
      <td><a href="https://www.youtube.com/watch?v=0UW3MdDXql0">Objects and Classes</a></td>
     <td><a href="https://www.youtube.com/watch?v=qKIIzEb3ucA">Lambda Functions, List Compressions, Map Function</a></td>
+    <td><a href="https://www.youtube.com/watch?v=wPIJ7_0Ix1g"></a>Normal and Standard Distribution</td>
   </tr>
  </table>
 
  
 
  
-
-
-# Recorded Classes in Data Science
-* [Normal and Standard Distribution](https://www.youtube.com/watch?v=wPIJ7_0Ix1g)
   
  
 
