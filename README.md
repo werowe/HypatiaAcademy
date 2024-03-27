@@ -161,7 +161,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 # Charting
 
 * [Charting Basics: Figures](https://github.com/werowe/HypatiaAcademy/blob/master/charting/2023_03_19_charting.ipynb)
-* [Heatmap](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2023_03_26_charting_heatmap_barchart.ipynb)
+* [Heatmap](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2023_03_26_charting_heatmap.ipynb)
 * [Bar Chart and Histogram](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2023-03-09-histogram-barchart.ipynb)
  
 
