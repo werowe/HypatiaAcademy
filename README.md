@@ -186,6 +186,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   <td><a href="https://www.youtube.com/watch?v=CgA0EQjkxlk">Understanding Numpy Dimensions, Shape, and Slicing Operations</a>
 
   <td><a href="https://youtu.be/SjaEyATOeDo">Histograms and Bar Charts</a></td>
+
+    <td><a href="https://www.youtube.com/watch?v=TJWUugGb3B4">How to use ChatGPT</a></td>
   </td>
 
  </tr>
