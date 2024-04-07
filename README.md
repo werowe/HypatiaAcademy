@@ -114,6 +114,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 * [Pandas Official User Guide](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/Pandas_Introduction_Video.ipynb)
 * [Pandas Introduction](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/Pandas_Introduction_Video.ipynb)
+* [Introductory Pandas Video](https://youtu.be/3QSzdL6ikLI)
   
 
 # Numpy, Pandas, and Data Science
