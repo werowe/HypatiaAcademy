@@ -110,6 +110,11 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 </table>
 
 
+# Pandas 
+
+* [User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
+  
+
 # Numpy, Pandas, and Data Science
 
 <table border="1">
