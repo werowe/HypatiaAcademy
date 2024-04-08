@@ -44,28 +44,17 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
  
 # Algorithms
-<table border="1">
-  
-<tr>
+ 
 
-<td><a href="https://docs.google.com/spreadsheets/d/1ckIQ-8qxSNhJm856xxLvpDQjkSnIAQMxPAhLhdoMJl8/edit?usp=sharing">Prime GCD Spreadsheet</a></td>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/13_june_2023_gcd.ipynb">Greatest Common Divisor</a></td>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/factor_number.ipynb">Factor a number, determine if a number is Prime, and the Yield function</a></td> 
-
-</tr>
-
-<tr>
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb">Calculate Square Root Manually</a></td>
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/26-may-2023-sorting-algorithms.ipynb">Sorting Algorithm</a></td>
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py">Convert CSV to JSON</a></td> 
-</tr>
-
-<tr>
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/decimal%20to%20hex.ipynb">Convert Decimal to Hex</a></td>
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/9-june-2023-Bin_to_Decimal.ipynb">Convert binary to decimal and decimal to binary</a></td>
-</tr>
-
-</table>
+* [Prime GCD Spreadsheet](https://docs.google.com/spreadsheets/d/1ckIQ-8qxSNhJm856xxLvpDQjkSnIAQMxPAhLhdoMJl8/edit?usp=sharing)
+* [Greatest Common Divisor](https://github.com/werowe/HypatiaAcademy/blob/master/class/13_june_2023_gcd.ipynb)
+* [Factor a number, determine if a number is Prime, and the Yield function](https://github.com/werowe/HypatiaAcademy/blob/master/class/factor_number.ipynb)
+* [Calculate Square Root Manually](https://github.com/werowe/HypatiaAcademy/blob/master/algorithms/squareRoot.ipynb)
+* [Sorting Algorithm](https://github.com/werowe/HypatiaAcademy/blob/master/class/26-may-2023-sorting-algorithms.ipynb)
+ * [Convert CSV to JSON](https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py)
+ * [Convert Decimal to Hex](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/decimal%20to%20hex.ipynb)
+* [Convert binary to decimal and decimal to binary](https://github.com/werowe/HypatiaAcademy/blob/master/class/9-june-2023-Bin_to_Decimal.ipynb)
+ 
 
 
 # Pandas 
