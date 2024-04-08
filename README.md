@@ -15,7 +15,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 # Table of Contents
 |   |   |
 | ----------- | ----------- |
-| Python Basics | Videos: Python Basics   |
+| [Python Basics](#python-basics) | Videos: Python Basics   |
 | Algorithms | Videos: Algorithms|
 | Pandas | Videos: Pandas |
 | Numpy | Videos: Numpy |
