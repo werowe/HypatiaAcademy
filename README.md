@@ -14,16 +14,10 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 # Table of Contents
 |   |   |
-| ----------- | ----------- |
-| [Python Basics](#python-basics) | Videos: Python Basics   |
-| Algorithms | Videos: Algorithms|
-| Pandas | Videos: Pandas |
-| Numpy | Videos: Numpy |
-| Statistics | Videos: Statistics |
-| Charting | |
-| ML: Linear and Logistic Regression | |
-| Data Science Analysis | |
-| Games |  |
+| ----------- | ----------- | ---------- |
+| [Python Basics](#python-basics) |  [Algorithms](#algorithms) |   Pandas | 
+| Numpy |  Statistics  | Charting | 
+| ML: Linear and Logistic Regression | Data Science Analysis | Games |  
 
 
 # Python Basics  
