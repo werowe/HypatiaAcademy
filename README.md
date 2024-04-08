@@ -95,34 +95,30 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [scikit-learn Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/November_7_scikit_learn_linear_regression.ipynb)
 *  [Income Logistic Regression scikit-learn](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/22_december_sklearn_logisticregression.ipynb)
 
-# Video Tutorials
-<table border="1">
-  <tr>
- <td><a href="https://youtu.be/oVk6z4sfzAQ">Python Data Types</a></td>
- <td><a href="https://youtu.be/oXvs7cZ84PQ">Python Editors and Interpreters</a></td>
+## Videos: Basic Python 
+ * [How to use ChatGPT](https://www.youtube.com/TJWUugGb3B4)
+ * [Python Data Types](https://youtu.be/oVk6z4sfzAQ)
+* [Python Editors and Interpreters](https://youtu.be/oXvs7cZ84PQ)
+*  [Character Sets and Character Encoding](https://youtu.be/nVdgxm0ah1c)
+* [Functions](https://youtu.be/N3iFuashvjM)
+* [Sets and Tuples](https://www.youtube.com/watch?v=qonWnyqBalg)
+* [Class and Objects](https://youtu.be/DLM9lD0yUdg) 
+* [Intro to APIs](https://youtu.be/r7NW4C3yl64)
+
+## Videos: Algorithms
  <td><a href="https://youtu.be/6u6oOUiia2Q">Calculate Square Roots</a></td>
  <td><a href="https://www.youtube.com/watch?v=6T6VNN8Qs4I">Learning to Sort</a></td>
- </tr>  
-  
- <tr>
- <td><a href="https://youtu.be/nVdgxm0ah1c">Character Sets and Character Encoding</a></td>
- <td><a href="https://youtu.be/N3iFuashvjM">Functions</a></td>
- <td><a href="https://www.youtube.com/watch?v=qonWnyqBalg">Sets and Tuples</a></td>
- <td><a href="https://youtu.be/DLM9lD0yUdg">Class and Objects</a></td>     
- </tr>
- 
-  <tr>
- <td><a href="https://youtu.be/r7NW4C3yl64">Intro to APIs</a></td>
-  <td><a href="https://www.youtube.com/watch?v=CgA0EQjkxlk">Understanding Numpy Dimensions, Shape, and Slicing Operations</a>
-
-  <td><a href="https://youtu.be/SjaEyATOeDo">Histograms and Bar Charts</a></td>
-
-  <td><a href="https://www.youtube.com/TJWUugGb3B4">How to use ChatGPT</a></td>
  
 
- </tr>
+
+## Videos: Numpy
+* [Understanding Numpy Dimensions, Shape, and Slicing Operations](https://www.youtube.com/watch?v=CgA0EQjkxlk)
+
+## Videos: Statistics
+* [>Histograms and Bar Charts](https://youtu.be/SjaEyATOeDo)
+
  
- </table>
+ 
 
 # Recorded Classes
 <table border="1">
