@@ -76,10 +76,9 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 # Statistics
 * [The Normal Curve](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/october-20-2023-normal-curve--and-weibull-distribution.ipynb)
-
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/10th_october_zscore.ipynb">Normalize Data with z-Score</td>
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/stats/october_27_2023_poisson_distribution.ipynb">Poisson Distribution</a></td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1Ni3RoBJ_f2ABnMYY2yJGuvPD7z-UeUezsFAcL78yIoo/edit?usp=sharing">Normalize data, std, mean, z-score in Google Sheets</a></td>
+* [Normalize Data with z-Score](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/10th_october_zscore.ipynb)
+* [Poisson Distribution](https://github.com/werowe/HypatiaAcademy/blob/master/stats/october_27_2023_poisson_distribution.ipynb)
+* [Normalize data, std, mean, z-score in Google Sheets](https://docs.google.com/spreadsheets/d/1Ni3RoBJ_f2ABnMYY2yJGuvPD7z-UeUezsFAcL78yIoo/edit?usp=sharing)
     
 # Charting
 
@@ -87,15 +86,13 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [Heatmap](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2023_03_26_charting_heatmap.ipynb)
 * [Bar Chart and Histogram](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2023-03-09-histogram-barchart.ipynb)
 
-# Machine Learning
+# ML: Linear and Logistic Regression
 
 * [Book I wrote on Machine Learning](https://drive.google.com/file/d/1um0BBueBzgHyx9WsWbIBxUUDELOG_Q1M/view)
 * [Linear Regression in Google Sheets](https://docs.google.com/spreadsheets/d/1-IFkDXQfhpKuUXGRNqLGaHmnELe2kYQZAm487fhz1WI/edit?usp=sharing)
-*  
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/linearRegressionwithScikit-Learn.ipynb">Linear Regression with scikit-learn</a></td>
-
-     <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/November_7_scikit_learn_linear_regression.ipynb">scikit-learn Linear Regression</td>
-      *  [Income Logistic Regression scikit-learn](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/22_december_sklearn_logisticregression.ipynb)
+*  [Linear Regression with scikit-learn](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/linearRegressionwithScikit-Learn.ipynb)
+* [scikit-learn Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/November_7_scikit_learn_linear_regression.ipynb)
+*  [Income Logistic Regression scikit-learn](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/22_december_sklearn_logisticregression.ipynb)
 
 # Video Tutorials
 <table border="1">
