@@ -13,25 +13,15 @@ We teach Python programming to children ages 13 to 18.  But adults can use this 
 See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA) as well.
 
 
-
-
-
 # Python Basics  
 
- |   |   |
-| ----------- | ----------- |
- 
-| Paragraph |  
-
 * [Why Use Python?  What is Python?](https://github.com/werowe/HypatiaAcademy/blob/master/class/what%20is%20python.md)
-
-  |
-
+ 
 * [Python Introduction](https://github.com/werowe/HypatiaAcademy/blob/0978ae18babfcb5a1be3496f3458b157e61f2533/class/25_april_2023_intro.ipynb)
   
 * [Sets](https://github.com/werowe/HypatiaAcademy/blob/master/class/july_21_2023_sets.ipynb)
    
- 
+
 * [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb)
   
 * [Lists](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb)
