@@ -18,8 +18,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 | [Python Basics](#python-basics) |  [Algorithms](#algorithms) |
 | [Pandas](#pandas) |  [Numpy](#numpy) |  
 | [Statistics](#statistics)  | [Charting](#charting) | 
-| Linear and Logistic Regression | Data Science Analysis | 
-| Games | |   
+| [Linear and Logistic Regression](#linear-and-logistic-regression) | [Data Science Analysis](#data-science-analysis) | 
+| [Games](#games) | |   
 
 
 # Python Basics  
