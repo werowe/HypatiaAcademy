@@ -45,7 +45,6 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  
 # Algorithms
  
-
 * [Prime GCD Spreadsheet](https://docs.google.com/spreadsheets/d/1ckIQ-8qxSNhJm856xxLvpDQjkSnIAQMxPAhLhdoMJl8/edit?usp=sharing)
 * [Greatest Common Divisor](https://github.com/werowe/HypatiaAcademy/blob/master/class/13_june_2023_gcd.ipynb)
 * [Factor a number, determine if a number is Prime, and the Yield function](https://github.com/werowe/HypatiaAcademy/blob/master/class/factor_number.ipynb)
@@ -56,7 +55,6 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [Convert binary to decimal and decimal to binary](https://github.com/werowe/HypatiaAcademy/blob/master/class/9-june-2023-Bin_to_Decimal.ipynb)
  
 
-
 # Pandas 
 
 * [Pandas Official User Guide](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/Pandas_Introduction_Video.ipynb)
@@ -64,58 +62,40 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [Introductory Pandas Video](https://youtu.be/3QSzdL6ikLI)
   
 
-# Numpy, Pandas, and Data Science
+# Numpy 
 
-<table border="1">
- <tr>
-   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_tutorial_start.ipynb">Numpy Introduction</a></td> 
-   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_dimensions_and_arrays_video.ipynb">Numpy dimension, shape, and slicing</a></td> 
-  </td>
-  
-</tr>
+* [Numpy Introduction](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_tutorial_start.ipynb)
+* [Numpy dimension, shape, and slicing](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_dimensions_and_arrays_video.ipynb)
+* [Slicing Numpy Arrays](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/14%20july%202021%20numpy%20dimensions%20and%20slicing.ipynb)
 
-<tr> 
-    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/assignment/Paphosweather.ipynb">Is there Global Warming in Cyprus?</a></td>
-    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/14%20july%202021%20numpy%20dimensions%20and%20slicing.ipynb">Slicing Numpy Arrays</a></td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1-IFkDXQfhpKuUXGRNqLGaHmnELe2kYQZAm487fhz1WI/edit?usp=sharing">Linear Regression in Google Sheets</a></td>
  
- </tr>
+# Data Science Analysis
+ * [Is IQ related to COVID Vaccination Rate?](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/vaccines%20versus%20IQ%20linear%20regression.ipynb)
+ *  [Is there Global Warming in Cyprus?](https://github.com/werowe/HypatiaAcademy/blob/master/assignment/Paphosweather.ipynb)
+ *  [How hot is Paphos in July?](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb)
 
-<tr>
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/linearRegressionwithScikit-Learn.ipynb">Linear Regression with scikit-learn</a></td>
-   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb">How hot is Paphos in July?</a></td>
-   <td><a href="https://drive.google.com/file/d/1um0BBueBzgHyx9WsWbIBxUUDELOG_Q1M/view">Book I wrote on Machine Learning</a></td>
-</tr>
+# Statistics
+* [The Normal Curve](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/october-20-2023-normal-curve--and-weibull-distribution.ipynb)
 
-
-  <tr> 
-  <td><a href="https://docs.google.com/spreadsheets/d/1Ni3RoBJ_f2ABnMYY2yJGuvPD7z-UeUezsFAcL78yIoo/edit?usp=sharing">Normalize data, std, mean, z-score in Google Sheets</a></td>
-
-  <td><a href="https://bashtage.github.io/kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf">Python for Stats and Data Science text book </a></td>
-
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/stats/october_27_2023_poisson_distribution.ipynb">Poisson Distribution</a></td>
- 
- </tr>
- 
-  <tr> 
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/october-20-2023-normal-curve--and-weibull-distribution.ipynb">The Normal Curve</td>
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/November_7_scikit_learn_linear_regression.ipynb">scikit-learn Linear Regression</td>
   <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/10th_october_zscore.ipynb">Normalize Data with z-Score</td>
- 
- </tr>
-     <tr> 
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/22_december_sklearn_logisticregression.ipynb">Income Logistic Regression scikit-learn</td>
-     <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/vaccines%20versus%20IQ%20linear%20regression.ipynb">Is IQ related to COVID Vaccination Rate?</a></td>
-</tr>
-
-</table>
-
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/stats/october_27_2023_poisson_distribution.ipynb">Poisson Distribution</a></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1Ni3RoBJ_f2ABnMYY2yJGuvPD7z-UeUezsFAcL78yIoo/edit?usp=sharing">Normalize data, std, mean, z-score in Google Sheets</a></td>
+    
 # Charting
 
 * [Charting Basics: Figures](https://github.com/werowe/HypatiaAcademy/blob/master/charting/2023_03_19_charting.ipynb)
 * [Heatmap](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2023_03_26_charting_heatmap.ipynb)
 * [Bar Chart and Histogram](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2023-03-09-histogram-barchart.ipynb)
- 
+
+# Machine Learning
+
+* [Book I wrote on Machine Learning](https://drive.google.com/file/d/1um0BBueBzgHyx9WsWbIBxUUDELOG_Q1M/view)
+* [Linear Regression in Google Sheets](https://docs.google.com/spreadsheets/d/1-IFkDXQfhpKuUXGRNqLGaHmnELe2kYQZAm487fhz1WI/edit?usp=sharing)
+*  
+  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/linearRegressionwithScikit-Learn.ipynb">Linear Regression with scikit-learn</a></td>
+
+     <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/numpy/November_7_scikit_learn_linear_regression.ipynb">scikit-learn Linear Regression</td>
+      *  [Income Logistic Regression scikit-learn](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/22_december_sklearn_logisticregression.ipynb)
 
 # Video Tutorials
 <table border="1">
