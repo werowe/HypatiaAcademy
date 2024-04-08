@@ -13,65 +13,52 @@ We teach Python programming to children ages 13 to 18.  But adults can use this 
 See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA) as well.
 
 
-# Ελληνικά
-![](https://github.com/werowe/HypatiaAcademy/blob/master/images/greek.png) [Class Notes in Greek](https://github.com/werowe/HypatiaAcademy/blob/master/greek/README.md)
+
 
 
 # Python Basics  
 
-<table border="1">
- <tr>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/what%20is%20python.md">Why Use Python?  What is Python?</a></td> 
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/0978ae18babfcb5a1be3496f3458b157e61f2533/class/25_april_2023_intro.ipynb">Python Introduction</a></td>
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/july_21_2023_sets.ipynb"> Sets</a></td>
+ 
+
+* [Why Use Python?  What is Python?](https://github.com/werowe/HypatiaAcademy/blob/master/class/what%20is%20python.md)
+
+* [Python Introduction]https://github.com/werowe/HypatiaAcademy/blob/0978ae18babfcb5a1be3496f3458b157e61f2533/class/25_april_2023_intro.ipynb)
+* [Sets](https://github.com/werowe/HypatiaAcademy/blob/master/class/july_21_2023_sets.ipynb)
    
  
- </tr>
- 
- <tr>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb">Functions</a></td> 
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb">Lists</a></td> 
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb"> Dictionaries</a></td>  
-
-</tr>
+* [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb)
+* [Lists](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb)
   
-<tr> 
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/october_6_2023_api_introduction.ipynb">APIs</a></td> 
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/String%20exercises%20II.ipynb">String Functions</a></td>
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb">Working with Files</a></td>   
-</tr>
+*[Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb)
+
+* [API](https://github.com/werowe/HypatiaAcademy/blob/master/class/october_6_2023_api_introduction.ipynb)
+* [String Functions](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/String%20exercises%20II.ipynb)
+  
+ * [Working with Files](https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb)
    
 
-<tr>
-
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/sample-python-exam.pdf">Sample Python Certification Exam</a></td>
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/November_2_2023_dates_and_times.ipynb">Dates and Times</a></td>
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb">Formatting Output</a></td>
-
-</tr>
- 
- <tr> 
-
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Class%20and%20objects.ipynb">Classes and Objects</a></td>
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/Localization.ipynb">Language and Countries</a></td> 
-
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/27_june_2023_cyrillic_alphabet.ipynb"> Character Encoding</a></td>
-
-</tr>
+* [Sample Python Certification Exam](https://github.com/werowe/HypatiaAcademy/blob/master/class/sample-python-exam.pdf)
   
- <tr> 
-<td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb">Bits, Bytes, Hex, and ASCII characters</a></td>
+* [Dates and Times](https://github.com/werowe/HypatiaAcademy/blob/master/class/November_2_2023_dates_and_times.ipynb)
 
- <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_list_comprehensions_lambda_functions.ipynb">List Comprehensions, Lambda Functions, Map function</a></td>
-  <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_regular_expressions.ipynb">Regular Expressions</a></td>
- </tr>
+* [Formatting Output](https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb)
+
+ * [Classes and Objects](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Class%20and%20objects.ipynb)
+
+* [Language and Countries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Localization.ipynb)
+
+* [Character Encoding](https://github.com/werowe/HypatiaAcademy/blob/master/class/27_june_2023_cyrillic_alphabet.ipynb)
+
+* [Bits, Bytes, Hex, and ASCII characters](https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb)
+
+* [List Comprehensions, Lambda Functions, Map function](https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_list_comprehensions_lambda_functions.ipynb)
+  
+ * [Regular Expressions](https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_regular_expressions.ipynb)
 
 
- <tr> 
-    <td><a href="https://github.com/werowe/HypatiaAcademy/blob/master/class/novembe4_28_2023_handling_errors.ipynb">Handling Errors</a></td>
- </tr>
+* [Handling Errors](https://github.com/werowe/HypatiaAcademy/blob/master/class/novembe4_28_2023_handling_errors.ipynb)
     
-</table>
+ 
 
 # Games
 
