@@ -14,6 +14,10 @@ We teach Python programming to children ages 13 to 18.  But adults can use this 
 
 See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA) as well.
 
+> **Contact**
+>
+> Contact Walker Rowe at werowe@walkerrowe.com or +357 97629604
+
 # Table of Contents
 |   |   | 
 | --- | --- |  
