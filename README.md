@@ -6,7 +6,20 @@
   </tr>
 </table>
 
-Here are lecture notes, videos, tutorials, and solutions to coding exercises for [Hypatia Academy](https://hypatiaacademy.io/en/index.html).   
+# Table of Contents
+|   |   | 
+| --- | --- |  
+| [Python Basics](#python-basics) |  [Algorithms](#algorithms) |
+| [Pandas](#pandas) |  [Numpy](#numpy) |  
+| [Statistics](#statistics)  | [Charting](#charting) | 
+| [Linear and Logistic Regression](#linear-and-logistic-regression) | [Data Science Analysis](#data-science-analysis) | 
+| [Games](#games) | |   
+
+
+# Hypatia Academy
+
+
+Here are lecture notes, videos, tutorials, and computer code from the lectures for [Hypatia Academy](https://hypatiaacademy.io/en/index.html).   
 
 We teach Python programming to children ages 13 to 18.  But adults can use this material too.  Because it's for children, comments are disabled on the YouTube videos.
 
@@ -18,14 +31,6 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 >
 > Contact Walker Rowe at werowe@walkerrowe.com or +357 97629604
 
-# Table of Contents
-|   |   | 
-| --- | --- |  
-| [Python Basics](#python-basics) |  [Algorithms](#algorithms) |
-| [Pandas](#pandas) |  [Numpy](#numpy) |  
-| [Statistics](#statistics)  | [Charting](#charting) | 
-| [Linear and Logistic Regression](#linear-and-logistic-regression) | [Data Science Analysis](#data-science-analysis) | 
-| [Games](#games) | |   
 
 
 # Python Basics  
