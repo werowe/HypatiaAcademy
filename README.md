@@ -16,9 +16,9 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 |   |   | 
 | --- | --- |  
 | [Python Basics](#python-basics) |  [Algorithms](#algorithms) |
-| Pandas |  Numpy |  
-| Statistics  | Charting | 
-| ML: Linear and Logistic Regression | Data Science Analysis | 
+| [Pandas](#pandas) |  [Numpy](#numpy) |  
+| [Statistics](#statistics)  | [Charting](#charting) | 
+| Linear and Logistic Regression | Data Science Analysis | 
 | Games | |   
 
 
@@ -121,7 +121,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [Heatmap](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2023_03_26_charting_heatmap.ipynb)
 * [Bar Chart and Histogram](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2023-03-09-histogram-barchart.ipynb)
 
-# ML: Linear and Logistic Regression
+# Linear and Logistic Regression
 
 * [Book I wrote on Machine Learning](https://drive.google.com/file/d/1um0BBueBzgHyx9WsWbIBxUUDELOG_Q1M/view)
 * [Linear Regression in Google Sheets](https://docs.google.com/spreadsheets/d/1-IFkDXQfhpKuUXGRNqLGaHmnELe2kYQZAm487fhz1WI/edit?usp=sharing)
