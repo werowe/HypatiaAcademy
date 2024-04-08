@@ -6,9 +6,11 @@
   </tr>
 </table>
 
-Here are lecture notes, videos, tutorials, and solutions to coding exercises for [Hypatia Academy](https://hypatiaacademy.io/en/index.html).   [Walker Rowe](https://walkercodetutorials.com/) is the owner of Hypatia Academy.  [Walker](https://www.linkedin.com/in/walkerrowe/) is the only teacher.  All classes are taught live and are free.  
+Here are lecture notes, videos, tutorials, and solutions to coding exercises for [Hypatia Academy](https://hypatiaacademy.io/en/index.html).   
 
 We teach Python programming to children ages 13 to 18.  But adults can use this material too.  Because it's for children comments are disabled on the YouTube videos.
+
+[Walker Rowe](https://walkercodetutorials.com/) is the owner of Hypatia Academy.  [Walker](https://www.linkedin.com/in/walkerrowe/) is the only teacher.  All classes are taught live and are free.  
 
 See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA) as well.
 
