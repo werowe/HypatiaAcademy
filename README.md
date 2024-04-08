@@ -36,7 +36,23 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [Handling Errors](https://github.com/werowe/HypatiaAcademy/blob/master/class/novembe4_28_2023_handling_errors.ipynb)  
     
  
-
+## Videos: Basic Python 
+ * [How to use ChatGPT](https://www.youtube.com/TJWUugGb3B4)
+ * [Python Data Types](https://youtu.be/oVk6z4sfzAQ)
+* [Python Editors and Interpreters](https://youtu.be/oXvs7cZ84PQ)
+*  [Character Sets and Character Encoding](https://youtu.be/nVdgxm0ah1c)
+* [Functions](https://youtu.be/N3iFuashvjM)
+* [Sets and Tuples](https://www.youtube.com/watch?v=qonWnyqBalg)
+* [Class and Objects](https://youtu.be/DLM9lD0yUdg) 
+* [Intro to APIs](https://youtu.be/r7NW4C3yl64)
+* [Dictionaries and Sets](https://www.youtube.com/watch?v=gtabHRGQmU0)
+* [APIs](https://www.youtube.com/watch?v=pIssp53kA3s)
+* [Regular Expressions](https://www.youtube.com/watch?v=k6HjYoYrv9g)
+* [Dates and Times](https://www.youtube.com/watch?v=n49HUEBaXSU)
+* [Objects and Classes](https://www.youtube.com/watch?v=0UW3MdDXql0)
+* [Lambda Functions, List Compressions, Map Function](https://www.youtube.com/watch?v=qKIIzEb3ucA)
+* [Normal and Standard Distribution](https://www.youtube.com/watch?v=wPIJ7_0Ix1g)
+  
 # Games
 
 * [Rolling Dice](https://github.com/werowe/HypatiaAcademy/blob/master/assignment/rollDice.ipynb)
@@ -54,6 +70,9 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
  * [Convert Decimal to Hex](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/decimal%20to%20hex.ipynb)
 * [Convert binary to decimal and decimal to binary](https://github.com/werowe/HypatiaAcademy/blob/master/class/9-june-2023-Bin_to_Decimal.ipynb)
  
+## Videos: Algorithms
+ <td><a href="https://youtu.be/6u6oOUiia2Q">Calculate Square Roots</a></td>
+ <td><a href="https://www.youtube.com/watch?v=6T6VNN8Qs4I">Learning to Sort</a></td>
 
 # Pandas 
 
@@ -69,6 +88,9 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [Numpy dimension, shape, and slicing](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_dimensions_and_arrays_video.ipynb)
 * [Slicing Numpy Arrays](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/14%20july%202021%20numpy%20dimensions%20and%20slicing.ipynb)
 
+## Videos: Numpy
+* [Understanding Numpy Dimensions, Shape, and Slicing Operations](https://www.youtube.com/watch?v=CgA0EQjkxlk)
+
  
 # Data Science Analysis
  * [Is IQ related to COVID Vaccination Rate?](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/vaccines%20versus%20IQ%20linear%20regression.ipynb)
@@ -80,6 +102,9 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [Normalize Data with z-Score](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/10th_october_zscore.ipynb)
 * [Poisson Distribution](https://github.com/werowe/HypatiaAcademy/blob/master/stats/october_27_2023_poisson_distribution.ipynb)
 * [Normalize data, std, mean, z-score in Google Sheets](https://docs.google.com/spreadsheets/d/1Ni3RoBJ_f2ABnMYY2yJGuvPD7z-UeUezsFAcL78yIoo/edit?usp=sharing)
+
+## Videos: Statistics
+* [Histograms and Bar Charts](https://youtu.be/SjaEyATOeDo)
     
 # Charting
 
@@ -95,46 +120,9 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [scikit-learn Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/November_7_scikit_learn_linear_regression.ipynb)
 *  [Income Logistic Regression scikit-learn](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/22_december_sklearn_logisticregression.ipynb)
 
-## Videos: Basic Python 
- * [How to use ChatGPT](https://www.youtube.com/TJWUugGb3B4)
- * [Python Data Types](https://youtu.be/oVk6z4sfzAQ)
-* [Python Editors and Interpreters](https://youtu.be/oXvs7cZ84PQ)
-*  [Character Sets and Character Encoding](https://youtu.be/nVdgxm0ah1c)
-* [Functions](https://youtu.be/N3iFuashvjM)
-* [Sets and Tuples](https://www.youtube.com/watch?v=qonWnyqBalg)
-* [Class and Objects](https://youtu.be/DLM9lD0yUdg) 
-* [Intro to APIs](https://youtu.be/r7NW4C3yl64)
-
-## Videos: Algorithms
- <td><a href="https://youtu.be/6u6oOUiia2Q">Calculate Square Roots</a></td>
- <td><a href="https://www.youtube.com/watch?v=6T6VNN8Qs4I">Learning to Sort</a></td>
- 
 
 
-## Videos: Numpy
-* [Understanding Numpy Dimensions, Shape, and Slicing Operations](https://www.youtube.com/watch?v=CgA0EQjkxlk)
 
-## Videos: Statistics
-* [>Histograms and Bar Charts](https://youtu.be/SjaEyATOeDo)
-
- 
- 
-
-# Recorded Classes
-<table border="1">
-  <tr>
-    <td><a href="https://www.youtube.com/watch?v=gtabHRGQmU0">Dictionaries and Sets</a></td>
-    <td><a href="https://www.youtube.com/watch?v=pIssp53kA3s">APIs</a></td>
-    <td><a href="https://www.youtube.com/watch?v=k6HjYoYrv9g">Regular Expressions</a></td>
-     <td><a href="https://www.youtube.com/watch?v=n49HUEBaXSU">Dates and Times</a></td>
-   </tr>
-
-  <tr>
-     <td><a href="https://www.youtube.com/watch?v=0UW3MdDXql0">Objects and Classes</a></td>
-    <td><a href="https://www.youtube.com/watch?v=qKIIzEb3ucA">Lambda Functions, List Compressions, Map Function</a></td>
-    <td><a href="https://www.youtube.com/watch?v=wPIJ7_0Ix1g">Normal and Standard Distribution</a></td>
-  </tr>
- </table>
 
  
 
