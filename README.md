@@ -71,8 +71,8 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 * [Convert binary to decimal and decimal to binary](https://github.com/werowe/HypatiaAcademy/blob/master/class/9-june-2023-Bin_to_Decimal.ipynb)
  
 ## Videos: Algorithms
- <td><a href="https://youtu.be/6u6oOUiia2Q">Calculate Square Roots</a></td>
- <td><a href="https://www.youtube.com/watch?v=6T6VNN8Qs4I">Learning to Sort</a></td>
+* [Calculate Square Roots](https://youtu.be/6u6oOUiia2Q)
+* [Learning to Sort](https://www.youtube.com/watch?v=6T6VNN8Qs4I)
 
 # Pandas 
 
