@@ -18,9 +18,14 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
 
 # Python Basics  
 
+ |   |   |
+| ----------- | ----------- |
  
+| Paragraph |  
 
 * [Why Use Python?  What is Python?](https://github.com/werowe/HypatiaAcademy/blob/master/class/what%20is%20python.md)
+
+  |
 
 * [Python Introduction](https://github.com/werowe/HypatiaAcademy/blob/0978ae18babfcb5a1be3496f3458b157e61f2533/class/25_april_2023_intro.ipynb)
   
