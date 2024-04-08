@@ -31,7 +31,7 @@ See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrL
   
 * [Lists](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb)
   
-*[Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb)
+* [Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb)
 
 * [API](https://github.com/werowe/HypatiaAcademy/blob/master/class/october_6_2023_api_introduction.ipynb)
   
