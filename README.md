@@ -12,6 +12,19 @@ We teach Python programming to children ages 13 to 18.  But adults can use this 
 
 See our [video tutorials](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA) as well.
 
+# Table of Contents
+|   |   |
+| ----------- | ----------- |
+| Python Basics | Videos: Python Basics   |
+| Algorithms | Videos: Algorithms|
+| Pandas | Videos: Pandas |
+| Numpy | Videos: Numpy |
+| Statistics | Videos: Statistics |
+| Charting | |
+| ML: Linear and Logistic Regression | |
+| Data Science Analysis | |
+| Games |  |
+
 
 # Python Basics  
 
