@@ -53,7 +53,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Bits, Bytes, Hex, and ASCII characters](https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb)
 * [List Comprehensions, Lambda Functions, Map function](https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_list_comprehensions_lambda_functions.ipynb)
  * [Regular Expressions](https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_regular_expressions.ipynb)
-* [Handling Errors](https://github.com/werowe/HypatiaAcademy/blob/master/class/novembe4_28_2023_handling_errors.ipynb)  
+* [Handling Errors](https://github.com/werowe/HypatiaAcademy/blob/master/class/novembe4_28_2023_handling_errors.ipynb)
+* [Sample Certification Tests OpenEDG](https://edube.org/)
     
  
 ## Videos: Basic Python 
@@ -97,6 +98,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 # Pandas 
 
 * [Pandas Introduction](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/Pandas_Introduction_Video.ipynb)
+* [Pandas Official User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
 
 ## Pandas Videos  
 * [Introductory Pandas Video](https://youtu.be/3QSzdL6ikLI)
