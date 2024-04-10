@@ -54,7 +54,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [List Comprehensions, Lambda Functions, Map function](https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_list_comprehensions_lambda_functions.ipynb)
  * [Regular Expressions](https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_regular_expressions.ipynb)
 * [Handling Errors](https://github.com/werowe/HypatiaAcademy/blob/master/class/novembe4_28_2023_handling_errors.ipynb)
-* [Sample Certification Tests OpenEDG](https://edube.org/)
+
     
  
 ## Videos: Basic Python 
@@ -102,6 +102,13 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 ## Pandas Videos  
 * [Introductory Pandas Video](https://youtu.be/3QSzdL6ikLI)
+
+
+# Python Certification
+* [PCEP™ – Certified Entry-Level Python Programmer](https://pythoninstitute.org/pcep)
+* [Sample Certification Tests OpenEDG](https://edube.org/)
+* [PCED-30-01 Exam Syllabus](https://pythoninstitute.org/pced-exam-syllabus)
+
   
 
 # Numpy 
@@ -118,6 +125,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
  * [Is IQ related to COVID Vaccination Rate?](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/vaccines%20versus%20IQ%20linear%20regression.ipynb)
  *  [Is there Global Warming in Cyprus?](https://github.com/werowe/HypatiaAcademy/blob/master/assignment/Paphosweather.ipynb)
  *  [How hot is Paphos in July?](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb)
+
 
 # Statistics
 * [The Normal Curve](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/october-20-2023-normal-curve--and-weibull-distribution.ipynb)
