@@ -13,7 +13,7 @@
 | [Pandas](#pandas) |  [Numpy](#numpy) |  
 | [Statistics](#statistics)  | [Charting](#charting) | 
 | [Linear and Logistic Regression](#linear-and-logistic-regression) | [Data Science Analysis](#data-science-analysis) | 
-| [Games](#games) | |   
+| [Games](#games) | [Python Certification](python-certification) |   
 
 
 # Hypatia Academy
@@ -132,6 +132,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Normalize Data with z-Score](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/10th_october_zscore.ipynb)
 * [Poisson Distribution](https://github.com/werowe/HypatiaAcademy/blob/master/stats/october_27_2023_poisson_distribution.ipynb)
 * [Normalize data, std, mean, z-score in Google Sheets](https://docs.google.com/spreadsheets/d/1Ni3RoBJ_f2ABnMYY2yJGuvPD7z-UeUezsFAcL78yIoo/edit?usp=sharing)
+* t-tests, chi-square tests, ANOVA
 
 ## Videos: Statistics
 * [Histograms and Bar Charts](https://youtu.be/SjaEyATOeDo)
