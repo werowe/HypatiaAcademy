@@ -99,6 +99,13 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 * [Pandas Introduction](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/Pandas_Introduction_Video.ipynb)
 * [Pandas Official User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
+* Indexing and selecting data
+* Merge, join, concatenate and compare
+* Working with text data
+* Charting
+* Reshaping and pivot tables
+* Categorical data
+* Correlation Matrix
 
 ## Pandas Videos  
 * [Introductory Pandas Video](https://youtu.be/3QSzdL6ikLI)
