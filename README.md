@@ -106,6 +106,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * Reshaping and pivot tables
 * Categorical data
 * Correlation Matrix
+* Time series / date functionality
 
 ## Pandas Videos  
 * [Introductory Pandas Video](https://youtu.be/3QSzdL6ikLI)
