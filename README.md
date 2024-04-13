@@ -100,7 +100,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Pandas Introduction](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/Pandas_Introduction_Video.ipynb)
 * [Pandas Official User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
 * [Searching for Pandas Data](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_search.ipynb)
-* Statistics: sum(), mean(), std()
+* [Group By, sort, Statistics](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_statistics.ipynb)
 * Time Series 
 * Charting
 * Merge, join, concatenate and compare
