@@ -101,6 +101,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Pandas Official User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
 * [Searching for Pandas Data](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_search.ipynb)
 * [Group By, sort, Statistics](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_statistics.ipynb)
+* How to use Map to run a function on a DataFrame
+* What do do about missing data
 * Time Series 
 * Charting
 * Merge, join, concatenate and compare
