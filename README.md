@@ -102,7 +102,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Searching for Pandas Data](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_search.ipynb)
 * [Group By, sort, Statistics](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_statistics.ipynb)
 * How to use Map to run a function on a DataFrame
-* [What do do about missing data](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_missing_data.ipynb)
+* [What do do about missing or invalid data](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_missing_data.ipynb)
 * Time Series 
 * Charting
 * Merge, join, concatenate and compare
