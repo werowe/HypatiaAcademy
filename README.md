@@ -113,6 +113,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 ## Pandas Videos  
 * [Introductory Pandas Video](https://youtu.be/3QSzdL6ikLI)
+* [How to Handle Missing Data and how to Clean Data](https://youtu.be/6N_ncQjdcAU)
 
 
 # Python Certification
