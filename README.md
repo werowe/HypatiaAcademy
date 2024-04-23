@@ -42,7 +42,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Lists](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb)
 * [Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb)
 * [API](https://github.com/werowe/HypatiaAcademy/blob/master/class/october_6_2023_api_introduction.ipynb)
-* [String Functions](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/String%20exercises%20II.ipynb) |
+* [String Functions](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/String%20exercises%20II.ipynb) 
  * [Working with Files](https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb)
 * [Sample Python Certification Exam](https://github.com/werowe/HypatiaAcademy/blob/master/class/sample-python-exam.pdf)
 * [Dates and Times](https://github.com/werowe/HypatiaAcademy/blob/master/class/November_2_2023_dates_and_times.ipynb)
