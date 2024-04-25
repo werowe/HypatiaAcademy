@@ -36,7 +36,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 # Python Basics  
 
 * [Why Use Python?  What is Python?](https://github.com/werowe/HypatiaAcademy/blob/master/class/what%20is%20python.md)
-* [Python Introduction](https://github.com/werowe/HypatiaAcademy/blob/0978ae18babfcb5a1be3496f3458b157e61f2533/class/25_april_2023_intro.ipynb) 
+* [Python Introduction](https://github.com/werowe/HypatiaAcademy/blob/0978ae18babfcb5a1be3496f3458b157e61f2533/class/25_april_2023_intro.ipynb)
+* [How to use Google Colab for Python Programming](https://youtu.be/JwIaYnrM7Oc)
 * [Sets](https://github.com/werowe/HypatiaAcademy/blob/master/class/july_21_2023_sets.ipynb)
 * [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb)
 * [Lists](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb)
