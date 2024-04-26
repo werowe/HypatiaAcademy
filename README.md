@@ -102,7 +102,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Pandas Official User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
 * [Searching for Pandas Data](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_search.ipynb)
 * [Group By, sort, Statistics](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_statistics.ipynb)
-* [Pandas Map operation](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/2024_04_23_pandas_map.ipynb)
+* [Pandas Map and Apply Operations](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/2024_04_23_pandas_map.ipynb)
 * [What do do about missing or invalid data](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_missing_data.ipynb)
 * [Time Series](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/2024_04_23_time_series.ipynb)
 * [Drop Outliers](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_drop_outliers.ipynb)
