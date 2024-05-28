@@ -164,6 +164,9 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 *  [Manually Calculate Linear Regression in Google Sheets and Python](https://github.com/werowe/HypatiaAcademy/blob/master/ml/manually_calculate_linear_regression.ipynb)
 *  [Multiple Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/multiple_linear_regression.ipynb)
 
+# Neural Networks
+*  [Learning with Python Book Code](https://github.com/fchollet/deep-learning-with-python-notebooks)
+
 
 
 
