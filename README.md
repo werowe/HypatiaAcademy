@@ -170,7 +170,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Simple Linear Regression with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/simple_linear_regression_keras_neural_networkd.ipynb)
 
 # Reference Links
-*  [Learning with Python Book Code](https://github.com/fchollet/deep-learning-with-python-notebooks)
+*  [Deep Learning with Python Book Code](https://github.com/fchollet/deep-learning-with-python-notebooks)
 *  [greek-bert](https://github.com/nlpaueb/greek-bert)
 
 
