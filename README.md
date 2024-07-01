@@ -172,6 +172,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 * [Simple Linear Regression with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/simple_linear_regression_keras_neural_networkd.ipynb)
 * [Handwriting Image Recognition with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/hand_writing_recognition.ipynb)
+* [Multiple Linear Regression with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/keras_multiple_linear_regression.ipynb)
 
 # Reference Links
 *  [Deep Learning with Python Book Code](https://github.com/fchollet/deep-learning-with-python-notebooks)
