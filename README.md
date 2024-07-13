@@ -181,6 +181,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 *  [Deep Learning with Python Book Code](https://github.com/fchollet/deep-learning-with-python-notebooks)
 *  [greek-bert](https://github.com/nlpaueb/greek-bert)
 *  [Google Blog Post on Google BERT](https://research.google/blog/open-sourcing-bert-state-of-the-art-pre-training-for-natural-language-processing/)
+*  [BERT tutorial on Medium](https://medium.com/@samia.khalid/bert-explained-a-complete-guide-with-theory-and-tutorial-3ac9ebc8fa7c#:~:text=Using%20BERT%20for%20Text%20Classification%20%E2%80%94%20Tutorial%201,4%204.%20Making%20predictions%20on%20new%20data%20)
 
 
 
