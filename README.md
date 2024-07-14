@@ -177,7 +177,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Convert Perceptron to Keras Neural Network to solve the AND problem](https://github.com/werowe/HypatiaAcademy/blob/master/ml/convert_perceptron_to_AND_classification_keras.ipynb)
 
 # Large Language Models
-* [classify_text_with_bert](https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/classify_text_with_bert.ipynb)
+* [Transformers](https://github.com/werowe/HypatiaAcademy/blob/master/ml/transformers.ipynb)
   
 
 # Reference Links
