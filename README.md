@@ -179,6 +179,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 # Large Language Models
 * [Transformers](https://github.com/werowe/HypatiaAcademy/blob/master/ml/transformers.ipynb)
+* [Fine Tune a Pretrained Model](https://huggingface.co/docs/transformers/training)
   
 
 # Reference Links
