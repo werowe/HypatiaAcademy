@@ -107,6 +107,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Time Series](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/2024_04_23_time_series.ipynb)
 * [Drop Outliers](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_drop_outliers.ipynb)
 * [Time Series](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/time_series.ipynb)
+* [Paphos Compare Weather this Year to Last Year](https://github.com/werowe/HypatiaAcademy/blob/master/stats/Paphosweather_compare_last_year.ipynb)
 
 
 ## Pandas Videos  
