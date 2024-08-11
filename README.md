@@ -62,7 +62,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
  
 ## Videos: Basic Python 
  * [How to use ChatGPT](https://www.youtube.com/TJWUugGb3B4)
- * [Python Data Types, Logic Operators, the If Statement, Printing Numbers]([https://youtu.be/oVk6z4sfzAQ](https://youtu.be/JqVT3jmJyug))
+ * [Python Data Types, Logic Operators, the If Statement, Printing Numbers](https://youtu.be/JqVT3jmJyug)
 * [Python Editors and Interpreters](https://youtu.be/oXvs7cZ84PQ)
 *  [Character Sets and Character Encoding](https://youtu.be/nVdgxm0ah1c)
 * [Functions](https://youtu.be/N3iFuashvjM)
