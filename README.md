@@ -187,6 +187,10 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [BERT Encoded](https://github.com/werowe/HypatiaAcademy/blob/master/ml/bert_encoder.ipynb)
 * [Greek Large Language Model](https://github.com/werowe/HypatiaAcademy/blob/master/ml/greek_large_language.ipynb)
 
+# Weather Data
+* [Paphos Download 10 Days Weather and Sea Conditions](https://github.com/werowe/HypatiaAcademy/blob/master/stats/paphos_download_today_10_day_weather_sea_conditions.ipynb)
+* [Paphos 10 days This Year Last Year Compare Weather](https://github.com/werowe/HypatiaAcademy/blob/master/stats/pathos-this-year-last-year-comparison.ipynb)
+* [Paphos Compare Sea Conditions this Year Last Year 10 Days](https://github.com/werowe/HypatiaAcademy/blob/master/stats/waves_compare_last_year.ipynb)
   
 
 # Reference Links
