@@ -80,6 +80,10 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Objects and Classes](https://www.youtube.com/watch?v=0UW3MdDXql0)
 * [Lambda Functions, List Compressions, Map Function](https://www.youtube.com/watch?v=qKIIzEb3ucA)
 * [Normal and Standard Distribution](https://www.youtube.com/watch?v=wPIJ7_0Ix1g)
+
+
+# Google Sheets
+* [Custom Google Sheets Functions](https://docs.google.com/spreadsheets/d/1-XNLRjRw3eUh3ji5T2mIaQle9lshHBK4yjj71pSLRNs/edit?usp=sharing)
   
 # Games
 
