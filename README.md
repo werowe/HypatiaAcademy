@@ -13,7 +13,7 @@
 | [Pandas](#pandas) |  [Numpy](#numpy) |  
 | [Statistics](#statistics)  | [Charting](#charting) | 
 | [Linear and Logistic Regression](#linear-and-logistic-regression) | [Data Science Analysis](#data-science-analysis) | 
-| [Games](#games) | [Python Certification](python-certification) |   
+| [Games](#games) | [Python Certification](#python-certification)) |   
 
 
 # Hypatia Academy
