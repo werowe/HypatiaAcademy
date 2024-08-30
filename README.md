@@ -44,6 +44,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [String Functions](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_12_string_functions.ipynb)
 * [String Slicing Operations](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_16_string_slicing.ipynb)
 * [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb)
+* [Python List Functions](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_30_list_functions.ipynb)
 * [Make a Calculator](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_20_calculator.ipynb)
 * [Convert Dengas, Kopeks to Rubles](https://github.com/werowe/HypatiaAcademy/blob/master/stats/functions_exercise_convert_currency.ipynb)
 * [Lists](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Array.ipynb)
