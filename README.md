@@ -94,8 +94,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
  
 # Algorithms
 
- * [Sorting Algorithm: lecture](https://github.com/werowe/HypatiaAcademy/blob/master/class/2023_08_23_sorting_algorithms.ipynb)
- * [Sorting Algorithm: homework and other algorithm](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_26_sort_algorithm.ipynb)
+* [Sorting Algorithms](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_26_sort_algorithm.ipynb)
 * [Calculate Square Root Manually](https://github.com/werowe/HypatiaAcademy/blob/master/class/square_root.ipynb)
 * [Prime GCD Spreadsheet](https://docs.google.com/spreadsheets/d/1ckIQ-8qxSNhJm856xxLvpDQjkSnIAQMxPAhLhdoMJl8/edit?usp=sharing)
 * [Greatest Common Divisor](https://github.com/werowe/HypatiaAcademy/blob/master/class/13_june_2023_gcd.ipynb)
