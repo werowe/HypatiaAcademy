@@ -45,7 +45,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [String Slicing Operations](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_16_string_slicing.ipynb)
 * [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb)
 * [Python List Functions](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_30_list_functions.ipynb)
-* [Stack, Queue, List Comprehension](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_02_list_functions-stack-queue-lambda.ipynb)
+* [Stack, Queue, List Comprehension]([https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_02_list_functions-stack-queue-lambda.ipynb](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_30_list_functions.ipynb))
 * [Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb)
 * [Sets](https://github.com/werowe/HypatiaAcademy/blob/master/class/july_21_2023_sets.ipynb)
 * [API](https://github.com/werowe/HypatiaAcademy/blob/master/class/october_6_2023_api_introduction.ipynb)
