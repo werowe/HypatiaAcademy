@@ -90,7 +90,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 # Games
 
 * [Rolling Dice](https://github.com/werowe/HypatiaAcademy/blob/master/assignment/rollDice.ipynb)
-* [Tic Tac Toe](https://github.com/werowe/HypatiaAcademy/blob/master/class/7_july_2023_ticTacToe.ipynb)
+* [Tic-Tac-To Teaching Version](https://github.com/werowe/HypatiaAcademy/blob/master/class/7_july_2023_ticTacToe.ipynb)
+* [Tic-Tac-To Two Players]https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_11_tic_tac_to.ipynb
 
  
 # Algorithms
