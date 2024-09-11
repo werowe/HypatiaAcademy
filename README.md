@@ -59,7 +59,10 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Bits, Bytes, Hex, and ASCII characters](https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb)
 * [Regular Expressions](https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_regular_expressions.ipynb)
 * [Handling Errors](https://github.com/werowe/HypatiaAcademy/blob/master/class/novembe4_28_2023_handling_errors.ipynb)
-* [Google BigQuery Database](https://cloud.google.com/bigquery/docs/sandbox)
+
+## Databases
+* [Google BigQuery Sandbox Database](https://cloud.google.com/bigquery/docs/sandbox)
+* [Example Program Create Schema, Add Data](https://github.com/werowe/HypatiaAcademy/blob/master/basics/google_bigquery_example.ipynb)
 
     
  
