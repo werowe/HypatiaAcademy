@@ -41,27 +41,27 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [How to use Google Colab for Python Programming](https://youtu.be/JwIaYnrM7Oc)
 * [Regular Expressions](https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_regular_expressions.ipynb)
 * [Handling Errors](https://github.com/werowe/HypatiaAcademy/blob/master/class/novembe4_28_2023_handling_errors.ipynb)
-
-
-## Data Types
-
-* [Data Types](https://github.com/werowe/HypatiaAcademy/blob/master/class/2023_08_09_data_types_math_functions_if_statement.ipynb)
+* [Working with Files](https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb)
+* [Sample Python Certification Exam](https://github.com/werowe/HypatiaAcademy/blob/master/class/sample-python-exam.pdf)
+* [Dates and Times](https://github.com/werowe/HypatiaAcademy/blob/master/class/November_2_2023_dates_and_times.ipynb)
 * [Order of Precedence of Math Operators](https://github.com/werowe/HypatiaAcademy/blob/master/class/order_of_precedence.ipynb)
-* [String Functions](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_12_string_functions.ipynb)
-* [String Slicing Operations](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_16_string_slicing.ipynb)
 * [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb)
+
+
+## Data Types and Structure
+* [Data Types](https://github.com/werowe/HypatiaAcademy/blob/master/class/2023_08_09_data_types_math_functions_if_statement.ipynb)
 * [Python List Functions](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_30_list_functions.ipynb)
 * [Stack, Queue, List Comprehension](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_02_list_functions-stack-queue-lambda.ipynb)
 * [Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb)
 * [Sets](https://github.com/werowe/HypatiaAcademy/blob/master/class/july_21_2023_sets.ipynb)
-
-* [Working with Files](https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb)
-* [Sample Python Certification Exam](https://github.com/werowe/HypatiaAcademy/blob/master/class/sample-python-exam.pdf)
-* [Dates and Times](https://github.com/werowe/HypatiaAcademy/blob/master/class/November_2_2023_dates_and_times.ipynb)
-* [Formatting Output](https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb)
 * [Classes and Objects](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Class%20and%20objects.ipynb)
 
-# Character Encoding, Bits, Bytes, Languages
+## Strings and String Operations
+* [Formatting Output](https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb)
+* [String Functions](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_12_string_functions.ipynb)
+* [String Slicing Operations](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_16_string_slicing.ipynb)
+
+## Character Encoding, Bits, Bytes, Languages
 * [Language and Countries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Localization.ipynb)
 * [Character Encoding](https://github.com/werowe/HypatiaAcademy/blob/master/class/27_june_2023_cyrillic_alphabet.ipynb)
 * [Bits, Bytes, Hex, and ASCII characters](https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb)
@@ -71,7 +71,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [API Exercise](https://github.com/werowe/HypatiaAcademy/blob/master/class/json_current_weather.ipynb)
 * [API copy Results to Google Drive](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_17_save_forecast_to_csv.ipynb)
 
-## Databases
+# Databases
 * [Google BigQuery Sandbox Database](https://cloud.google.com/bigquery/docs/sandbox)
 * [Example Program Create Schema, Add Data](https://github.com/werowe/HypatiaAcademy/blob/master/basics/google_bigquery_example.ipynb)
 
