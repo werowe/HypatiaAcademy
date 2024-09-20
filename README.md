@@ -39,6 +39,12 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Python and Hypatia Class Overview](https://docs.google.com/presentation/d/14R1ppOWIAJj_rqV03FKb8odv_NYzNppPFEsW6f4gs0Y/edit?usp=sharing)
 * [Python Introduction](https://github.com/werowe/HypatiaAcademy/blob/0978ae18babfcb5a1be3496f3458b157e61f2533/class/25_april_2023_intro.ipynb)
 * [How to use Google Colab for Python Programming](https://youtu.be/JwIaYnrM7Oc)
+* [Regular Expressions](https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_regular_expressions.ipynb)
+* [Handling Errors](https://github.com/werowe/HypatiaAcademy/blob/master/class/novembe4_28_2023_handling_errors.ipynb)
+
+
+## Data Types
+
 * [Data Types](https://github.com/werowe/HypatiaAcademy/blob/master/class/2023_08_09_data_types_math_functions_if_statement.ipynb)
 * [Order of Precedence of Math Operators](https://github.com/werowe/HypatiaAcademy/blob/master/class/order_of_precedence.ipynb)
 * [String Functions](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_12_string_functions.ipynb)
@@ -48,18 +54,22 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Stack, Queue, List Comprehension](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_02_list_functions-stack-queue-lambda.ipynb)
 * [Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb)
 * [Sets](https://github.com/werowe/HypatiaAcademy/blob/master/class/july_21_2023_sets.ipynb)
-* [API](https://github.com/werowe/HypatiaAcademy/blob/master/class/october_6_2023_api_introduction.ipynb)
-* [API Exercise](https://github.com/werowe/HypatiaAcademy/blob/master/class/json_current_weather.ipynb)
+
 * [Working with Files](https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb)
 * [Sample Python Certification Exam](https://github.com/werowe/HypatiaAcademy/blob/master/class/sample-python-exam.pdf)
 * [Dates and Times](https://github.com/werowe/HypatiaAcademy/blob/master/class/November_2_2023_dates_and_times.ipynb)
 * [Formatting Output](https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb)
- * [Classes and Objects](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Class%20and%20objects.ipynb)
+* [Classes and Objects](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Class%20and%20objects.ipynb)
+
+# Character Encoding, Bits, Bytes, Languages
 * [Language and Countries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Localization.ipynb)
 * [Character Encoding](https://github.com/werowe/HypatiaAcademy/blob/master/class/27_june_2023_cyrillic_alphabet.ipynb)
 * [Bits, Bytes, Hex, and ASCII characters](https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb)
-* [Regular Expressions](https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_regular_expressions.ipynb)
-* [Handling Errors](https://github.com/werowe/HypatiaAcademy/blob/master/class/novembe4_28_2023_handling_errors.ipynb)
+
+## APIs
+* [API](https://github.com/werowe/HypatiaAcademy/blob/master/class/october_6_2023_api_introduction.ipynb)
+* [API Exercise](https://github.com/werowe/HypatiaAcademy/blob/master/class/json_current_weather.ipynb)
+* [API copy Results to Google Drive](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_17_save_forecast_to_csv.ipynb)
 
 ## Databases
 * [Google BigQuery Sandbox Database](https://cloud.google.com/bigquery/docs/sandbox)
