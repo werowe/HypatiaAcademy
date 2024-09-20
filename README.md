@@ -10,7 +10,8 @@
 |   |   | 
 | --- | --- |  
 | [Python Basics](#python-basics) | [Data Types](#data-types-and-structure)  | 
- | [Algorithms](#algorithms) |  |
+| [Strings](#strings-and-string-operations) | [Charactersm bits, bytes[(#character-encoding-bits-bytes-languages) |
+ | [APIs](#apis)| [Algorithms](#algorithms)  |
 | [Pandas](#pandas) |  [Numpy](#numpy) |  
 | [Statistics](#statistics)  | [Charting](#charting) | 
 | [Linear and Logistic Regression](#linear-and-logistic-regression) | [Data Science Analysis](#data-science-analysis) | 
