@@ -9,7 +9,8 @@
 # Table of Contents
 |   |   | 
 | --- | --- |  
-| [Python Basics](#python-basics) |  [Algorithms](#algorithms) |
+| [Python Basics](#python-basics) | [Data Types](#data-types-and-structure)  | 
+ | [Algorithms](#algorithms) |  |
 | [Pandas](#pandas) |  [Numpy](#numpy) |  
 | [Statistics](#statistics)  | [Charting](#charting) | 
 | [Linear and Logistic Regression](#linear-and-logistic-regression) | [Data Science Analysis](#data-science-analysis) | 
