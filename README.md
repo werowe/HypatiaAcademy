@@ -10,7 +10,7 @@
 |   |   | 
 | --- | --- |  
 | [Python Basics](#python-basics) | [Data Types](#data-types-and-structure)  | 
-| [Strings](#strings-and-string-operations) | [Charactersm bits, bytes[(#character-encoding-bits-bytes-languages) |
+| [Strings](#strings-and-string-operations) | [Characters, bits, bytes](#character-encoding-bits-bytes-languages) |
  | [APIs](#apis)| [Algorithms](#algorithms)  |
 | [Pandas](#pandas) |  [Numpy](#numpy) |  
 | [Statistics](#statistics)  | [Charting](#charting) | 
