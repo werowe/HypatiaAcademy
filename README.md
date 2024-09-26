@@ -74,6 +74,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [API copy Results to Google Drive](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_17_save_forecast_to_csv.ipynb)
 
 # Databases
+* [SQl Lite](https://github.com/werowe/HypatiaAcademy/blob/master/basics/sql_lite.ipynb)
 * [Google BigQuery Sandbox Database](https://cloud.google.com/bigquery/docs/sandbox)
 * [Example Program Create Schema, Add Data](https://github.com/werowe/HypatiaAcademy/blob/master/basics/google_bigquery_example.ipynb)
 
