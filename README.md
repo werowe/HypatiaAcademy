@@ -50,13 +50,16 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb)
 
 
-## Data Types and Structure
+## Data Types and Structures
 * [Data Types](https://github.com/werowe/HypatiaAcademy/blob/master/class/2023_08_09_data_types_math_functions_if_statement.ipynb)
 * [Python List Functions](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_30_list_functions.ipynb)
 * [Stack, Queue, List Comprehension](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_02_list_functions-stack-queue-lambda.ipynb)
 * [Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb)
 * [Sets](https://github.com/werowe/HypatiaAcademy/blob/master/class/july_21_2023_sets.ipynb)
+
+## Classes and Objects
 * [Classes and Objects](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Class%20and%20objects.ipynb)
+* [Extend Python built-in Classes](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_27_random_random_emojis_list_rotate.ipynb)
 
 ## Strings and String Operations
 * [Formatting Output](https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb)
