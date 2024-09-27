@@ -78,7 +78,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 # Databases
 * [SQl Lite](https://github.com/werowe/HypatiaAcademy/blob/master/basics/sql_lite.ipynb)
-* [Google BigQuery Sandbox Database](https://cloud.google.com/bigquery/docs/sandbox)
+* [Google BigQuery Sandbox Database](https://docs.google.com/document/d/13o6NKnglUXrMi39a5h-TPKYUjNVNatTYajw8VcAONdo/edit?usp=sharing))
 * [Example Program Create Schema, Add Data](https://github.com/werowe/HypatiaAcademy/blob/master/basics/google_bigquery_example.ipynb)
 
     
