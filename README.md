@@ -6,16 +6,23 @@
   </tr>
 </table>
 
-# Table of Contents
+
+# Python Basics Table of Contents
 |   |   | 
 | --- | --- |  
 | [Python Basics](#python-basics) | [Data Types](#data-types-and-structure)  | 
 | [Strings](#strings-and-string-operations) | [Characters, bits, bytes](#character-encoding-bits-bytes-languages) |
  | [APIs](#apis)| [Algorithms](#algorithms)  |
+ | [Classes and Objects](#classes-and-objects) | [Databases](#databases)|
+| [Games](#games) | [Python Certification](#python-certification) |   
+
+# Python Data Science and Machine Learning Table of Contents
+|   |   | 
+| --- | --- |  
 | [Pandas](#pandas) |  [Numpy](#numpy) |  
 | [Statistics](#statistics)  | [Charting](#charting) | 
 | [Linear and Logistic Regression](#linear-and-logistic-regression) | [Data Science Analysis](#data-science-analysis) | 
-| [Games](#games) | [Python Certification](#python-certification) |   
+
 
 
 # Hypatia Academy
