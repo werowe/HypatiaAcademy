@@ -10,7 +10,7 @@
 # Python Basics Table of Contents
 |   |   | 
 | --- | --- |  
-| [Python Basics](#python-basics) | [Data Types](#data-types-and-structure)  | 
+| [Python Basics](#python-basics) | [Data Types](#data-types-and-structures)  | 
 | [Strings](#strings-and-string-operations) | [Character Encoding, Bytes, Bits, Languages](#character-encoding-bits-bytes-languages) |
  | [APIs](#apis)| [Algorithms](#algorithms)  |
  | [Classes and Objects](#classes-and-objects) | [Databases](#databases)|
