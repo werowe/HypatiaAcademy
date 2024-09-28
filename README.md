@@ -11,7 +11,7 @@
 |   |   | 
 | --- | --- |  
 | [Python Basics](#python-basics) | [Data Types](#data-types-and-structure)  | 
-| [Strings](#strings-and-string-operations) | [Characters, bits, bytes](#character-encoding-bits-bytes-languages) |
+| [Strings](#strings-and-string-operations) | [Character Encoding, Bytes, Bits, Languages](#character-encoding-bits-bytes-languages) |
  | [APIs](#apis)| [Algorithms](#algorithms)  |
  | [Classes and Objects](#classes-and-objects) | [Databases](#databases)|
 | [Games](#games) | [Python Certification](#python-certification) |   
