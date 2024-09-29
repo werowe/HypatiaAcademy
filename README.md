@@ -85,7 +85,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 # Databases
 * [SQl Lite](https://github.com/werowe/HypatiaAcademy/blob/master/basics/sql_lite.ipynb)
-* [Create Tables using Python and %%SQL commands](https://github.com/werowe/HypatiaAcademy/blob/master/basics/sqllite3_create_table.ipynb)
+* [Create Tables using Python and SQL commands](https://github.com/werowe/HypatiaAcademy/blob/master/basics/sqllite3_create_table.ipynb)
     
  
 ## Videos: Basic Python 
