@@ -84,6 +84,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [API copy Results to Google Drive](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_17_save_forecast_to_csv.ipynb)
 
 # Databases
+* [Getting Started with SQL Lite](https://github.com/werowe/HypatiaAcademy/blob/master/basics/sqllite_getting_started.ipynb)
 * [SQL Lite Create Tables using Python and SQL commands](https://github.com/werowe/HypatiaAcademy/blob/master/basics/sqllite3_create_table.ipynb)
     
  
