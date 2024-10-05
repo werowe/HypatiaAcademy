@@ -40,8 +40,6 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 >
 > Contact Walker Rowe at werowe@walkerrowe.com or +357 97629604
 
-
-
 # Python Basics  
 
 * [Why Use Python?  What is Python?](https://github.com/werowe/HypatiaAcademy/blob/master/class/what%20is%20python.md)
@@ -55,7 +53,6 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Dates and Times](https://github.com/werowe/HypatiaAcademy/blob/master/class/November_2_2023_dates_and_times.ipynb)
 * [Order of Precedence of Math Operators](https://github.com/werowe/HypatiaAcademy/blob/master/class/order_of_precedence.ipynb)
 * [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb)
-
 
 ## Data Types and Structures
 * [Data Types](https://github.com/werowe/HypatiaAcademy/blob/master/class/2023_08_09_data_types_math_functions_if_statement.ipynb)
@@ -85,7 +82,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 # Databases
 * [Getting Started with SQL Lite](https://github.com/werowe/HypatiaAcademy/blob/master/basics/sqllite_getting_started.ipynb)
-* [SQL Lite Create Tables using Python and SQL commands](https://github.com/werowe/HypatiaAcademy/blob/master/basics/sqllite3_create_table.ipynb)
+* [SQL Lite Create Tables using Python and SQL commands](https://github.com/werowe/HypatiaAcademy/blob/master/class/sqllite3_create_table.ipynb)
     
  
 ## Videos: Basic Python 
