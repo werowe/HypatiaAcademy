@@ -83,8 +83,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 # Databases
 * [Getting Started with SQL Lite](https://github.com/werowe/HypatiaAcademy/blob/master/basics/sqllite_getting_started.ipynb)
 * [SQL Lite Create Tables using Python and SQL commands](https://github.com/werowe/HypatiaAcademy/blob/master/class/sqllite3_create_table.ipynb)
-* [Create Some Random Data](https://github.com/werowe/HypatiaAcademy/blob/master/basics/sqllite_create_random_data.ipynb)
-* [Solution to Homework: Create Random Data](https://github.com/werowe/HypatiaAcademy/blob/master/basics/solution_sqllite_create_random_data.ipynb)
+* [Create Some Random Data](https://github.com/werowe/HypatiaAcademy/blob/master/basics/solution_sqllite_create_random_data.ipynb)
+ 
     
  
 ## Videos: Basic Python 
