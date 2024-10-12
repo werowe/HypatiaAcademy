@@ -72,7 +72,6 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 ## Character Encoding, Bits, Bytes, Languages
 * [Language and Countries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Localization.ipynb)
-* [Character Encoding](https://github.com/werowe/HypatiaAcademy/blob/master/class/27_june_2023_cyrillic_alphabet.ipynb)
 * [Bits, Bytes, Hex, and ASCII characters](https://github.com/werowe/HypatiaAcademy/blob/master/basics/bitsAndBytes.ipynb)
 
 ## APIs
