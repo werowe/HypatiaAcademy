@@ -62,7 +62,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Sets](https://github.com/werowe/HypatiaAcademy/blob/master/class/july_21_2023_sets.ipynb)
 
 ## Classes and Objects
-* [Classes and Objects](https://github.com/werowe/HypatiaAcademy/blob/master/basics/Class%20and%20objects.ipynb)
+* [Classes and Objects](https://github.com/werowe/HypatiaAcademy/blob/master/basics/classes_and_objects.ipynb)
 * [Extend Python built-in Classes](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_27_random_random_emojis_list_rotate.ipynb)
 
 ## Strings and String Operations
