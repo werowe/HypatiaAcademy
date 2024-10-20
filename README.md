@@ -65,6 +65,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Classes and Objects](https://github.com/werowe/HypatiaAcademy/blob/master/basics/classes_and_objects.ipynb)
 * [Inheritance](https://github.com/werowe/HypatiaAcademy/blob/master/basics/class_inheritance.ipynb)
 * [Extend Python built-in Classes](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_27_random_random_emojis_list_rotate.ipynb)
+* [Polymorphism: Rotate objects](https://github.com/werowe/HypatiaAcademy/blob/master/basics/shape_class_inheritance.ipynb)
 
 ## Strings and String Operations
 * [Formatting Output](https://github.com/werowe/HypatiaAcademy/blob/master/basics/formattedOutput.ipynb)
