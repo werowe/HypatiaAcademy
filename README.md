@@ -104,7 +104,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Dates and Times](https://www.youtube.com/watch?v=n49HUEBaXSU)
 * [Objects and Classes](https://www.youtube.com/watch?v=0UW3MdDXql0)
 * [Lambda Functions, List Compressions, Map Function](https://www.youtube.com/watch?v=qKIIzEb3ucA)
-* [Normal and Standard Distribution](https://www.youtube.com/watch?v=wPIJ7_0Ix1g)
+
 
 
 # Google Sheets
@@ -186,7 +186,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Histograms and Bar Charts](https://youtu.be/SjaEyATOeDo)
     
 # Charting
-
+* [Normal and Standard Distribution](https://www.youtube.com/watch?v=wPIJ7_0Ix1g)
 * [Charting Basics: Figures](https://github.com/werowe/HypatiaAcademy/blob/master/charting/2023_03_19_charting.ipynb)
 * [Heatmap](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2023_03_26_charting_heatmap.ipynb)
 * [Bar Chart and Histogram](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2023-03-09-histogram-barchart.ipynb)
