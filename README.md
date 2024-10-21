@@ -61,8 +61,9 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Dictionaries](https://github.com/werowe/HypatiaAcademy/blob/master/basics/dictionaries.ipynb)
 * [Sets](https://github.com/werowe/HypatiaAcademy/blob/master/class/july_21_2023_sets.ipynb)
 
-## Classes and Objects
-* [Classes and Objects](https://github.com/werowe/HypatiaAcademy/blob/master/basics/classes_and_objects.ipynb)
+## Classes
+* [Classes](https://github.com/werowe/HypatiaAcademy/blob/master/basics/classes_and_objects.ipynb)
+* [Classes: Vehicles](https://github.com/werowe/HypatiaAcademy/blob/master/basics/class_inheritance_vehicles.ipynb)
 * [Extend Classes, Polymorphism: Rotate objects](https://github.com/werowe/HypatiaAcademy/blob/master/basics/shape_class_inheritance.ipynb)
 * [Extend Python built-in Classes](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_27_random_random_emojis_list_rotate.ipynb)
 
