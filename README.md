@@ -13,7 +13,7 @@
 | [Python Basics](#python-basics) | [Data Types](#data-types-and-structures)  | 
 | [Strings](#strings-and-string-operations) | [Character Encoding, Bytes, Bits, Languages](#character-encoding-bits-bytes-languages) |
  | [APIs](#apis)| [Algorithms](#algorithms)  |
- | [Classes and Objects](#classes-and-objects) | [Databases](#databases)|
+ | [Classes and Objects](#classes) | [Databases](#databases)|
 | [Games](#games) | [Python Certification](#python-certification) |   
 
 # Python Data Science and Machine Learning Table of Contents
