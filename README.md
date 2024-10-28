@@ -129,6 +129,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
  * [Convert CSV to JSON](https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py)
  * [Convert Decimal to Hex](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/decimal%20to%20hex.ipynb)
 * [Convert binary to decimal and decimal to binary](https://github.com/werowe/HypatiaAcademy/blob/master/class/9-june-2023-Bin_to_Decimal.ipynb)
+* **N-Queens Problem**
  
 ## Videos: Algorithms
 * [Calculate Square Roots](https://youtu.be/6u6oOUiia2Q)
