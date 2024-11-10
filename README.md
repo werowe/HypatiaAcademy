@@ -130,6 +130,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Google Sheets Convert Decimal to Hex](https://docs.google.com/spreadsheets/d/1AgAsVTlWRKdYm9JaVSF3xh4hcf0kQclIaMNz5Jj4BxY/edit?usp=sharing)
 * [Convert Decimal to Hex](https://github.com/werowe/HypatiaAcademy/blob/master/basics/decimal_to_hex.ipynb)
 * [Convert binary to decimal and decimal to binary](https://github.com/werowe/HypatiaAcademy/blob/master/class/9-june-2023-Bin_to_Decimal.ipynb)
+* **RSA Encryption Algorithm**
 * **N-Queens Problem**
  
 ## Videos: Algorithms
