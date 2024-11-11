@@ -123,7 +123,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 * [Sorting Algorithms](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_26_sort_algorithm.ipynb)
 * [Calculate Square Root Manually](https://github.com/werowe/HypatiaAcademy/blob/master/class/square_root.ipynb)
-* [GCD Spreadsheet](https://docs.google.com/spreadsheets/d/1ckIQ-8qxSNhJm856xxLvpDQjkSnIAQMxPAhLhdoMJl8/edit?usp=sharing)
+* [GCD Spreadsheet algorithm I](https://docs.google.com/spreadsheets/d/1ckIQ-8qxSNhJm856xxLvpDQjkSnIAQMxPAhLhdoMJl8/edit?usp=sharing)
+* [GCD Spreadsheet algorithm II]https://docs.google.com/spreadsheets/d/1YxTR7mSUcY6gJY9heUrNMjjzUB9_cZh2UaMw86gPL88/edit?usp=sharing
 * [Greatest Common Divisor Python](https://github.com/werowe/HypatiaAcademy/blob/master/class/13_june_2023_gcd.ipynb)
 * [Factor a number, determine if a number is Prime, and the Yield function](https://github.com/werowe/HypatiaAcademy/blob/master/class/factor_number.ipynb)
 * [Convert CSV to JSON](https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py)
@@ -176,8 +177,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
  
 # Data Science Analysis
  * [Is IQ related to COVID Vaccination Rate?](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/vaccines%20versus%20IQ%20linear%20regression.ipynb)
- *  [Is there Global Warming in Cyprus?](https://github.com/werowe/HypatiaAcademy/blob/master/assignment/Paphosweather.ipynb)
- *  [How hot is Paphos in July?](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb)
+ * [Is there Global Warming in Cyprus?](https://github.com/werowe/HypatiaAcademy/blob/master/assignment/Paphosweather.ipynb)
+ * [How hot is Paphos in July?](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb)
 
 
 # Statistics
