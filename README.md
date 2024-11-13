@@ -129,7 +129,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Factor a number, determine if a number is Prime, and the Yield function](https://github.com/werowe/HypatiaAcademy/blob/master/class/factor_number.ipynb)
 * [Convert CSV to JSON](https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py)
 * [Google Sheets Convert Decimal to Hex](https://docs.google.com/spreadsheets/d/1AgAsVTlWRKdYm9JaVSF3xh4hcf0kQclIaMNz5Jj4BxY/edit?usp=sharing)
-* [Convert Decimal to Hex](https://github.com/werowe/HypatiaAcademy/blob/master/basics/decimal_to_hex.ipynb)
+* [Convert Decimal to Hex Left-to-Right](https://github.com/werowe/HypatiaAcademy/blob/master/basics/decimal_to_hex.ipynb)
+* [Google Sheets Convert Decimal to Hex Right-to-Left](https://docs.google.com/spreadsheets/d/1zOOjtS3nYSL7Uz9jD5sILTxmx_VfNgBwQSMh65GG4bg/edit?gid=0#gid=0)
 * [Convert binary to decimal and decimal to binary](https://github.com/werowe/HypatiaAcademy/blob/master/class/9-june-2023-Bin_to_Decimal.ipynb)
 * **RSA Encryption Algorithm**
 * **N-Queens Problem**
