@@ -124,7 +124,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Sorting Algorithms](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_26_sort_algorithm.ipynb)
 * [Calculate Square Root Manually](https://github.com/werowe/HypatiaAcademy/blob/master/class/square_root.ipynb)
 * [GCD Spreadsheet algorithm I](https://docs.google.com/spreadsheets/d/1ckIQ-8qxSNhJm856xxLvpDQjkSnIAQMxPAhLhdoMJl8/edit?usp=sharing)
-* [GCD Spreadsheet algorithm II]https://docs.google.com/spreadsheets/d/1YxTR7mSUcY6gJY9heUrNMjjzUB9_cZh2UaMw86gPL88/edit?usp=sharing
+* [GCD Spreadsheet algorithm II](https://docs.google.com/spreadsheets/d/1YxTR7mSUcY6gJY9heUrNMjjzUB9_cZh2UaMw86gPL88/edit?usp=sharing)
 * [Greatest Common Divisor Python](https://github.com/werowe/HypatiaAcademy/blob/master/class/13_june_2023_gcd.ipynb)
 * [Factor a number, determine if a number is Prime, and the Yield function](https://github.com/werowe/HypatiaAcademy/blob/master/class/factor_number.ipynb)
 * [Convert CSV to JSON](https://github.com/werowe/HypatiaAcademy/blob/master/basics/convertCSVtoJSON.py)
@@ -165,7 +165,6 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Sample Certification Tests OpenEDG](https://edube.org/)
 * [PCED-30-01 Exam Syllabus](https://pythoninstitute.org/pced-exam-syllabus)
 
-  
 
 # Numpy 
 
