@@ -49,7 +49,6 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Regular Expressions](https://github.com/werowe/HypatiaAcademy/blob/master/class/30_june_2023_regular_expressions.ipynb)
 * [Handling Errors](https://github.com/werowe/HypatiaAcademy/blob/master/class/novembe4_28_2023_handling_errors.ipynb)
 * [Working with Files](https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb)
-* [Sample Python Certification Exam](https://github.com/werowe/HypatiaAcademy/blob/master/class/sample-python-exam.pdf)
 * [Dates and Times](https://github.com/werowe/HypatiaAcademy/blob/master/class/November_2_2023_dates_and_times.ipynb)
 * [Order of Precedence of Math Operators](https://github.com/werowe/HypatiaAcademy/blob/master/class/order_of_precedence.ipynb)
 * [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb)
@@ -161,6 +160,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 
 # Python Certification
+* [Sample Python Certification Exam](https://github.com/werowe/HypatiaAcademy/blob/master/class/sample-python-exam.pdf)
 * [PCEP™ – Certified Entry-Level Python Programmer](https://pythoninstitute.org/pcep)
 * [Sample Certification Tests OpenEDG](https://edube.org/)
 * [PCED-30-01 Exam Syllabus](https://pythoninstitute.org/pced-exam-syllabus)
