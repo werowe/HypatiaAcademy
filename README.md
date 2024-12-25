@@ -131,8 +131,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Google Sheets Convert Decimal to Hex Right-to-Left](https://docs.google.com/spreadsheets/d/1zOOjtS3nYSL7Uz9jD5sILTxmx_VfNgBwQSMh65GG4bg/edit?usp=sharing)
 * [Convert Decimal to Hex Right-to-Left](https://github.com/werowe/HypatiaAcademy/blob/master/basics/left_to_right_convert_decimal_to_hex.ipynb)
 * [Convert binary to decimal and decimal to binary](https://github.com/werowe/HypatiaAcademy/blob/master/class/9-june-2023-Bin_to_Decimal.ipynb)
-* **RSA Encryption Algorithm**
-* **SHA-256 Algorithm**
+
 
  
 ## Videos: Algorithms
