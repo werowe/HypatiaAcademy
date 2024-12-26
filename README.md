@@ -86,6 +86,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [SQL Lite Create Tables using Python and SQL commands](https://github.com/werowe/HypatiaAcademy/blob/master/class/sqllite3_create_table.ipynb)
 * [Create Some Random Data](https://github.com/werowe/HypatiaAcademy/blob/master/basics/solution_sqllite_create_random_data.ipynb)
 * [Parent and Child Explained](https://github.com/werowe/HypatiaAcademy/blob/master/class/homework_parent_child_explained.ipynb)
+* [Apache Spark, Spark SQL](https://github.com/werowe/HypatiaAcademy/blob/master/spark/pyspark_sql_weather.ipynb)
  
     
  
