@@ -187,6 +187,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Poisson Distribution](https://github.com/werowe/HypatiaAcademy/blob/master/stats/october_27_2023_poisson_distribution.ipynb)
 * [Normalize data, std, mean, z-score in Google Sheets](https://docs.google.com/spreadsheets/d/1Ni3RoBJ_f2ABnMYY2yJGuvPD7z-UeUezsFAcL78yIoo/edit?usp=sharing)
 * [Normal and Uniform Distribution in Google Sheets](https://docs.google.com/spreadsheets/d/1QtX08MZl3RO2OP4vI6kQvyGFTg0wHj6S2HGzh3wET7k/edit?gid=332310171#gid=332310171)
+* [Binomial Distribution in Google Sheets](https://docs.google.com/spreadsheets/d/1A-iJK4s-9hwPGzLW3jgpi4eKp1Uy4qv7JybnXWo1PjY/edit?usp=sharing)
 
 
 ## Videos: Statistics
