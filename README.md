@@ -88,8 +88,6 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Parent and Child Explained](https://github.com/werowe/HypatiaAcademy/blob/master/class/homework_parent_child_explained.ipynb)
 * [Apache Spark, Spark SQL](https://github.com/werowe/HypatiaAcademy/blob/master/spark/pyspark_sql_weather.ipynb)
  
-    
- 
 ## Videos: Basic Python 
  * [How to use ChatGPT](https://www.youtube.com/TJWUugGb3B4)
  * [Python Data Types, Logic Operators, the If Statement, Printing Numbers](https://youtu.be/5L445gF9wI8)
@@ -107,7 +105,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Lambda Functions, List Compressions, Map Function](https://www.youtube.com/watch?v=qKIIzEb3ucA)
 
 
-# Google Sheets
+# Google Sheets Programming
 * [Custom Google Sheets Functions](https://docs.google.com/spreadsheets/d/1-XNLRjRw3eUh3ji5T2mIaQle9lshHBK4yjj71pSLRNs/edit?usp=sharing)
   
 # Games
