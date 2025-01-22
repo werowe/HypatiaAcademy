@@ -166,6 +166,10 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 # Numpy 
 
 * [Numpy Introduction](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_tutorial_start.ipynb)
+* [SciPy Stats Guide](https://docs.scipy.org/doc/scipy-1.15.0/tutorial/stats.html)
+* [Numpy official Quick Start](https://numpy.org/doc/stable/user/quickstart.html)
+* [Numpy User Guide](https://numpy.org/doc/stable/user/index.html#user)
+* [MIT Numpy Book](https://web.mit.edu/dvp/Public/numpybook.pdf)
 * [Numpy dimension, shape, and slicing](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_dimensions_and_arrays_video.ipynb)
 * [Slicing Numpy Arrays](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/14%20july%202021%20numpy%20dimensions%20and%20slicing.ipynb)
 
