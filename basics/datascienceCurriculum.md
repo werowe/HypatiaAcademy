@@ -79,9 +79,6 @@ homework https://colab.research.google.com/drive/1CNhYyLEMkIo16VmxUH9vUa9b2v5yJq
 
 ##hypothesis testing
 
-
-
- 
  
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -234,10 +231,6 @@ Students choose a topic based on their interests. They will work independently o
    - Machine learning/deep learning models built with evaluation metrics reported.
    - Final presentation summarizing findings, challenges, and results.
 
----
-
-## Additional Notes
-1. Each project should include a written report or Jupyter Notebook documenting the process from data cleaning to modeling and evaluation.
-2. Encourage students to use platforms like Kaggle for datasets or Google Colab for coding practice.
+ 
 
 ---
