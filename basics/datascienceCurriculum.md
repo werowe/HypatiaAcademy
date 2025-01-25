@@ -2,6 +2,7 @@
 
 ## Month 1: Foundations of Data Science
 
+
 ### Topics Covered:
 - Introduction to Data Science
 - Python for Data Science
