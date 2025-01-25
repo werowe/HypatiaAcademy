@@ -1,4 +1,4 @@
-# 6-Month Data Science Curriculum with Projects
+# Data Science Curriculum 
 
 
 
