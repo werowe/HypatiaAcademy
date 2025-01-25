@@ -1,5 +1,30 @@
 
 
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_12_string_functions.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_16_slicing_operations.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_16_string_slicing.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_20_string_functions.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_23_string_functions_answered.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_26_sort_algorithm.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_30_homework.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_30_list_functions.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_02_list_functions-stack-queue-lambda.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_06_tic_tac_toe_finish_me.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_10_dictionary.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_17_save_forecast_to_csv.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_24_api_array_json_to_csv_homework.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_19_save_weather_and_forecast.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_27_random_random_emojis_list_rotate.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_10_01_sqlite_kickoff.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_10_04_sql_football.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_10_11_Homework.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_10_15_classes.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_10_22_classes_and_inheritance.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_11_08.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_11_15_left_to_right_convert_decimal_to_hex.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_11_19_regular_expressions.ipynb
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_11_5_binary_to_decimal_to_binary.ipynb
+
 * Homework https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_27_random_random_emojis_list_rotate.ipynb
 *  here is the spreadsheet https://docs.google.com/spreadsheets/d/1noN6833hwEyjjVPXy9CP_kOFtGqR0cJzwPIffYEqtZY/edit?usp=sharing
 * here is the GCD algorithm.  homework is code this into Python https://docs.google.com/spreadsheets/d/1ckIQ-8qxSNhJm856xxLvpDQjkSnIAQMxPAhLhdoMJl8/edit?usp=sharing
