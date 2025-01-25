@@ -192,6 +192,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Normal and Uniform Distribution in Google Sheets](https://docs.google.com/spreadsheets/d/1QtX08MZl3RO2OP4vI6kQvyGFTg0wHj6S2HGzh3wET7k/edit?gid=332310171#gid=332310171)
 * [Binomial Distribution in Google Sheets](https://docs.google.com/spreadsheets/d/1A-iJK4s-9hwPGzLW3jgpi4eKp1Uy4qv7JybnXWo1PjY/edit?usp=sharing)
 * [Exponential Distribution](https://docs.google.com/spreadsheets/d/1p9vqIRI7LvKr-4OLL4VqhVjlXdbAfolBljSzPb-jWIQ/edit?usp=sharing)
+* Central Limit Theorem
+* Hypothesis testing (t-tests, chi-square tests)
  
   
 
