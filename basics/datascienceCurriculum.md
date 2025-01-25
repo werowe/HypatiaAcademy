@@ -77,6 +77,12 @@ https://docs.google.com/spreadsheets/d/1V3DUL8GfVOLA-j-kxwPS3haeZ9V5Q_EzVvS09ZqX
 homework https://colab.research.google.com/drive/1CNhYyLEMkIo16VmxUH9vUa9b2v5yJqeX?usp=sharing
  
 
+## Weibull:  Time to Failure
+
+https://www.kaggle.com/datasets/m0ntecarl0/engine-time-to-failure
+
+
+
 # Pandas
 
 
