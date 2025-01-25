@@ -19,9 +19,10 @@
 # Python Data Science and Machine Learning Table of Contents
 |   |   | 
 | --- | --- |  
+| [Curriculum](https://github.com/werowe/HypatiaAcademy/blob/master/basics/datascienceCurriculum.md) | [Data Science Analysis](#data-science-analysis) |
 | [Pandas](#pandas) |  [Numpy](#numpy) |  
 | [Statistics](#statistics)  | [Charting](#charting) | 
-| [Linear and Logistic Regression](#linear-and-logistic-regression) | [Data Science Analysis](#data-science-analysis) | 
+| [Linear and Logistic Regression](#linear-and-logistic-regression) |  | 
 
 
 
