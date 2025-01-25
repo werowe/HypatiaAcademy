@@ -77,26 +77,17 @@ homework https://colab.research.google.com/drive/1CNhYyLEMkIo16VmxUH9vUa9b2v5yJq
  
 
 
+##hypothesis testing
 
 
 
-
-# Remaning Curiculum Boilerplate
  
-
-
-## Month 1: Foundations of Data Science
-
-
-### Topics Covered:
-- Introduction to Data Science
-- Python for Data Science
+ 
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
 
-### Week-by-Week Breakdown:
-- **Week 1**: Overview of Data Science, tools (Python, Jupyter Notebooks), and datasets.
-- **Week 2**: Python basics and libraries (NumPy, Pandas).
+ 
+ 
 - **Week 3**: Data cleaning techniques (handling missing data, outliers, transformations).
 - **Week 4**: Exploratory Data Analysis (EDA) using Matplotlib and Seaborn.
 
@@ -114,16 +105,8 @@ homework https://colab.research.google.com/drive/1CNhYyLEMkIo16VmxUH9vUa9b2v5yJq
 
 ## Month 2: Statistics and Probability for Data Science
 
-### Topics Covered:
-- Introduction to Statistics
-- Probability Distributions
-- Hypothesis Testing
-- Correlation and Regression
+### Regression
 
-### Week-by-Week Breakdown:
-- **Week 1**: Descriptive statistics and probability basics.
-- **Week 2**: Understanding distributions (normal, binomial) and Central Limit Theorem.
-- **Week 3**: Hypothesis testing (t-tests, chi-square tests).
 - **Week 4**: Correlation vs. causation and linear regression.
 
 ### Student Project: **Analyzing Relationships Between Variables**
