@@ -10,6 +10,7 @@
 # Python Basics Table of Contents
 |   |   | 
 | --- | --- |  
+| [Python Basics Curriculum](https://github.com/werowe/HypatiaAcademy/blob/master/basics/pythonBasicsCurriculum.md) | |
 | [Python Basics](#python-basics) | [Data Types](#data-types-and-structures)  | 
 | [Strings](#strings-and-string-operations) | [Character Encoding, Bytes, Bits, Languages](#character-encoding-bits-bytes-languages) |
  | [APIs](#apis)| [Algorithms](#algorithms)  |
@@ -19,7 +20,7 @@
 # Python Data Science and Machine Learning Table of Contents
 |   |   | 
 | --- | --- |  
-| [Curriculum](https://github.com/werowe/HypatiaAcademy/blob/master/basics/datascienceCurriculum.md) | [Data Science Analysis](#data-science-analysis) |
+| [Data Science Curriculum](https://github.com/werowe/HypatiaAcademy/blob/master/basics/datascienceCurriculum.md) | [Data Science Analysis](#data-science-analysis) |
 | [Pandas](#pandas) |  [Numpy](#numpy) |  
 | [Statistics](#statistics)  | [Charting](#charting) | 
 | [Linear and Logistic Regression](#linear-and-logistic-regression) |  | 
@@ -43,7 +44,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 # Python Basics  
 
-* [Python Basics Curriculum](https://github.com/werowe/HypatiaAcademy/blob/master/basics/pythonBasicsCurriculum.md)
+
 * [Why Use Python?  What is Python?](https://github.com/werowe/HypatiaAcademy/blob/master/class/what%20is%20python.md)
 * [Python and Hypatia Class Overview](https://docs.google.com/presentation/d/14R1ppOWIAJj_rqV03FKb8odv_NYzNppPFEsW6f4gs0Y/edit?usp=sharing)
 * [Python Introduction](https://github.com/werowe/HypatiaAcademy/blob/0978ae18babfcb5a1be3496f3458b157e61f2533/class/25_april_2023_intro.ipynb)
