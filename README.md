@@ -194,6 +194,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Exponential Distribution](https://docs.google.com/spreadsheets/d/1p9vqIRI7LvKr-4OLL4VqhVjlXdbAfolBljSzPb-jWIQ/edit?usp=sharing)
 * Central Limit Theorem
 * Hypothesis testing (t-tests, chi-square tests)
+* Evaluation Goodness of Fit (Kolmogorov-Smirnov test (scipy.stats.kstest, Chi-square goodness-of-fit test)
+* [Statistics Project: Analyzing Real-World Data and Fitting Distributions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/goodnessOfFit.md)
  
   
 
