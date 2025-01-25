@@ -1,7 +1,21 @@
 # 6-Month Data Science Curriculum with Projects
 
 
+
 # 2025 Weekly Schedule
+
+## First Three Weeks
+https://github.com/werowe/HypatiaAcademy?tab=readme-ov-file#statistics
+
+* The Normal Curve
+* Normalize Data with z-Score
+* Poisson Distribution
+* Normalize data, std, mean, z-score in Google Sheets
+* Normal and Uniform Distribution in Google Sheets
+* Binomial Distribution in Google Sheets
+* Exponential Distribution
+
+
 
 ## Jan 7
 * generate some random data using the =NORMINV(RAND(), average, std)
@@ -63,6 +77,11 @@ homework https://colab.research.google.com/drive/1CNhYyLEMkIo16VmxUH9vUa9b2v5yJq
  
 
 
+
+
+
+
+# Remaning Curiculum Boilerplate
  
 
 
