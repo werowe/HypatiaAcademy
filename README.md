@@ -174,7 +174,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Numpy User Guide](https://numpy.org/doc/stable/user/index.html#user)
 * [MIT Numpy Book](https://web.mit.edu/dvp/Public/numpybook.pdf)
 * [Numpy dimension, shape, and slicing](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/numpy_dimensions_and_arrays_video.ipynb)
-* [Slicing Numpy Arrays](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/14%20july%202021%20numpy%20dimensions%20and%20slicing.ipynb)
+
 
 ## Videos: Numpy
 * [Understanding Numpy Dimensions, Shape, and Slicing Operations](https://www.youtube.com/watch?v=CgA0EQjkxlk)
