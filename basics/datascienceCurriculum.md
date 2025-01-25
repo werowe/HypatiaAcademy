@@ -1,5 +1,71 @@
 # 6-Month Data Science Curriculum with Projects
 
+
+# 2025 Weekly Schedule
+
+## Jan 7
+* generate some random data using the =NORMINV(RAND(), average, std)
+* calculate the z-score---use int() to make it an integer
+* calculate the cumulative property of you observation using =NORM.DIST(observed,average,std,true)
+* use chart to make a chart
+6:59
+ 
+
+
+## Jan 10
+homework.  what does false versus true mean in this =NORM.DIST(C2,mean,std,false) function.  put into your previous homework and test it/prove it
+homework:  so figure out how to adjust the chart in google sheets to show the edges, labels
+in integers like -2, -1, 0, 1, 2
+
+
+## January 14
+
+homework https://docs.google.com/spreadsheets/d/1A-iJK4s-9hwPGzLW3jgpi4eKp1Uy4qv7JybnXWo1PjY/edit?usp=sharing
+ 
+* optional homework figure out the  probability of flipping a coin 6 times and getting 2 heads
+* solve this homework optional:
+- why do you multiple each combination by	
+- the probability of (each trial) ^ success 	
+- and the probability of (1 - each trial)^(number of trials - successes)
+
+which answer is correct this one https://docs.google.com/document/d/1q9lmsMowu2iVxyfCTvOSSttibkm669_lTNhgW3_6B78/edit?usp=sharing or this one https://docs.google.com/spreadsheets/d/1_05Bqp00qoUvtdOi77VEA6PLQsomabY8O7akXXYkeYo/edit?usp=sharing
+
+
+```
+
+Марія Афанасьєва
+ 
+https://docs.google.com/document/d/1L3uAsnuPmbBLlJ0ni-NV9EANCQf93mkodAjMFtUM4p4/edit?usp=sharing
+The formula explanation
+```
+
+```
+Illia Zhupanov
+ 
+https://docs.google.com/spreadsheets/d/17n2Prl6EDjZ4Rp54crbgaBNNasviuuYT2gCcUypt-3Q/edit?usp=sharing
+diff between the two approaches
+```
+
+## Jan 21
+
+homework is to understand this https://docs.google.com/spreadsheets/d/1p9vqIRI7LvKr-4OLL4VqhVjlXdbAfolBljSzPb-jWIQ/edit?usp=sharing
+
+
+``` 
+The formula explanation and why does the sum = 1
+https://docs.google.com/spreadsheets/d/1V3DUL8GfVOLA-j-kxwPS3haeZ9V5Q_EzVvS09ZqXOzU/edit?usp=sharing
+```
+ 
+
+## Jan 21
+
+homework https://colab.research.google.com/drive/1CNhYyLEMkIo16VmxUH9vUa9b2v5yJqeX?usp=sharing
+ 
+
+
+ 
+
+
 ## Month 1: Foundations of Data Science
 
 
