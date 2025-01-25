@@ -69,12 +69,15 @@ homework is to understand this https://docs.google.com/spreadsheets/d/1p9vqIRI7L
 The formula explanation and why does the sum = 1
 https://docs.google.com/spreadsheets/d/1V3DUL8GfVOLA-j-kxwPS3haeZ9V5Q_EzVvS09ZqXOzU/edit?usp=sharing
 ```
- 
+
+# Numpy 
 
 ## Jan 21
 
 homework https://colab.research.google.com/drive/1CNhYyLEMkIo16VmxUH9vUa9b2v5yJqeX?usp=sharing
  
+
+# Pandas
 
 
 ##hypothesis testing
@@ -83,6 +86,8 @@ homework https://colab.research.google.com/drive/1CNhYyLEMkIo16VmxUH9vUa9b2v5yJq
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
 
+
+# Apache Spark
  
  
 - **Week 3**: Data cleaning techniques (handling missing data, outliers, transformations).
