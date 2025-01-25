@@ -1,5 +1,5 @@
 
-
+* https://github.com/werowe/HypatiaAcademy/blob/master/class/2023_08_09_data_types_math_functions_if_statement.ipynb
 * https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_12_string_functions.ipynb
 * https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_16_slicing_operations.ipynb
 * https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_08_16_string_slicing.ipynb
