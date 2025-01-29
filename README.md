@@ -200,6 +200,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * Hypothesis testing (t-tests, chi-square tests)
 * Evaluation Goodness of Fit (Kolmogorov-Smirnov test (scipy.stats.kstest, Chi-square goodness-of-fit test)
 * [Statistics Project: Analyzing Real-World Data and Fitting Distributions](https://github.com/werowe/HypatiaAcademy/blob/master/stats/goodness_of_fit.ipynb)
+* [Fit Histogram and Normal PDF on Plot using Kaggle Dataset](https://github.com/werowe/HypatiaAcademy/blob/master/stats/2025_01_31_fit_histogram_and_normal_pdf.ipynb)
  
   
 
