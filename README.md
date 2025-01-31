@@ -195,9 +195,6 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Binomial Distribution in Google Sheets](https://docs.google.com/spreadsheets/d/1A-iJK4s-9hwPGzLW3jgpi4eKp1Uy4qv7JybnXWo1PjY/edit?usp=sharing)
 * [Exponential Distribution](https://docs.google.com/spreadsheets/d/1p9vqIRI7LvKr-4OLL4VqhVjlXdbAfolBljSzPb-jWIQ/edit?usp=sharing)
 * [Weibull, Website Traffic](https://github.com/werowe/HypatiaAcademy/blob/master/stats/Weibulldataset_diana.ipynb)
-* Central Limit Theorem
-* Hypothesis testing (t-tests, chi-square tests)
-* Evaluation Goodness of Fit (Kolmogorov-Smirnov test (scipy.stats.kstest, Chi-square goodness-of-fit test)
 * [Statistics Project: Analyzing Real-World Data and Fitting Distributions](https://github.com/werowe/HypatiaAcademy/blob/master/stats/goodness_of_fit.ipynb)
 * [Fit Histogram and Normal PDF on Plot](https://github.com/werowe/HypatiaAcademy/blob/master/stats/2025_01_31_fit_histogram_and_normal_pdf.ipynb)
  
