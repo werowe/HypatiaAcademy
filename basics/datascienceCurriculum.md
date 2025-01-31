@@ -242,6 +242,75 @@ Students choose a topic based on their interests. They will work independently o
    - Machine learning/deep learning models built with evaluation metrics reported.
    - Final presentation summarizing findings, challenges, and results.
 
+
+
+# One-Month Curriculum: Teaching Large Language Models (LLMs)
+
+This curriculum is designed to teach students about Large Language Models (LLMs) using practical tools like **Hugging Face** and **Google Colab**, with a focus on leveraging pre-trained models due to limited computational resources.
+
+---
+
+## Week 1: Introduction to Large Language Models
+
+### Day 1: Basics of LLMs
+- **Objective**: Understand what LLMs are and their applications.
+- **Topics**:
+  - What are LLMs? (e.g., GPT, BERT, T5)
+  - Key concepts: transformers, attention mechanism.
+  - Applications: text generation, summarization, translation, etc.
+- **Activity**:
+  - Watch introductory videos on transformers (e.g., "Attention is All You Need").
+  - Discuss real-world applications of LLMs.
+
+### Day 2: Hugging Face and Google Colab Setup
+- **Objective**: Familiarize students with Hugging Face and Google Colab.
+- **Topics**:
+  - Overview of Hugging Face's Transformers library.
+  - Setting up Google Colab for NLP tasks.
+- **Activity**:
+!pip install transformers datasets
+text
+- Explore the Hugging Face Model Hub.
+
+### Day 3–4: Understanding Pre-Trained Models
+- **Objective**: Learn how pre-trained models work and why they’re useful.
+- **Topics**:
+- Pre-training vs. fine-tuning.
+- Common pre-trained models (GPT, BERT, DistilBERT).
+- **Activity**:
+from transformers import pipeline
+summarizer = pipeline("summarization")
+text = "Your long text here..."
+print(summarizer(text))
+text
+- Experiment with different pipelines (e.g., text classification, question answering).
+
+### Day 5: Quiz/Review
+- Review key concepts from the week.
+- Small quiz or discussion to reinforce learning.
+
+---
+
+## Week 2: Fine-Tuning Pre-Trained Models
+
+### Day 6–7: Dataset Preparation
+- **Objective**: Learn how to prepare datasets for fine-tuning.
+- **Topics**:
+- Overview of datasets for NLP tasks (e.g., IMDB for sentiment analysis).
+- Tokenization and preprocessing.
+- **Activity**:
+from datasets import load_dataset
+dataset = load_dataset("imdb")
+print(dataset["train"])
+text
+
+### Day 8–9: Fine-Tuning Basics
+- **Objective**: Fine-tune a small pre-trained model on a custom task.
+- **Topics**:
+- Fine-tuning vs. full training.
+- Using smaller models like DistilBERT for resource efficiency.
+- **Activity**:
+
  
 
 ---
