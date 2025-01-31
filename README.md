@@ -24,6 +24,7 @@
 | [Pandas](#pandas) |  [Numpy](#numpy) |  
 | [Statistics](#statistics)  | [Charting](#charting) | 
 | [Linear and Logistic Regression](#linear-and-logistic-regression) |  [Data Science Analysis](#data-science-analysis) | 
+| [Neural Networks|(#neural-networks) | [Large Language Models](#large-language-models)
 
 
 
