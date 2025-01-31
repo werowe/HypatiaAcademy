@@ -312,5 +312,101 @@ text
 - **Activity**:
 
  
+from transformers import AutoModelForSequenceClassification, TrainingArguments, Trainer
+model = AutoModelForSequenceClassification.from_pretrained("distilbert-base-uncased", num_labels=2)
+Define training arguments
+training_args = TrainingArguments(
+output_dir="./results",
+evaluation_strategy="epoch",
+save_strategy="epoch",
+logging_dir="./logs",
+per_device_train_batch_size=8,
+num_train_epochs=3,
+)
+trainer = Trainer(
+model=model,
+args=training_args,
+train_dataset=dataset["train"],
+eval_dataset=dataset["test"],
+)
+trainer.train()
+text
+
+### Day 10: Evaluation
+- Evaluate the fine-tuned model on test data.
+- Discuss metrics like accuracy, precision, recall.
 
 ---
+
+## Week 3: Advanced Applications
+
+### Day 11–12: Text Generation with GPT Models
+- **Objective**: Generate coherent text using GPT-based models.
+- **Topics**:
+- How GPT works for text generation.
+- Adjusting parameters like `temperature` and `max_length`.
+- **Activity**:
+from transformers import pipeline
+generator = pipeline("text-generation", model="gpt2")
+prompt = "Once upon a time"
+print(generator(prompt, max_length=50, num_return_sequences=3))
+text
+
+### Day 13–14: Summarization and Translation
+- Use pre-trained models for summarization and translation tasks.
+- Activity:
+summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
+translator = pipeline("translation_en_to_fr", model="Helsinki-NLP/opus-mt-en-fr")
+text = "Your long English text here..."
+print(summarizer(text))
+print(translator(text))
+text
+
+---
+
+## Week 4: Custom Projects and Deployment
+
+### Day 15–16: Custom NLP Task
+- Students choose an NLP task (e.g., sentiment analysis, question answering).
+- Prepare data and fine-tune a small model.
+
+### Day 17–18: Model Deployment Basics
+- Learn how to deploy models using Hugging Face Spaces or Streamlit.
+- Activity:
+ - Use Hugging Face Spaces with Gradio for deployment.
+
+#### Example Deployment Code:
+import gradio as gr
+from transformers import pipeline
+generator = pipeline("text-generation", model="gpt2")
+def generate_text(prompt):
+return generator(prompt, max_length=50)["generated_text"]
+gr.Interface(fn=generate_text, inputs="text", outputs="text").launch()
+text
+
+---
+
+### Day **19–20: Presentations and Wrap-Up**
+1. Students present their projects to the class.
+2. Review key concepts learned throughout the month.
+
+---
+
+## Tools Used
+
+1. **Hugging Face Transformers Library**:
+   - For accessing pre-trained models and pipelines.
+2. **Google Colab**:
+   - For running code without requiring powerful local machines.
+3. **Gradio or Hugging Face Spaces**:
+   - For deploying simple interfaces for NLP tasks.
+
+---
+
+## Key Benefits of This Curriculum
+
+1. Focuses on practical usage rather than computationally expensive training.
+2. Introduces students to industry-standard tools like Hugging Face.
+3. Encourages hands-on learning through projects and experimentation.
+
+ 
