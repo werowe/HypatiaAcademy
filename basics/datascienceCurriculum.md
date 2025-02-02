@@ -70,9 +70,7 @@ The formula explanation and why does the sum = 1
 https://docs.google.com/spreadsheets/d/1V3DUL8GfVOLA-j-kxwPS3haeZ9V5Q_EzVvS09ZqXOzU/edit?usp=sharing
 ```
 
-# Numpy 
-
-## Jan 21
+## Jan 21 Basic Numpy Introduction (slicing comes later).  Needed for Stats next few classes
 
 homework https://colab.research.google.com/drive/1CNhYyLEMkIo16VmxUH9vUa9b2v5yJqeX?usp=sharing
  
