@@ -77,9 +77,16 @@ https://docs.google.com/spreadsheets/d/1V3DUL8GfVOLA-j-kxwPS3haeZ9V5Q_EzVvS09ZqX
 homework https://colab.research.google.com/drive/1CNhYyLEMkIo16VmxUH9vUa9b2v5yJqeX?usp=sharing
  
 
-## Weibull:  Time to Failure
 
-https://www.kaggle.com/datasets/m0ntecarl0/engine-time-to-failure
+## Jan 28  Goodness of Fit, Normal, and Weibull
+
+https://github.com/werowe/HypatiaAcademy/blob/master/stats/goodness_of_fit.ipynb
+
+
+## Jan 31  Goodness of Fit, Normal, and Weibull
+https://github.com/werowe/HypatiaAcademy/blob/master/stats/weibull_ilya_numpy_plotting_homework_31_01_25.ipynb
+
+
 
 
 
