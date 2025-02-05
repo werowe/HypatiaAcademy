@@ -84,8 +84,8 @@ https://github.com/werowe/HypatiaAcademy/blob/master/stats/goodness_of_fit.ipynb
 ## Jan 31  Goodness of Fit, Normal, and Weibull
 https://github.com/werowe/HypatiaAcademy/blob/master/stats/weibull_ilya_numpy_plotting_homework_31_01_25.ipynb
 
-
-
+## Feb 5
+https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_02_04_numpy_slicing_diagonal.ipynb
 
 
 
