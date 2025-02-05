@@ -175,6 +175,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Numpy User Guide](https://numpy.org/doc/stable/user/index.html#user)
 * [MIT Numpy Book](https://web.mit.edu/dvp/Public/numpybook.pdf)
 * [Numpy dimension, shape, and slicing](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_02_04_numpy_slicing_diagonal.ipynb)
+* [Numpy Exercises by Rougier](https://github.com/rougier/numpy-100)
 
 
 ## Videos: Numpy
