@@ -204,6 +204,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 ## Videos: Statistics
 * [Histograms and Bar Charts](https://youtu.be/SjaEyATOeDo)
+* [Pie Chart and Interactive Chart](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2025_02_14_chart_introduction_II.ipynb)
 * [Normal and Standard Distribution](https://www.youtube.com/watch?v=wPIJ7_0Ix1g)
     
 # Charting
