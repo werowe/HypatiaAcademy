@@ -207,8 +207,10 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 # Charting
 * [Charting Basics: Figures](https://github.com/werowe/HypatiaAcademy/blob/master/stats/2024_02_11_charting.ipynb)
 * [Histogram](https://github.com/werowe/HypatiaAcademy/blob/master/stats/2024_02_11_histogram.ipynb)
-* [Pie Chart](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2025_02_14_chart_introduction_II.ipynb)
+* [Pie Chart](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2025_02_14_pie_chart.ipynb)
 * [Heatmap](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2023_03_26_charting_heatmap.ipynb)
+* Stack Bar Chart
+* Correlation Matrix
  
 
 # Linear and Logistic Regression
