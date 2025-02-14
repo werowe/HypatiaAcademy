@@ -214,7 +214,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * Correlation Matrix
 * Second Axis
 * Box Plot: Box and Whisker Chart
-* Log Scale 
+* Log Scale
+* Time Series Weather Data
  
 
 # Linear and Logistic Regression
