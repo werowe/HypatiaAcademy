@@ -93,6 +93,8 @@ https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_02_04_numpy_slic
 
 ## Feb 11
 https://github.com/werowe/HypatiaAcademy/blob/master/stats/2024_02_11_charting.ipynb
+https://github.com/werowe/HypatiaAcademy/blob/master/stats/2024_02_11_histogram.ipynb
+https://github.com/werowe/HypatiaAcademy/blob/master/charts/2025_02_14_pie_chart.ipynb
 
 ## Feb 14
 https://github.com/werowe/HypatiaAcademy/blob/master/stats/seaborn_bar.ipynb
