@@ -84,9 +84,18 @@ https://github.com/werowe/HypatiaAcademy/blob/master/stats/goodness_of_fit.ipynb
 ## Jan 31  Goodness of Fit, Normal, and Weibull
 https://github.com/werowe/HypatiaAcademy/blob/master/stats/weibull_ilya_numpy_plotting_homework_31_01_25.ipynb
 
-## Feb 5
+## Feb 4
 https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_02_04_numpy_slicing_diagonal.ipynb
 
+
+## Feb 7
+(none, review Numpy quick start guide) 
+
+## Feb 11
+https://github.com/werowe/HypatiaAcademy/blob/master/stats/2024_02_11_charting.ipynb
+
+## Feb 14
+https://github.com/werowe/HypatiaAcademy/blob/master/stats/seaborn_bar.ipynb
 
 
 # Pandas
