@@ -99,8 +99,14 @@ https://github.com/werowe/HypatiaAcademy/blob/master/charts/2025_02_14_pie_chart
 ## Feb 14
 https://github.com/werowe/HypatiaAcademy/blob/master/stats/seaborn_bar.ipynb
 
-
 # Pandas
+
+
+## Feb 21
+https://github.com/werowe/HypatiaAcademy/blob/master/pandas/ilya-pandas_homework_20_02_25.ipynb
+
+
+
 
 
 ##hypothesis testing
