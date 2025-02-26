@@ -20,7 +20,7 @@
 # Python Data Science and Machine Learning Table of Contents
 |   |   | 
 | --- | --- |  
-| [Data Science Curriculum](https://github.com/werowe/HypatiaAcademy/blob/master/basics/datascienceCurriculum.md) | |
+| [Data Science Curriculum](https://github.com/werowe/HypatiaAcademy/blob/master/basics/datascienceCurriculum.md) | [Spark](#spark) |
 | [Pandas](#pandas) |  [Numpy](#numpy) |  
 | [Statistics](#statistics)  | [Charting](#charting) | 
 | [Linear and Logistic Regression](#linear-and-logistic-regression) |  [Data Science Analysis](#data-science-analysis) | 
@@ -161,6 +161,10 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Introductory Pandas Video](https://youtu.be/3QSzdL6ikLI)
 * [How to Handle Missing Data and how to Clean Data](https://youtu.be/6N_ncQjdcAU)
 * [Group By, Sort, Calculate Statistics, and Drop Outliers](https://youtu.be/DLcItcrPEgE)
+
+
+## Spark
+[Spark YouTube Videos](https://github.com/werowe/HypatiaAcademy/blob/master/spark/youtube_german_channels.ipynb)
 
 
 # Python Certification
