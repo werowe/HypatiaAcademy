@@ -106,13 +106,29 @@ https://github.com/werowe/HypatiaAcademy/blob/master/stats/seaborn_bar.ipynb
 https://github.com/werowe/HypatiaAcademy/blob/master/pandas/ilya-pandas_homework_20_02_25.ipynb
 
 
+## Feb 25 Fix Issues in this Pandas data from Ilias
+https://github.com/werowe/HypatiaAcademy/blob/master/pandas/ilya-pandas_homework_20_02_25.ipynb
+
+
+## Feb 27  Take Data from Previous Classes and Now put into Spark
+
+https://github.com/werowe/HypatiaAcademy/blob/master/spark/youtube_german_channels.ipynb
 
 
 
-##hypothesis testing
+
+
+## Data Cleaning and Preprocessing
+
+
+https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_missing_data.ipynb
+
+
+
+
 
  
-- Data Cleaning and Preprocessing
+- 
 - Exploratory Data Analysis (EDA)
 
 
