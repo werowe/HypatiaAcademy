@@ -90,7 +90,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [SQL Lite Create Tables using Python and SQL commands](https://github.com/werowe/HypatiaAcademy/blob/master/class/sqllite3_create_table.ipynb)
 * [Create Some Random Data](https://github.com/werowe/HypatiaAcademy/blob/master/basics/solution_sqllite_create_random_data.ipynb)
 * [Parent and Child Explained](https://github.com/werowe/HypatiaAcademy/blob/master/class/homework_parent_child_explained.ipynb)
-* [Apache Spark, Spark SQL](https://github.com/werowe/HypatiaAcademy/blob/master/spark/pyspark_sql_weather.ipynb)
+
  
 ## Videos: Basic Python 
  * [How to use ChatGPT](https://www.youtube.com/TJWUugGb3B4)
@@ -145,7 +145,6 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Pandas Introduction](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/2025_02_18_pandas.ipynb)
 * [More Pandas Commands](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_commands.ipynb)
 * [Convert Netflix Data to Apache Spark](https://github.com/werowe/HypatiaAcademy/blob/master/spark/netflix_spark.ipynb)
-* [IMDB Spark](https://github.com/werowe/HypatiaAcademy/blob/master/spark/Imdb_spark_data.ipynb)
 * [IMDB Pandas](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/imdb_pandas_data.ipynb)
 * [Pandas Official User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
 * [Searching for Pandas Data](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_search.ipynb)
@@ -164,7 +163,9 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 
 ## Spark
-[Spark YouTube Videos](https://github.com/werowe/HypatiaAcademy/blob/master/spark/youtube_german_channels.ipynb)
+* [Spark YouTube Videos](https://github.com/werowe/HypatiaAcademy/blob/master/spark/youtube_german_channels.ipynb)
+* [Apache Spark, Spark SQL](https://github.com/werowe/HypatiaAcademy/blob/master/spark/pyspark_sql_weather.ipynb)
+* [IMDB Spark](https://github.com/werowe/HypatiaAcademy/blob/master/spark/Imdb_spark_data.ipynb)
 
 
 # Python Certification
