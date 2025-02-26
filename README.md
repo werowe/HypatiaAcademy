@@ -164,7 +164,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 ## Spark
 * [Spark YouTube Videos](https://github.com/werowe/HypatiaAcademy/blob/master/spark/spark_youtube_german_channels.ipynb)
-* [Apache Spark, Spark SQL](https://github.com/werowe/HypatiaAcademy/blob/master/spark/pyspark_sql_weather.ipynb)
+* [Spark Weather](https://github.com/werowe/HypatiaAcademy/blob/master/spark/pyspark_sql_weather.ipynb)
 * [IMDB Spark](https://github.com/werowe/HypatiaAcademy/blob/master/spark/Imdb_spark_data.ipynb)
 
 
@@ -219,13 +219,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Seaborn Bar](https://github.com/werowe/HypatiaAcademy/blob/master/stats/seaborn_bar.ipynb)
 * [Pie Chart](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2025_02_14_pie_chart.ipynb)
 * [Heatmap](https://github.com/werowe/HypatiaAcademy/blob/master/charts/2023_03_26_charting_heatmap.ipynb)
-* Stack Bar Chart
-* Correlation Matrix
-* Second Axis
-* Box Plot: Box and Whisker Chart
-* Log Scale
-* Time Series Weather Data
- 
+
 
 # Linear and Logistic Regression
 
