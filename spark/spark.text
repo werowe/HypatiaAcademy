@@ -1,0 +1,829 @@
+WEBVTT
+
+Corn.
+
+A.
+
+Hello. Who was that?
+
+Ilya.
+
+Hell yeah. Great. I can't see the… Screen. I'm using my iPad for my second screen.
+
+I got… Actually, I can put three screens on this thing. Let me see here.
+
+Yeah, it works.
+
+Wireless, too.
+
+What do you have? Do you have a Mac or a windows Whoops.
+
+That's fine. You should put bash on it and learn bash, though.
+
+Windows.
+
+Mac has bash built into it. Then you can type it.
+
+Type commands, like, you know. So they're using… Graphics.
+
+All I see is my, uh… My screen, let's see.
+
+You really see the participants.
+
+Participants. Suleima and Eric.
+
+Can anybody play around with this? This thing here.
+
+Well, now once I get it working, I don't know how to turn it off.
+
+The interactive chart.
+
+This thing here did anyone… figure that out.
+
+It's very useful once you get it. Data frame up. Now you can look at all of it, right? You can page through it.
+
+But what I found is if you try to do that with a very large data frame, it will crash your browser.
+
+It will use all the memory. Especially Chrome.
+
+If you have ever looked at the activity monitor on your Mac, you'll see It'll show all the processes that run.
+
+And how much memory it uses chrome Google Chrome uses a lot of, it tries to use… much of the memory on the computer.
+
+So it can crash your computer. Maybe they got some kind of limit on it.
+
+Is Diana on here yet? Diana Erickson.
+
+Dad, I need you here, okay? Okay, so… Now, what we're going to do is we're going to do Okay, let's see here. I made a copy of this. Okay, so here's the agenda for the next couple of weeks.
+
+So… So I copied your notebook because I'm going to work with it.
+
+Here's the plan next couple weeks.
+
+Okay, so we're going to learn how to use Apache Spark.
+
+We're only going to work with that just one, two days And I'll explain why you should use it.
+
+Then we're going to work on data cleansing.
+
+Using pandas. Okay, and then… We're going to actually use… a five-day Kaggle.
+
+Kaggle has these things called Kaggle competitions. We won't take five days.
+
+Where they put this problem out there and you go out there and if you can solve it, you can win money Most of them are AI problems.
+
+I'm not sure how much money it is. Probably a lot.
+
+So, okay, we need to learn how to buy about how to clean data Data scientists will tell you they spend a lot of time Cleaning data.
+
+
+Do you know this? Okay. Data that machine learning uses, AI, it has to be labeled.
+
+For example, and it cannot always be done automatically Like, for example, Eric.
+
+Eric's on here. He downloaded something called the Iris. The IRIS data set, IRIS.
+
+That's the kind of flower. Well, someone had to go into it and type type what each picture was.
+
+Manually. You know?
+
+The whole point of… That was an early database used for image recognition.
+
+So when you get people typing things by hand. They're going to make lots of mistakes.
+
+You know, I had this job when I was in university.
+
+I wrote C++. Programs and i was in graduate school The way people, the way this company did this You wouldn't believe how stupid it was, but it did work.
+
+They had to have people type data in the computer correctly. So what they did was they typed everything two times.
+
+Twice. And if it didn't match… Then you knew there was an error.
+
+Okay, so anyway, there's more sophisticated ways to do that now. Okay, so now This data here looks okay.
+
+We'll use this. So, what is Apache Spark? Hold on, let me see.
+
+Okay, now I'm going to go download this here.
+
+If you think how Google search. Do you think it runs on one computer?
+
+No, it doesn't run on one computer. Why does it not run on one computer?
+
+If you go to Google's office in Mountain View, California, and go in their data center.
+
+How many computers they have. They got thousands, right? They got them in Ireland.
+
+And they got him in California. They got him everywhere. Because… You know, just like numpy, like I was saying with with machine learning.
+
+You need to use… more than one computer. Because one computer only has a certain amount of memory You cannot put enough memory and disk storage on one computer to handle very large problems.
+
+Does anyone know who IBM is?
+
+When I was in school, IBM International Business Machines was a monopoly.
+
+They made this thing called the mainframe. Okay, mainframe computer was that. It was one very large computer.
+
+And it was… is quite interesting because it could run multiple operating systems at the same time.
+
+It wasn't even interactive. It had no screen. Would put… You would… put paper cards into it. You type your program on paper cards And it would read it and then it would read it it would put the output on a printer
+
+Print it out. There was no screen at all. And then you saved your program.
+
+To tape. Okay.
+
+
+German company, I don't know if you heard of them. They made distributed computers.
+
+And you'd go like by five, you'd like buy five of those and run your application on it.
+
+But now… Now we have a… we have infinitely scalable infinitely scalable computers. For example, you're going to see Apache Spark.
+
+Now, Apache Spark is a way to put database on thousands of computers.
+
+Let's just work with it for a minute and then you'll see.
+
+Okay, so I've downloaded this data. Now we can go in here.
+
+And… I'm going to delete the rest of this because here I know what the columns are.
+
+I'm going to save this part, I guess. So it's called… Web scrape. You remember when I put a… put an exclamation mark here. That means do a bash command.
+
+A bash command is like getting me to the operating system, right? If I go here, I'm in Google server. I can say, what's today's date? Just type date, right?
+
+That's what I was saying, Ilya. You could put bash on your Windows computer.
+
+Okay, now. Let's take a look at the top of this.
+
+Thing. Head. We can see, here it is. It's got Oh, this thing.
+
+I don't know where we keep getting this ridiculous data, but look what these people did.
+
+Okay, here's the data, but look what they put in numbers.
+
+This is a really stupid way to do it, isn't it? They put Walmart… retail, and they put a number like this.
+
+With quote marks around it. We got to fix that. Why did they do that?
+
+See, they could have used a delimiter to something else.
+
+Last class, someone had the same problems with data, you know?
+
+So that data has to be converted. Okay, so let's do this.
+
+So we're going to use this thing here.
+
+All right. If you run Jupyter on your Okay, remember, Colab is Jupiter.
+
+Jupyter notebooks. It's just that Google took the code for that and decorated it.
+
+Did things like make you work with Google Drive. It really made it kind of nicer looking.
+
+But it still is Jupiter. Jupiter runs Python, it runs.
+
+Skyler runs lots of things.
+
+Whoops, not it. But when you run Jupyter on your own laptop.
+
+Run Apache on your own laptop. You can see it. You can see it doing its work.
+
+It's very interesting. When we run it in the cloud, it doesn't really give you any information when it's loading data.
+
+Okay, where did that go here? Here.
+
+So now, Apache Spark is here. I don't need this thing called column.
+
+But I need to create Apache Spark session. Now, if you want to.
+
+You can install Apache Spark on your own computer. In fact, I just told you Google has installed it on thousands of computers.
+
+But if you just want to work with apache smart You know, not a very large data set. You can use the one that's built right into the right right into Python. When you install Python it installs Apati Spark. You remember when we worked with SQLite database
+
+We did not have to install SQLite, right? Because it was built in the Python.
+
+So what we're going to do here is we're going to read.
+
+Read a CSV file. And okay, we need to create a session. A session just means the running instance.
+
+Of Apache Spark.
+
+We can give it any name here. We'll call it What is her data? It is…
+
+It looks just like company data. That's all it is. Companies. These are big companies, right? Oh, look at there. There's IBM.
+
+
+
+So anyway, let's read this data in here. Now, I'm going to say use comma separator It has a header, right? See? It's got a header row here If it didn't have a header row, I would have to tell it what column names to use.
+
+
+
+So let's see if this will work now.
+
+She's running. Like I said, if you ran it on your laptop, it would give you this Interesting information, Ian.
+
+Because you can see that it's built to run on more than one server. So it starts up these processes
+
+How big is this file? I'll show you how to tell how big a file is.
+
+I can't run two things at once, but I can say… Let's do a listing.
+
+Ls list things. Okay, now I'm going to say word count dash l Web scrape.
+
+
+If we go back and look at pandas, the data frame.
+
+We also read this in their pandas. We say pd.info. Let's see if it, or I think, is it info like this?
+
+It'll tell you the columns and their types. No, I guess it's… Info.
+
+I used the same name here, see? I called it DataFrame.
+
+All right. Can't do that. Now, look here.
+
+Df, okay, this is a Spark data frame. Df is a spark.
+
+It is not a pandas data frame.
+
+So different rules apply. Don't think of it the same way.
+
+Now, the reason I like to use Spark is…
+
+Well, I just explained it right here. I'll write it out like this.
+
+Why use Spark? Now, for example.
+
+You cannot make charts with Spark. Because it's not designed to run on a screen. It's designed to run in a big data center and stuff.
+
+But the main thing I like about Spark is the main is it lets you use SQL.
+
+And it's very quick. Very quick, very easy.
+
+To look at data using
+
+Using SQL. We will see that. You know, when we did the pandas, where's it down below? She's got any… Yeah, like this, you know, this is easy.
+
+
+Well, with SQL, it's even easier than that. Okay, so now I've got this in here.
+
+Let me just… Oh, look at this, see?
+
+We got a problem with revenue growth, so we'll have to figure out how to fix that.
+
+See here. All right. Now, let's just put something in here.
+
+Okay, the first thing you got to do is…
+
+Okay, they are commands that work with Spark DataFrank, but I don't want to use those. I want to use SQL. So I'm going to say.
+
+Take this Spark data frame and save it as what's called a view.
+
+I don't know if you remember we did… SQLite we did views. View is a common object used with SQL.
+
+Remember SQL structured query language? We did, that's all.
+
+
+This is very useful. So I just need to call it something here. We'll call it companies.
+
+So now.
+
+I think there's a command here. We don't need it. I can use cache.
+
+Cash means means put the data in memory to the extent possible. See, that's the other thing about Spark.
+
+Spark is an in-memory database.
+
+What does that mean? Okay, so if you go run a SQL query against a database, what does it do? What is happening?
+
+You know, with a regular database, with, say, Oracle.
+
+When you run a command. It's going to go look on the disk drive.
+
+It will look on the disk drive. And get the data.
+
+If it's in memory the data is in memory.
+
+So what's the advantage of that? So it goes faster.
+
+
+People, you know. Does anybody know about computer drives? Computer drives were magnetic disks.
+
+Now that most of them are solid state, SSDs. I don't know what kind of disc I have on my computer.
+
+That's called solid state. Style of state means it has no moving parts.
+
+So a computer disk today is, it depends. I don't know if they still sell computers with When you buy a hard drive, is it always solid state? Does anybody know?
+
+It really depends on the computer, but most of the computers nowadays they use SSDs because they're faster.
+
+It used to cost more. But anyway, if you have a magnetic Then the disk controller is a moving part.
+
+It moves. It moves around a disk and reads data. If it's moving, it can be very fast, but it's not… you know, the speed of light, right?
+
+So actually things on the computer don't run at the speed of light, but they run pretty fast.
+
+Okay, so now I've saved this. Okay, so now I can do some queries. The query is very simple.
+
+Remember I said this is the whole reason we do that.
+
+So… we could say describe companies.
+
+See, so it's very simple. You say, okay, spark Up here we created a Spark session, right?
+
+Start Apache Spark. Okay, on that session, we could run SQL, and here's the SQL command.
+
+Everything's an integer. I mean a string. That's bad.
+
+Like I showed you, the way they made that data, I don't… I don't know where… Where it came from. Where'd it come from?
+
+Diana uploaded it to her GitHub, so I'm not sure where it came from It's not Diana's fault. I mean, last week we were looking at data from who from somewhere and it was also… It had all the numbers as strings.
+
+
+Like this, right? That's what these people have done.
+
+That's not valid. Why did they do that, see?
+
+How can that possibly work?
+
+See what it did? It said make a tuple. So this is the same thing as doing x equals…
+
+Anyway, that's how they made that data. It's a bad way to do it. So we're going to have to fix that.
+
+So… First of all, now… So easy this is, just copy the SQL command.
+
+Now let's say select star. Select star means select everything.
+
+From companies.
+
+
+That's good enough to see what's going on here. But look at these things. This is such a mess, right? Like, look, they got… They got revenue growth, they actually put the percent sign in it and they put commas in the
+
+In the revenue. So I got to go back and fix turn those strings into…
+
+And two numbers. Let me see. I think I've done this somewhere before here.
+
+Yeah, okay. Fortunately, I have done this. Now look at here.
+
+Here, I will need to import Another…
+
+Apache Spark function. I'll need this thing called column. And I'll need this thing called regular expression replace.
+
+So let's see here. Which ones are messed up? We want to get revenue.
+
+There's a million ways to do this, right? Pandas, we use this. What was it?
+
+In fact, Diana had it in here before I deleted it. She used…
+
+She had pandas too numeric, right? Well, here, I'm going to do it a different way.
+
+I mean, that's a pandas command. I'll use this. I'll say revenue. Just say, take the comma.
+
+And get rid of it. Replace it with a nothing. Now, you see this cast too long Okay, a couple things you need to know.
+
+Caste means… convert one Type.
+
+To another. Now, a long is an integer.
+
+There's two kinds of enters there's an inters And there's long.
+
+I forget how many the maximum size of long We can ask perplexity here, say, in Apache Spark
+
+What is the largest
+
+Integer. That will fit in data type
+
+
+
+
+
+So we can actually use an int.
+
+So long as… Four numbers.
+
+
+So it works with positive and negative numbers.
+
+Okay, so I need to fix revenue. Uh… Employees… Poise is pretty easy.
+
+So I just use this with column command. So here it says, it says this, it says take this
+
+This column and just write it back to itself, right? It says it uses regular expression replace Which sounds complicated, but it's not a regular expression. It can be.
+
+But this one's just a very simple replace. Okay, now I need to fix… Employees. Oh, they got… The other thing they did too is they put… They put spaces in the name.
+
+Who made this stuff? Okay, so… Revenue. Look what they did.
+
+Got to fix that too. See, they got revenue spelled like this.
+
+Okay. I forget how to rename a column.
+
+Did I do that before? We can't have spaces in a column name.
+
+You can, but it's just cause awkwardness.
+
+Yep, I do happen to have that. So… Let's rename which is the before. Okay, let's rename this.
+
+To just be one word.
+
+Okay, now…
+
+Employees is okay. So let's just make it lowercase.
+
+And then… Revenue growth.
+
+Has got a space in it. Again, not any good. So let's change revenue growth.
+
+To just growth. Now, I need to fix The percentage. It's got a…
+
+It's got a percent sign in it. So how can I fix that? How can I turn that into a number?
+
+What part of this is not a number?
+
+You just remove it the same way you did with the commas in the employees.
+
+Yeah. Yeah, we'll get rid of that. But now… We could do this. We could… Okay, this is not an integer anymore. It's a type float.
+
+Is the right type float? I'm not sure. Might be decimal. I'm going to say float.
+
+But also need to divide it by Right? Because that's what percent means.
+
+
+How do you… Do you do a math?
+
+Operation. A nice patchy spark.
+
+Column. With Python.
+
+I'm not sure how to divide. Or we could leave it as a large number like that.
+
+There must be like a map function or something.
+
+I don't want to do… sign or… or exponent. I just want to divide it.
+
+Well, I guess maybe let's just try this.
+
+Can we just do this?
+
+I don't know if that'll work or not. Let's see if any of this will work.
+
+Is it done already? Couldn't have worked that fast.
+
+No, it didn't run.
+
+Oh, now. Why is this SQL statement not look the same.
+
+You probably don't know the answer because after I, okay, that's changed the data frame. Like if we do data frame show df.show.
+
+It's got revenue here. Why is employees still messed up?
+
+Growth didn't work. What happened with employees?
+
+
+
+Oh, okay. This is just a mess here. I got to put revenue.
+
+I used the same word over here, subscriber, subscribers, subscribers. So it's got subscribers, see?
+
+But anyway, we know float rate. Okay, let's go back and fix it.
+
+I wanted revenue. What did I want? I wanted…
+
+Employees, I've got to put the word employees here.
+
+And then we wanted growth, right? We wanted growth, yeah.
+
+But anyway, COL is the column object, right? We say sparkle SQL function use call.
+
+To represent a column. There's a row object too.
+
+
+Because it's a percentage, you need to put it back in.
+
+Is a floating point number. Now, I can't run this like this. Why? If I ran this, what would happen?
+
+It would use this data, right? This messed up data. So I need to reload the data. How can I reload the data?
+
+How can I make the data frame again?
+
+Just go run this piece. I'm not sure how to close a Spark session.
+
+I guess I could run it twice, but I'll just do this for a minute.
+
+The session's already open, so let's run it again. Did it finish? I'm going to rim it out. Okay.
+
+Let's do show. Should be like it was.
+
+It's not. How do you close a spark session?
+
+Okay, yeah. Now it's back to what it was. How many employees does Walmart have?
+
+
+
+This does seem right, because these people have these what are called warehouse workers.
+
+Anyway, so now, now I've got this straightened out. This should all work now.
+
+Okay, let's go see what it looks like. By the way, let's see what the column types are like now.
+
+Why does it still stay? It still says string because I didn't update the view. Where's the update the view command?
+
+Here. Create view. So update this the view So now I can run a SQL command on it.
+
+Describe companies. That's the SQL command for printing off Yeah.
+
+That's interesting. I put the word float here, which is the wrong word.
+
+Still worked. It made it a double. A double means like a… I think a double means double precision… number, something like this.
+
+It means a floating decimal point. Afloat. There.
+
+Well, look at this. Okay, so this is all turned into something we can work with.
+
+
+Now, let's do some SQL commands with it. For example, this is why you use SQL.
+
+Let's just get a couple things. Okay, let's say let's get… Let's get, what was it called? Company name?
+
+Name. It's like name And let's say…
+
+Revenue.
+
+From companies Now, if you want to put your SQL statement on more than one line, you've got to do this.
+
+Put three quote marks a text that runs across More than one line.
+
+Where? Revenue. Is bigger than…
+
+This must be in millions of dollars, by the way. Yeah, see, it says in millions.
+
+So that should just list a few of them.
+
+Anybody see what's wrong with that?
+
+I mean, compare it to the other one, see what's missing.
+
+Missing the word select.
+
+Okay, so we have three. Companies in America, I guess these are all in America.
+
+They are all-American. Exxonmobil is the oil company.
+
+These are all American companies. Okay, these are the ones that are bigger than… That times a million.
+
+What would that be? I can't even… figure out how big that number is.
+
+
+Okay, so we can do some math. We could say… Okay, we can say select
+
+Some of the revenue
+
+Group.
+
+Industry, right? Let's figure out what… I guess we would need to put the word industry here.
+
+So this is going to give me totals Total revenue for each industry.
+
+Actually, this is not logical. You see the part that's not logical here?
+
+I can't go in here. What I've told it to do is say get name. I can't go here.
+
+I mean, if you look here, okay, we got one retail company, another retail company.
+
+So I wanted to add this revenue And this revenue.
+
+So I can't put the name. The whole point here is to… To throw away the name, right?
+
+In fact, let's put industry in front. I'll take name out.
+
+There it is. I don't know how to make it not chop off the name.
+
+In the display we can ask perplexity again.
+
+Okay, so which is the richest Richest one we'll say order one Now, I got to give this some name here.
+
+See, it just says some revenue. Let's call it, let's just call it revenue.
+
+Well… I want to make it.
+
+Clear that it's not revenue. So I'll say… Revenue sum.
+
+I'm going to put it in descending order. I went the biggest company first.
+
+See how easy that is?
+
+Now that I've done this, okay, now this part here I'm hoping will be interesting because I find it to be very interesting now.
+
+Now, you remember this data is where? It's in the memory It's in the memory of this database.
+
+Across thousands of servers. So it's in what are called partitions.
+
+Now, you would not do this in a production environment because this is called an expensive operation.
+
+
+
+Now, by the way, every time you run one of these SQL statements, it makes a new one.
+
+We're going to call this the totals.
+
+Then we'll say totals show. I don't need to show here anymore.
+
+I want to run the SQL command. Run this SQL.
+
+And create a new data frame. Great data frame.
+
+Totals. Then I'm going to say showed so we can print it out.
+
+Totals.
+
+Now, it's called totals. So I'm going to use the coalesce command.
+
+And then I'm going to write this data out as… as revenue sum.
+
+Now, you probably wouldn't do this much. Uh…
+
+You probably would not do this much. You do this if you want to convert this to some other format.
+
+So now let's do a listing. Now look what here. If I do ls minus dl star, that means list everything List everything. This is a directory.
+
+The L means long, like give me all the information. So look what it did here. See the D The D.
+
+Sample data is a directory because it's got a D here.
+
+The original file we started with is not a directory, so there's no D here.
+
+These other things you need to learn about. This basically means who can read it.
+
+Read, write, and who can execute it. Does it defile permissions?
+
+So anyway, so the revenue sum is not the file that made.
+
+It made a folder. What's in the folder? Let's see.
+
+Look, that's our data file.
+
+Now… Okay, when you copy when you Spark, Hadoop.
+
+These are called big data. Databases, data to a disk drive, you usually drive
+
+Parquet, and there's some other file formats right But anyway, here, so what what format is this now.
+
+We use the word file, I believe. Which will tell us what kind of file it is.
+
+
+You'd have to put them together, right?
+
+It's just a text file. Good. What's in the success folder? I don't know.
+
+Let's do a listing. Of…
+
+And let's say dash L. I want all the details.
+
+Oh, success is empty. It's just an empty file. Interesting. I guess it was supposed to give me some information.
+
+Now we can take a look at it.
+
+Whoops, that's the listing. I wanted to do head.
+
+Okay, there. So…
+
+That's how numbers should be. No commas stored in them. So here's what I want you to do for your homework now.
+
+I want you to go back.
+
+If you did not do the previous homework. You will… have to go back and find a new data frame. Okay.
+
+Go get the data. You used to make a pandas data frame.
+
+And create a Spark data frame. Just copy what I did above, right?
+
+And then, you know. Convert.
+
+Anything… That's not a number.
+
+To number. Okay, then.
+
+Do some… some aggregate operations on it.
+
+Now, for example, Ilya your data was computer games, right?
+
+So one thing you could do there is you could say select count.
+
+Yeah.
+
+And you can say count star.
+
+So you could count computer games. I think there's like select… You could also put a column name here. You could also say select count of some column name.
+
+You can select some. I think there's average maybe Not sure how to spell it.
+
+And then do some subtotals. You know, do a group buy and order.
+
+A… and a logical operation.
+
+In SQL, like… Bigger than.
+
+So in other words, just practice, and we'll only do this for two classes today and next class.
+
+Then we'll be done with pandas. I mean, with Spark.
+
+So what did we do? We took data that was in pandas You don't need to put this in pandas.
+
+Right? The whole point here is to show that you can use a different way of processing it. So take the data that you use for the last class And load it in as a spark You obviously don't need this set index. You don't need this read read thing here, right?
+
+That's pandas.
+
+Don't need this.
+
+Just do what I did, right? This.
+
+Go download it. Get the name. The name is the last part here.
+
+If you forget it, you can do LS, right?
+
+Because if you remember, like if the ones that Diana did, she did it using Kaggle Hub.
+
+And it put the data in a long… file folder called .root something.
+
+Right? I'm going to make sure I could show you that so that you can see here.
+
+So that you can find it.
+
+The other Diana. Let's see.
+
+No, that's the movie one.
+
+Well, you see, okay, that's the right file. I just opened it the wrong way.
+
+So if you use this, if you use… Kaggle, if you download data from Kaggle and you use this.
+
+Then look where it puts it in. It puts it in this long folder name like this.
+
+So you'll have to use the long name. Over here, just put it right in the home folder Right there, the name was just this.
+
+I did w get download from internet. It makes a short name. If you use Kaggle, it's going to use A long name.
+
+So just remember that so you can find your data You know, you could look at it like this head take a look at it.
+
+Then just do this to read it in. Put the name of the file here.
+
+If it's in a long folder The file name would say folder Like this, right?
+
+Do show so you can see it. When you see it, then you'll see what changes you might need. Like you might need to get rid of commas and stuff.
+
+You don't normally have to need to get rid of commas. Most people don't save their data in that odd format.
+
+Okay. Do whatever manipulation you need to get the… columns turned into numbers.
+
+I think most of you won't even have to do that.
+
+And then do some… some select statements now Illy's data is going to be too large. If you do select star.
+
+
+Something like this. Just select a few columns. If you leave this off, it'll just list everything.
+
+Otherwise, I'm saying you could do this too.
+
+Just to take a look at it from the first time.
+
+Let me show everything. Don't put any wear on it.
+
+Right? Okay.
+
+So we'll call this spark we'll call it
+
+
+Your president is in the United States today. I hope it goes well. I think it will.
+
+Okay, so… That's it. Any questions?
+
+
+Ah, good. I need to fix that because… Once you put something here.
+
+In GitHub, it's so difficult to change it. Like… All I can do is change the file. I can't change this stuff.
+
+So thanks. I'd have to delete it.
+
+Put it back in, so…
+
+I think this will be pretty easy. This is straightforward. Then after that, we're going to work on Data cleansing, which will also be… Be more complicated and be more interesting.
+
+Now, I'll give you, let's see where we're… You only got two minutes.
+
+Homework.
+
+So we're going to actually use Kaggle. For the next class, we're going to use
+
+I told you they do these competitions. Well, I don't think this is a competition. I don't know if it was.
+
+They call it a challenge. So we're going to look at the one I made and look at the one they made and study how to how to look at missing values. Now, you know, look at this. You could do this edit my copy
+
+On their data site. You can run their things as notebooks.
+
+You know? They got… This is not Colab. Colab is Google's name. They put Jupiter here.
+
+But then over here, you could get more information like there should be like some comment section where people ask questions.
+
+Stuff like that. I don't know. But anyway, that's it for today.
+
+So I will see you on Tuesday then.
+
+Thanks.Bye.Thank youOkay.
+
