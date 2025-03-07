@@ -112,31 +112,35 @@ https://github.com/werowe/HypatiaAcademy/blob/master/pandas/ilya-pandas_homework
 
 ## Feb 27  Take Data from Previous Classes and Now put into Spark
 
+
+## Example 1
 https://github.com/werowe/HypatiaAcademy/blob/master/spark/youtube_german_channels.ipynb
 
 
+## Example 2
+https://github.com/werowe/HypatiaAcademy/blob/master/spark/2025_02_28_diana_pandas_to_spark.ipynb
+
+
+## Imdb Spark
+https://github.com/werowe/HypatiaAcademy/blob/master/spark/Imdb_spark_data.ipynb
+
+## March 4 Steam Games
+https://github.com/werowe/HypatiaAcademy/blob/master/spark/homework_spark_04_03_25.ipynb
 
 
 
-## Data Cleaning and Preprocessing
-
+## March 8 Data Cleaning and Preprocessing
 
 https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_missing_data.ipynb
 
+## Kaggle Data Cleaning Competition
 
+ 
 
+https://www.kaggle.com/code/rtatman/data-cleaning-challenge-handling-missing-values
 
 
  
-- 
-- Exploratory Data Analysis (EDA)
-
-
-# Apache Spark
- 
- 
-- **Week 3**: Data cleaning techniques (handling missing data, outliers, transformations).
-- **Week 4**: Exploratory Data Analysis (EDA) using Matplotlib and Seaborn.
 
 ### Student Project: **Exploratory Analysis of a Public Dataset**
 - **Objective**: Perform data cleaning and exploratory analysis on a dataset.
