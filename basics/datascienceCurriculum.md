@@ -133,6 +133,21 @@ https://github.com/werowe/HypatiaAcademy/blob/master/spark/homework_spark_04_03_
 
 https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_missing_data.ipynb
 
+## Bad data Examples
+
+### UCI Machine Learning Repository
+* Wine Quality Dataset (contains outliers and formatting issues).    https://archive.ics.uci.edu/dataset/186/wine+quality
+* Solar Flare Dataset (missing values and categorical inconsistencies)  https://archive.ics.uci.edu/dataset/89/solar+flare
+
+### Kaggle
+* https://www.kaggle.com/code/bozungu/ebay-used-car-sales-data  eBay Car Sales Dataset (contains missing values and inconsistencies).
+* https://www.kaggle.com/datasets/yasserh/housing-prices-dataset Includes missing values for features like lot size and house condition, as well as price outliers
+
+### Datahub.io
+
+* Football https://datahub.io/collections/football
+  
+
 ## Kaggle Data Cleaning Competition
 
  
