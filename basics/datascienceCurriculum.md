@@ -129,19 +129,26 @@ https://github.com/werowe/HypatiaAcademy/blob/master/spark/homework_spark_04_03_
 
 
 
-## March 8 Data Cleaning and Preprocessing
+## March 8 Data Cleaning part II
 
 https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_missing_data.ipynb
 
-## Bad data Examples
+**Homework**:  fix x=df.loc[abs(df['salary'] - mean) > 2 * std].apply(makeMean) in that notebook.  It updates all columns and the index too instead of one column.
 
-### UCI Machine Learning Repository
-* Wine Quality Dataset (contains outliers and formatting issues).    https://archive.ics.uci.edu/dataset/186/wine+quality
-* Solar Flare Dataset (missing values and categorical inconsistencies)  https://archive.ics.uci.edu/dataset/89/solar+flare
 
-### Kaggle
-* https://www.kaggle.com/code/bozungu/ebay-used-car-sales-data  eBay Car Sales Dataset (contains missing values and inconsistencies).
-* https://www.kaggle.com/datasets/yasserh/housing-prices-dataset (Includes missing values for features like lot size and house condition, as well as price outliers)
+## March 11: Data Cleaning part I
+
+https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_drop_outliers.ipynb
+
+### Homework Bad data Examples
+
+* UCI Machine Learning Repository
+- Wine Quality Dataset (contains outliers and formatting issues).    https://archive.ics.uci.edu/dataset/186/wine+quality
+- Solar Flare Dataset (missing values and categorical inconsistencies)  https://archive.ics.uci.edu/dataset/89/solar+flare
+
+* Kaggle
+- https://www.kaggle.com/code/bozungu/ebay-used-car-sales-data  eBay Car Sales Dataset (contains missing values and inconsistencies).
+- https://www.kaggle.com/datasets/yasserh/housing-prices-dataset (Includes missing values for features like lot size and house condition, as well as price outliers)
 
 
   
