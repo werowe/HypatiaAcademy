@@ -149,6 +149,7 @@ https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_drop_outliers
 * Kaggle
 - https://www.kaggle.com/code/bozungu/ebay-used-car-sales-data  eBay Car Sales Dataset (contains missing values and inconsistencies).
 - https://www.kaggle.com/datasets/yasserh/housing-prices-dataset (Includes missing values for features like lot size and house condition, as well as price outliers)
+- https://www.kaggle.com/datasets/unsdsn/world-happiness
 
 
   
