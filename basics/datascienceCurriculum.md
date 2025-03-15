@@ -129,16 +129,20 @@ https://github.com/werowe/HypatiaAcademy/blob/master/spark/homework_spark_04_03_
 
 
 
-## March 8 Data Cleaning part II
+## March 8 Data Cleaning part I
 
 https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_missing_data.ipynb
 
 **Homework**:  fix x=df.loc[abs(df['salary'] - mean) > 2 * std].apply(makeMean) in that notebook.  It updates all columns and the index too instead of one column.
 
 
-## March 11: Data Cleaning part I
+##  March 11 Data Cleaning part II:  Drop Outliers
 
 https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_drop_outliers.ipynb
+
+## March 11: Start Some Days of Kaggle Data Cleaning Competition 
+
+https://www.kaggle.com/code/rtatman/data-cleaning-challenge-handling-missing-values
 
 ### Homework Bad data Examples
 
@@ -152,28 +156,17 @@ https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_drop_outliers
   - https://www.kaggle.com/datasets/unsdsn/world-happiness
 
 
+## March 14 Work on Kaggle Data Cleansing 
+
+### Lecture Kaggle notebooks and google doc:
+* https://www.kaggle.com/code/rtatman/data-cleaning-challenge-handling-missing-values
+* https://docs.google.com/document/d/15cqq284X55G352BGTLmg50_t9ZAXf_YWdoNQBVIVvmE/edit?usp=sharing
+* https://www.kaggle.com/code/walkerroweiii/data-cleaning-challenge-scale-and-normalize-data
+
   
 
-## Kaggle Data Cleaning Competition
-
- 
-
-https://www.kaggle.com/code/rtatman/data-cleaning-challenge-handling-missing-values
 
 
- 
-
-### Student Project: **Exploratory Analysis of a Public Dataset**
-- **Objective**: Perform data cleaning and exploratory analysis on a dataset.
-- **Dataset Ideas**:
-  - [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic): Analyze survival rates based on passenger demographics.
-  - [World Happiness Report](https://www.kaggle.com/unsdsn/world-happiness): Explore factors contributing to happiness scores.
-- **Deliverables**:
-  - Cleaned dataset.
-  - Visualizations (e.g., bar plots, histograms, scatterplots).
-  - Insights from descriptive statistics.
-
----
 
 ## Month 2: Statistics and Probability for Data Science
 
