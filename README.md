@@ -226,8 +226,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 * [Book I wrote on Machine Learning](https://drive.google.com/file/d/1um0BBueBzgHyx9WsWbIBxUUDELOG_Q1M/view)
 * [Linear Regression in Google Sheets](https://docs.google.com/spreadsheets/d/1-IFkDXQfhpKuUXGRNqLGaHmnELe2kYQZAm487fhz1WI/edit?usp=sharing)
-* [Linear Regression with scikit-learn](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/linearRegressionwithScikit-Learn.ipynb)
-* [scikit-learn Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/November_7_scikit_learn_linear_regression.ipynb)
+* [Linear Regression with scikit-learn and scipy](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/linearRegressionwithScikit-Learn.ipynb)
 * [Income Logistic Regression scikit-learn](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/22_december_sklearn_logisticregression.ipynb)
 * [Pytorch Simple Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/pytorch_simple_linear_regression.ipynb)
 * [Manually Calculate Linear Regression in Google Sheets and Python](https://github.com/werowe/HypatiaAcademy/blob/master/ml/manually_calculate_linear_regression.ipynb)
