@@ -164,6 +164,11 @@ https://www.kaggle.com/code/rtatman/data-cleaning-challenge-handling-missing-val
 * https://www.kaggle.com/code/walkerroweiii/data-cleaning-challenge-scale-and-normalize-data
 
   
+## April 1  Mutiple Linear Regression
+
+Learn to move from simple linear regression to having mutiple features.  so the goal is to learn how reshape X
+
+https://github.com/werowe/HypatiaAcademy/blob/master/ml/2025_04_01_scikit_learn_scipy_linear_regression.ipynb
 
 
 
