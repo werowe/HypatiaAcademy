@@ -228,6 +228,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Linear Regression in Google Sheets](https://docs.google.com/spreadsheets/d/1-IFkDXQfhpKuUXGRNqLGaHmnELe2kYQZAm487fhz1WI/edit?usp=sharing)
 * [Linear Regression with scikit-learn and scipy](https://github.com/werowe/HypatiaAcademy/blob/master/ml/scikit_learn_scipy_linear_regression.ipynb)
 * [Intro: Multiple Linear Regression scikit-learn w/ Homework](https://github.com/werowe/HypatiaAcademy/blob/master/ml/multiple_linear_regression.ipynb)
+* [Corrected Student Homework Fish Weight Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/Homework_2025_04_04%2C_Maria%2C_linear_regression.ipynb)
 * [Wine Quality Multiple Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/wine_quality_multiple_linear_regression.ipynb)
 * [Income Logistic Regression scikit-learn](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/22_december_sklearn_logisticregression.ipynb)
 * [One Hot Encode Categorical Data and HistGradientBoostingRegressor in Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/one_hot_encode_linear_regression.ipynb)
