@@ -171,6 +171,13 @@ Learn to move from simple linear regression to having mutiple features.  so the 
 https://github.com/werowe/HypatiaAcademy/blob/master/ml/2025_04_01_scikit_learn_scipy_linear_regression.ipynb
 
 
+## April 6 Multiple Linear Regression  
+
+Fish:  https://github.com/werowe/HypatiaAcademy/blob/master/ml/multiple_linear_regression_scikit_learn_fish_market.ipynb
+
+Nazar:  https://github.com/werowe/HypatiaAcademy/blob/master/ml/2025-04-05-nazar-wine-quality.ipynb
+
+
 
 
 ## Month 2: Statistics and Probability for Data Science
