@@ -236,6 +236,10 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Manually Calculate Linear Regression in Google Sheets and Python](https://github.com/werowe/HypatiaAcademy/blob/master/ml/manually_calculate_linear_regression.ipynb)
 * [Spark Logistic Regression](https://github.com/werowe/HypatiaAcademy/blob/master/spark/sparkLR.ipynb)
 
+## Videos: Linear and Logistic Regression
+* [Multiple Regression with scikit-learn](https://youtu.be/aay_btyMVf4?si=0NxuUd85dKgt9KZ4)
+
+
 # Classification
 * [Kmeans Clustering](https://github.com/werowe/HypatiaAcademy/blob/master/ml/2024_06_25_kmeans_clustering.ipynb)
   
