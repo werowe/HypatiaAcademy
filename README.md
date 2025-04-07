@@ -230,7 +230,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Intro: Multiple Linear Regression scikit-learn w/ Homework](https://github.com/werowe/HypatiaAcademy/blob/master/ml/multiple_linear_regression.ipynb)
 * [Multiple Regression Fish Weight scikit-learn](https://github.com/werowe/HypatiaAcademy/blob/master/ml/multiple_linear_regression_scikit_learn_fish_market.ipynb)
 * [Wine Quality Multiple Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/wine_quality_multiple_linear_regression.ipynb)
-* [Logistic Regression Google Sheets](https://docs.google.com/spreadsheets/d/1IVI6bVe33BRu9KdbJKwIw_k6IfD4_XjjBXfxNhBjiYw/edit?gid=2145016602#gid=2145016602)
+* [Logistic Regression Introduction](https://github.com/werowe/HypatiaAcademy/blob/master/ml/logistic_regression_intro.ipynb))
 * [Income Logistic Regression scikit-learn](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/22_december_sklearn_logisticregression.ipynb)
 * [HistGradientBoostingRegressor in Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/one_hot_encode_linear_regression.ipynb)
 * [Pytorch Simple Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/pytorch_simple_linear_regression.ipynb)
