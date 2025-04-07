@@ -231,7 +231,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Multiple Regression Fish Weight scikit-learn](https://github.com/werowe/HypatiaAcademy/blob/master/ml/multiple_linear_regression_scikit_learn_fish_market.ipynb)
 * [Wine Quality Multiple Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/wine_quality_multiple_linear_regression.ipynb)
 * [Income Logistic Regression scikit-learn](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/22_december_sklearn_logisticregression.ipynb)
-* [One Hot Encode Categorical Data and HistGradientBoostingRegressor in Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/one_hot_encode_linear_regression.ipynb)
+* [HistGradientBoostingRegressor in Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/one_hot_encode_linear_regression.ipynb)
 * [Pytorch Simple Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/pytorch_simple_linear_regression.ipynb)
 * [Manually Calculate Linear Regression in Google Sheets and Python](https://github.com/werowe/HypatiaAcademy/blob/master/ml/manually_calculate_linear_regression.ipynb)
 * [Spark Logistic Regression](https://github.com/werowe/HypatiaAcademy/blob/master/spark/sparkLR.ipynb)
