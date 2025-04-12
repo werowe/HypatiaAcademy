@@ -234,8 +234,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Income Logistic Regression scikit-learn](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/22_december_sklearn_logisticregression.ipynb)
 * [HistGradientBoostingRegressor in Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/one_hot_encode_linear_regression.ipynb)
 * [Pytorch Simple Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/pytorch_simple_linear_regression.ipynb)
-* [Manually Calculate Linear Regression in Google Sheets and Python](https://github.com/werowe/HypatiaAcademy/blob/master/ml/manually_calculate_linear_regression.ipynb)
-* [Python Calculate Simple Linear Square Regression Manually](https://github.com/werowe/HypatiaAcademy/blob/master/class/calculate_linear_regression_manually.ipynb)
+* [Manually Calculate Linear Regression in Google Sheets](https://docs.google.com/spreadsheets/d/1YCRLxVRAo55gQos9ODFHm9JH0FGGwwOE-JN2D4NM7Tk/edit?usp=sharing)
+* [Manually Calculate Simple Linear Square Regression in Python](https://github.com/werowe/HypatiaAcademy/blob/master/class/calculate_linear_regression_manually.ipynb)
 * [Spark Logistic Regression](https://github.com/werowe/HypatiaAcademy/blob/master/spark/sparkLR.ipynb)
 
 ## Videos: Linear and Logistic Regression
