@@ -178,6 +178,26 @@ Fish:  https://github.com/werowe/HypatiaAcademy/blob/master/ml/multiple_linear_r
 Nazar:  https://github.com/werowe/HypatiaAcademy/blob/master/ml/2025-04-05-nazar-wine-quality.ipynb
 
 
+**Maria** 
+https://github.com/werowe/HypatiaAcademy/blob/master/ml/Homework_2025_04_04%2C_Maria%2C_linear_regression.ipynb
+
+**Nazar**
+https://colab.research.google.com/drive/1nDSW7hnqFWpX9ARqy3LNE4hYj9rclMz4?usp=sharing
+
+
+## April 11 Calulate LSE manually
+
+**explanation**:   https://github.com/werowe/HypatiaAcademy/blob/master/class/calculate_linear_regression_manually.ipynb
+
+## April 22 Calulate LSE manually
+
+
+**solution**: https://github.com/werowe/HypatiaAcademy/blob/master/class/calculate_linear_regression_manually.ipynb
+
+
+
+
+# ===================================Future==========================
 
 
 ## Month 2: Statistics and Probability for Data Science
