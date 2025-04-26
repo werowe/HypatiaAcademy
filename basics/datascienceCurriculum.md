@@ -203,73 +203,10 @@ https://github.com/werowe/HypatiaAcademy/blob/master/ml/logistic_regression_intr
 gambling odds and statistical odds
 
 
-# ===================================Future==========================
+# Note:  Skip k-means clustering due to time.
 
 
-## Month 2: Statistics and Probability for Data Science
-
-### Regression
-
-- **Week 4**: Correlation vs. causation and linear regression.
-
-### Student Project: **Analyzing Relationships Between Variables**
-- **Objective**: Use statistical techniques to find relationships between variables.
-- **Dataset Ideas**:
-  - [Housing Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques): Analyze relationships between house prices and features like square footage or location.
-  - [COVID-19 Dataset](https://ourworldindata.org/coronavirus-data): Explore relationships between vaccination rates and case numbers.
-- **Deliverables**:
-  - Hypothesis tests with conclusions.
-  - Correlation matrix or scatterplots showing relationships.
-  - Regression model results with interpretation.
-
----
-
-## Month 3: Machine Learning Basics
-
-### Topics Covered:
-- Introduction to Machine Learning
-- Supervised Learning (Regression & Classification)
-- Unsupervised Learning (Clustering)
-
-### Week-by-Week Breakdown:
-- **Week 1**: Overview of machine learning concepts and workflows.
-- **Week 2**: Supervised learning with regression models.
-- **Week 3**: Supervised learning with classification models.
-- **Week 4**: Unsupervised learning with clustering algorithms.
-
-### Student Project: **Predicting Outcomes Using Machine Learning**
-- **Objective**: Build a supervised learning model to predict outcomes.
-- **Dataset Ideas**:
-  - [Titanic Dataset](https://www.kaggle.com/c/titanic): Predict survival based on passenger features using classification models.
-  - [California Housing Dataset](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset): Predict house prices using regression models.
-- **Deliverables**:
-  - Trained machine learning model with evaluation metrics (accuracy, R², etc.).
-  - Feature importance analysis or insights from the model.
-
----
-
-## Month 4: Advanced Machine Learning Techniques
-
-### Topics Covered:
-- Decision Trees and Random Forests
-- Model Optimization
-- Ensemble Methods (Bagging, Boosting)
-
-### Week-by-Week Breakdown:
-- **Week 1**: Decision trees and random forests.
-- **Week 2**: Hyperparameter tuning and cross-validation.
-- **Week 3–4**: Ensemble methods like Gradient Boosting (XGBoost, LightGBM).
-
-### Student Project: **Improving Model Performance**
-- **Objective**: Build an optimized ensemble model for a real-world problem.
-- **Dataset Ideas**:
-  - [Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn): Predict customer churn using ensemble methods like Random Forest or XGBoost.
-  - [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud): Detect fraudulent transactions using boosting algorithms.
-- **Deliverables**:
-  - Optimized machine learning model with hyperparameter tuning results.
-  - Comparison of performance metrics before and after optimization.
-
----
+===========================-schedule ahead=============================
 
 ## Month 5: Neural Networks and Deep Learning Basics
 
@@ -282,9 +219,7 @@ gambling odds and statistical odds
     - Convolutional Neural Networks (CNNs)
     - Recurrent Neural Networks (RNNs)
 
-### Week-by-Week Breakdown:
-1. Weeks 1–2 focus on neural network fundamentals.
-2. Weeks 3–4 introduce CNNs for image data and RNNs for sequential data.
+
 
 ### Student Project: **Image Classification or Text Analysis**
 #### Option A: Image Classification
