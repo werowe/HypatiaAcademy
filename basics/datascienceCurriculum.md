@@ -195,6 +195,12 @@ https://colab.research.google.com/drive/1nDSW7hnqFWpX9ARqy3LNE4hYj9rclMz4?usp=sh
 **solution**: https://github.com/werowe/HypatiaAcademy/blob/master/class/calculate_linear_regression_manually.ipynb
 
 
+## April 25 logistic regression
+
+https://github.com/werowe/HypatiaAcademy/blob/master/ml/logistic_regression_intro.ipynb
+
+
+gambling odds and statistical odds
 
 
 # ===================================Future==========================
