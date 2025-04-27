@@ -256,6 +256,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Multiple Linear Regression with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/keras_multiple_linear_regression.ipynb)
 * [Perceptron to solve the AND problem](https://github.com/werowe/HypatiaAcademy/blob/master/ml/perceptron.ipynb)
 * [Convert Perceptron to Keras Neural Network to solve the AND problem](https://github.com/werowe/HypatiaAcademy/blob/master/ml/convert_perceptron_to_AND_classification_keras.ipynb)
+* [MIT Introduction to Deep Learning](https://introtodeeplearning.com/)
 
 # Large Language Models
 * [Transformers](https://github.com/werowe/HypatiaAcademy/blob/master/ml/transformers.ipynb)
