@@ -253,6 +253,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Gradient](https://github.com/werowe/HypatiaAcademy/blob/master/ml/gradient.ipynb)
 * [Perceptron](https://github.com/werowe/HypatiaAcademy/blob/master/ml/perceptron.ipynb)
 * [PyTorch, Keras, vs TensorFlow and Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/pytorch_keras_tensorflow_linear_regression.ipynb)
+* [Deep Learning, by Yann LeCun1,2, Yoshua Bengio3 & Geoffrey Hinton.  Nature.  2005](https://www.researchgate.net/publication/277411157_Deep_Learning)
 * [Simple Linear Regression with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/simple_linear_regression_keras_neural_networkd.ipynb)
 * [Handwriting Image Recognition with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/hand_writing_recognition.ipynb)
 * [Multiple Linear Regression with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/keras_multiple_linear_regression.ipynb)
