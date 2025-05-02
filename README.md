@@ -237,6 +237,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Manually Calculate Linear Regression in Google Sheets](https://docs.google.com/spreadsheets/d/1YCRLxVRAo55gQos9ODFHm9JH0FGGwwOE-JN2D4NM7Tk/edit?usp=sharing)
 * [Manually Calculate Simple Linear Square Regression in Python](https://github.com/werowe/HypatiaAcademy/blob/master/class/calculate_linear_regression_manually.ipynb)
 * [Spark Logistic Regression](https://github.com/werowe/HypatiaAcademy/blob/master/spark/sparkLR.ipynb)
+* [MultiOutputClassifier LogisticRegression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/MultiOutputClassifier_LogisticRegression.ipynb)
 
 ## Videos: Linear and Logistic Regression
 * [Multiple Regression with scikit-learn](https://youtu.be/aay_btyMVf4?si=0NxuUd85dKgt9KZ4)
