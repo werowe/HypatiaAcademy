@@ -203,8 +203,7 @@ https://github.com/werowe/HypatiaAcademy/blob/master/ml/logistic_regression_intr
 gambling odds and statistical odds
 
 
-# May 2 
-MNIST
+# May 2 Begin Neural Networks MNIST
 
 https://github.com/werowe/HypatiaAcademy/blob/master/ml/2025_05_02_handwriting_recognition.ipynb
 
