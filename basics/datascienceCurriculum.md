@@ -203,240 +203,28 @@ https://github.com/werowe/HypatiaAcademy/blob/master/ml/logistic_regression_intr
 gambling odds and statistical odds
 
 
-# Note:  Skip k-means clustering due to time.
+# May 2 
+MNIST
+
+https://github.com/werowe/HypatiaAcademy/blob/master/ml/2025_05_02_handwriting_recognition.ipynb
+
+**Homework: Dissecting a Neural Network for MNIST Classification**
+Objective: Deconstruct a trained MNIST model to understand data flow, layer operations, and prediction mechanics.
+Part 1: Data Anatomy (30%)
+
+Dataset Inspection
+* Load MNIST using any library (24)
+
+Report:
+* Training/test sample counts
+* Image dimensions
+* Pixel value range
+
+Plot first 10 training images with labels
+1. Input Normalization
+2. Convert pixel values from255 to1
+Explain why normalization matters for training
 
 
-===========================-schedule ahead=============================
-
-## Month 5: Neural Networks and Deep Learning Basics
-
-### Topics Covered:
-1. Fundamentals of Neural Networks
-    - Architecture, activation functions, forward/backpropagation
-    - Loss functions
-    - TensorFlow/Keras basics
-2. Applications of Deep Learning
-    - Convolutional Neural Networks (CNNs)
-    - Recurrent Neural Networks (RNNs)
-
-
-
-### Student Project: **Image Classification or Text Analysis**
-#### Option A: Image Classification
-   - Use a CNN to classify images in a dataset like MNIST or CIFAR10.
-   - Example Dataset: [MNIST Handwritten Digits](http://yann.lecun.com/exdb/mnist/).
-
-#### Option B: Text Sentiment Analysis
-   - Use an RNN or LSTM to perform sentiment analysis on text data.
-   - Example Dataset: [IMDB Movie Reviews](https://ai.stanford.edu/~amaas/data/sentiment/).
-
-#### Deliverables for Both Options:
-   - Trained neural network model with evaluation metrics (accuracy, loss).
-   - Visualizations of training progress (e.g., loss curves).
-
----
-
-## Month 6: Advanced Deep Learning & Capstone Project
-
-### Topics Covered:
-1. Advanced Deep Learning Topics
-    - Transfer learning with pre-trained models (e.g., ResNet, VGG).
-    - Generative Adversarial Networks (GANs).
-2. Capstone Project Execution & Presentation
-
-### Week-by-Week Breakdown:
-1. Weeks 1–2 focus on advanced deep learning techniques like transfer learning and GANs.
-2. Weeks 3–4 are dedicated to the capstone project.
-
----
-
-### Capstone Project Ideas
-Students choose a topic based on their interests. They will work independently or in teams to apply all the skills learned during the course.
-
-#### Example Capstone Projects:
-1. **Image Classification Using Transfer Learning**
-   - Use a pre-trained model like ResNet or VGG to classify custom images (e.g., medical images or wildlife photos).
-   - Example Dataset: [Chest X-Ray Images for Pneumonia Detection](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
-
-2. **Time-Series Forecasting**
-   - Use RNNs/LSTMs to forecast stock prices or weather patterns.
-   - Example Dataset: [Stock Market Data](https://www.kaggle.com/datasets/szrlee/stock-time-series-data).
-
-3. **Customer Segmentation + Predictive Modeling**
-   - Combine clustering techniques with supervised learning to segment customers and predict behavior like churn or purchase likelihood.
-   - Example Dataset: [E-Commerce Customer Behavior](https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store).
-
-#### Deliverables for Capstone Projects:
-   - Problem statement and goals clearly defined.
-   - Cleaned dataset with EDA visualizations.
-   - Machine learning/deep learning models built with evaluation metrics reported.
-   - Final presentation summarizing findings, challenges, and results.
-
-
-
-# One-Month Curriculum: Teaching Large Language Models (LLMs)
-
-This curriculum is designed to teach students about Large Language Models (LLMs) using practical tools like **Hugging Face** and **Google Colab**, with a focus on leveraging pre-trained models due to limited computational resources.
-
----
-
-## Week 1: Introduction to Large Language Models
-
-### Day 1: Basics of LLMs
-- **Objective**: Understand what LLMs are and their applications.
-- **Topics**:
-  - What are LLMs? (e.g., GPT, BERT, T5)
-  - Key concepts: transformers, attention mechanism.
-  - Applications: text generation, summarization, translation, etc.
-- **Activity**:
-  - Watch introductory videos on transformers (e.g., "Attention is All You Need").
-  - Discuss real-world applications of LLMs.
-
-### Day 2: Hugging Face and Google Colab Setup
-- **Objective**: Familiarize students with Hugging Face and Google Colab.
-- **Topics**:
-  - Overview of Hugging Face's Transformers library.
-  - Setting up Google Colab for NLP tasks.
-- **Activity**:
-!pip install transformers datasets
-text
-- Explore the Hugging Face Model Hub.
-
-### Day 3–4: Understanding Pre-Trained Models
-- **Objective**: Learn how pre-trained models work and why they’re useful.
-- **Topics**:
-- Pre-training vs. fine-tuning.
-- Common pre-trained models (GPT, BERT, DistilBERT).
-- **Activity**:
-from transformers import pipeline
-summarizer = pipeline("summarization")
-text = "Your long text here..."
-print(summarizer(text))
-text
-- Experiment with different pipelines (e.g., text classification, question answering).
-
-### Day 5: Quiz/Review
-- Review key concepts from the week.
-- Small quiz or discussion to reinforce learning.
-
----
-
-## Week 2: Fine-Tuning Pre-Trained Models
-
-### Day 6–7: Dataset Preparation
-- **Objective**: Learn how to prepare datasets for fine-tuning.
-- **Topics**:
-- Overview of datasets for NLP tasks (e.g., IMDB for sentiment analysis).
-- Tokenization and preprocessing.
-- **Activity**:
-from datasets import load_dataset
-dataset = load_dataset("imdb")
-print(dataset["train"])
-text
-
-### Day 8–9: Fine-Tuning Basics
-- **Objective**: Fine-tune a small pre-trained model on a custom task.
-- **Topics**:
-- Fine-tuning vs. full training.
-- Using smaller models like DistilBERT for resource efficiency.
-- **Activity**:
-
- 
-from transformers import AutoModelForSequenceClassification, TrainingArguments, Trainer
-model = AutoModelForSequenceClassification.from_pretrained("distilbert-base-uncased", num_labels=2)
-Define training arguments
-training_args = TrainingArguments(
-output_dir="./results",
-evaluation_strategy="epoch",
-save_strategy="epoch",
-logging_dir="./logs",
-per_device_train_batch_size=8,
-num_train_epochs=3,
-)
-trainer = Trainer(
-model=model,
-args=training_args,
-train_dataset=dataset["train"],
-eval_dataset=dataset["test"],
-)
-trainer.train()
-text
-
-### Day 10: Evaluation
-- Evaluate the fine-tuned model on test data.
-- Discuss metrics like accuracy, precision, recall.
-
----
-
-## Week 3: Advanced Applications
-
-### Day 11–12: Text Generation with GPT Models
-- **Objective**: Generate coherent text using GPT-based models.
-- **Topics**:
-- How GPT works for text generation.
-- Adjusting parameters like `temperature` and `max_length`.
-- **Activity**:
-from transformers import pipeline
-generator = pipeline("text-generation", model="gpt2")
-prompt = "Once upon a time"
-print(generator(prompt, max_length=50, num_return_sequences=3))
-text
-
-### Day 13–14: Summarization and Translation
-- Use pre-trained models for summarization and translation tasks.
-- Activity:
-summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
-translator = pipeline("translation_en_to_fr", model="Helsinki-NLP/opus-mt-en-fr")
-text = "Your long English text here..."
-print(summarizer(text))
-print(translator(text))
-text
-
----
-
-## Week 4: Custom Projects and Deployment
-
-### Day 15–16: Custom NLP Task
-- Students choose an NLP task (e.g., sentiment analysis, question answering).
-- Prepare data and fine-tune a small model.
-
-### Day 17–18: Model Deployment Basics
-- Learn how to deploy models using Hugging Face Spaces or Streamlit.
-- Activity:
- - Use Hugging Face Spaces with Gradio for deployment.
-
-#### Example Deployment Code:
-import gradio as gr
-from transformers import pipeline
-generator = pipeline("text-generation", model="gpt2")
-def generate_text(prompt):
-return generator(prompt, max_length=50)["generated_text"]
-gr.Interface(fn=generate_text, inputs="text", outputs="text").launch()
-text
-
----
-
-### Day **19–20: Presentations and Wrap-Up**
-1. Students present their projects to the class.
-2. Review key concepts learned throughout the month.
-
----
-
-## Tools Used
-
-1. **Hugging Face Transformers Library**:
-   - For accessing pre-trained models and pipelines.
-2. **Google Colab**:
-   - For running code without requiring powerful local machines.
-3. **Gradio or Hugging Face Spaces**:
-   - For deploying simple interfaces for NLP tasks.
-
----
-
-## Key Benefits of This Curriculum
-
-1. Focuses on practical usage rather than computationally expensive training.
-2. Introduces students to industry-standard tools like Hugging Face.
-3. Encourages hands-on learning through projects and experimentation.
 
  
