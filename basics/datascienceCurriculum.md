@@ -225,5 +225,21 @@ Plot first 10 training images with labels
 Explain why normalization matters for training
 
 
+ Part 2: Network Surgery (50%)
+Layer Visualization
 
- 
+Using your trained model:
+
+Print layer types/sizes (e.g. model.summary() in Keras)
+Calculate total trainable parameters
+Manual Prediction
+
+For one test image:
+
+Flatten to 784-dim vector3
+
+Perform matrix multiplication for first dense layer
+
+```
+hidden_input = np.dot(image_flat, W1) + b1
+```
