@@ -185,6 +185,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Numpy User Guide](https://numpy.org/doc/stable/user/index.html#user)
 * [MIT Numpy Book](https://web.mit.edu/dvp/Public/numpybook.pdf)
 * [Numpy Exercises by Rougier](https://github.com/rougier/numpy-100)
+* [Linear Algebra: Matrix multiplcation and Addition](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/linear_algebra.ipynb)
 
 
 ## Videos: Numpy
