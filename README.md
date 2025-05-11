@@ -250,7 +250,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
   
 
 # Neural Networks
-
+* [Chollet book: private, password protected, copyrighted material](https://github.com/werowe/chollet)
 * [Handwriting Recognition with TensorFlow](https://github.com/werowe/HypatiaAcademy/blob/master/ml/neural_network_handwriting_classification.ipynb)
 * [Hand Writing Recognition Homework](https://github.com/werowe/HypatiaAcademy/blob/master/ml/2025_05_02_handwriting_recognition_lecture.ipynb)
 * [Activation Function Gif by Vizuara](https://github.com/werowe/HypatiaAcademy/blob/master/images/mit-machine-learning-graduate-teaches-machine-learning-and-v0-tjxybbqyngcd1.gif)
