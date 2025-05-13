@@ -265,6 +265,9 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Convert Perceptron to Keras Neural Network to solve the AND problem](https://github.com/werowe/HypatiaAcademy/blob/master/ml/convert_perceptron_to_AND_classification_keras.ipynb)
 * [MIT Introduction to Deep Learning](https://introtodeeplearning.com/)
 
+## Pytorch
+* [Extremely Simple Forward Pass](https://github.com/werowe/HypatiaAcademy/blob/master/ml/extremely_simple_linear_regression_manually_pytorch.ipynb)
+
 ## Private Repository
 * [IMDB Movie Classification](https://github.com/werowe/chollet/blob/main/classifying_movie_reviews_imdb.ipynb)
 
