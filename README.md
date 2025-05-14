@@ -251,19 +251,17 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 # Neural Networks
 * [Chollet book: private, password protected, copyrighted material](https://github.com/werowe/chollet)
-* [Handwriting Recognition with TensorFlow](https://github.com/werowe/HypatiaAcademy/blob/master/ml/neural_network_handwriting_classification.ipynb)
-* [Hand Writing Recognition Homework](https://github.com/werowe/HypatiaAcademy/blob/master/ml/2025_05_02_handwriting_recognition_lecture.ipynb)
+* [Handwriting Recognition with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/neural_network_handwriting_classification.ipynb)
 * [Activation Function Gif by Vizuara](https://github.com/werowe/HypatiaAcademy/blob/master/images/mit-machine-learning-graduate-teaches-machine-learning-and-v0-tjxybbqyngcd1.gif)
 * [Gradient](https://github.com/werowe/HypatiaAcademy/blob/master/ml/gradient.ipynb)
 * [Perceptron](https://github.com/werowe/HypatiaAcademy/blob/master/ml/perceptron.ipynb)
 * [PyTorch, Keras, vs TensorFlow and Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/pytorch_keras_tensorflow_linear_regression.ipynb)
-* [Deep Learning, by Yann LeCun1,2, Yoshua Bengio3 & Geoffrey Hinton.  Nature.  2005](https://www.researchgate.net/publication/277411157_Deep_Learning)
 * [Simple Linear Regression with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/simple_linear_regression_keras_neural_networkd.ipynb)
-* [Handwriting Image Recognition with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/hand_writing_recognition.ipynb)
-* [Multiple Linear Regression with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/keras_multiple_linear_regression.ipynb)
+
+
 * [Perceptron to solve the AND problem](https://github.com/werowe/HypatiaAcademy/blob/master/ml/perceptron.ipynb)
 * [Convert Perceptron to Keras Neural Network to solve the AND problem](https://github.com/werowe/HypatiaAcademy/blob/master/ml/convert_perceptron_to_AND_classification_keras.ipynb)
-* [MIT Introduction to Deep Learning](https://introtodeeplearning.com/)
+
 
 ## Pytorch
 * [Extremely Simple Forward Pass](https://github.com/werowe/HypatiaAcademy/blob/master/ml/extremely_simple_linear_regression_manually_pytorch.ipynb)
