@@ -270,7 +270,6 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Greek Large Language Model](https://github.com/werowe/HypatiaAcademy/blob/master/ml/greek_large_language.ipynb)
 
 # Weather Data
-* [Paphos 10 days This Year Last Year Compare Weather](https://github.com/werowe/HypatiaAcademy/blob/master/stats/pathos-this-year-last-year-comparison.ipynb)
 * [Paphos Daily Weather](https://github.com/werowe/HypatiaAcademy/blob/master/stats/paphos_daily_weather_csv.ipynb)
 * [Consolidate Weather Data and Run SQL Spark Queries](https://github.com/werowe/HypatiaAcademy/blob/master/stats/consolidate_weather_data_run_sql_spark_queries.ipynb)
   
