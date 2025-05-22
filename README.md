@@ -186,7 +186,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [MIT Numpy Book](https://web.mit.edu/dvp/Public/numpybook.pdf)
 * [Numpy Exercises by Rougier](https://github.com/rougier/numpy-100)
 * [Linear Algebra: Matrix multiplcation and Addition](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/linear_algebra.ipynb)
-* 
+  
 
 
 ## Videos: Numpy
@@ -258,6 +258,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 
 ## Pytorch
+* [PyTorch Private](https://github.com/werowe/pytorch/tree/main)
 * [Extremely Simple Forward Pass](https://github.com/werowe/HypatiaAcademy/blob/master/ml/extremely_simple_linear_regression_manually_pytorch.ipynb)
 * [MNIST](https://github.com/werowe/HypatiaAcademy/blob/master/ml/mnist_pytorch.ipynb)
 
