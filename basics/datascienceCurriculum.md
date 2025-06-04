@@ -198,48 +198,43 @@ https://colab.research.google.com/drive/1nDSW7hnqFWpX9ARqy3LNE4hYj9rclMz4?usp=sh
 ## April 25 logistic regression
 
 https://github.com/werowe/HypatiaAcademy/blob/master/ml/logistic_regression_intro.ipynb
-
-
-gambling odds and statistical odds
+ 
 
 
 # May 2 Begin Neural Networks MNIST
 
 https://github.com/werowe/HypatiaAcademy/blob/master/ml/2025_05_02_handwriting_recognition.ipynb
 
-**Homework: Dissecting a Neural Network for MNIST Classification**
-Objective: Deconstruct a trained MNIST model to understand data flow, layer operations, and prediction mechanics.
-Part 1: Data Anatomy (30%)
-
-Dataset Inspection
-* Load MNIST using any library (24)
-
-Report:
-* Training/test sample counts
-* Image dimensions
-* Pixel value range
-
-Plot first 10 training images with labels
-1. Input Normalization
-2. Convert pixel values from255 to1
-Explain why normalization matters for training
+# May 8 Classifying Movie Review
+https://github.com/werowe/chollet/blob/main/classifying_movie_reviews_imdb.ipynb
 
 
- Part 2: Network Surgery (50%)
-Layer Visualization
+# May 22 Covnets: convolutional neural networks MNIST
+https://github.com/werowe/chollet/blob/main/covnet.ipynb
 
-Using your trained model:
+ 
 
-Print layer types/sizes (e.g. model.summary() in Keras)
-Calculate total trainable parameters
-Manual Prediction
 
-For one test image:
+# June 3 Covent Cats and Dogs I
+https://github.com/werowe/chollet/blob/main/covnet_cats_and_dogs.ipynb
 
-Flatten to 784-dim vector3
 
-Perform matrix multiplication for first dense layer
+# June 5 Covnet Cats and Dogs II
+ 
+](https://github.com/werowe/chollet/blob/main/part_II_covnet_cats_and_dogs.ipynb)
 
-```
-hidden_input = np.dot(image_flat, W1) + b1
-```
+
+# June month of
+
+* **Text classification**
+[Chollet](https://livebook.manning.com/book/deep-learning-with-python-third-edition/chapter-14/v-4/)
+
+* **Language models and the Transformer**
+[Chollet](https://livebook.manning.com/book/deep-learning-with-python-third-edition/chapter-15/v-4/)
+
+* **Text generation**
+ [Chollet](https://livebook.manning.com/book/deep-learning-with-python-third-edition/chapter-16/v-4/)
+  
+
+
+ 
