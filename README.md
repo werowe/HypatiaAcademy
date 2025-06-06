@@ -250,6 +250,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
   
 
 # Neural Networks
+* [Deep learning paper in Nature. Yann LeCun, Yoshua Bengio, & Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 * [Chollet book: private, password protected, copyrighted material](https://github.com/werowe/chollet)
 * [Handwriting Recognition with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/neural_network_handwriting_classification.ipynb)
 * [Activation Function Gif by Vizuara](https://github.com/werowe/HypatiaAcademy/blob/master/images/mit-machine-learning-graduate-teaches-machine-learning-and-v0-tjxybbqyngcd1.gif)
