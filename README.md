@@ -250,7 +250,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
   
 
 # Neural Networks
-* [Deep learning paper in Nature. Yann LeCun, Yoshua Bengio, & Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+* [Deep learning paper in Nature. Yann LeCun, Yoshua Bengio, & Geoffrey Hinton 2017](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 * [Colah's Blog](https://colah.github.io/)
 * [Chollet book: private, password protected, copyrighted material](https://github.com/werowe/chollet)
 * [Handwriting Recognition with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/neural_network_handwriting_classification.ipynb)
@@ -261,6 +261,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 ## Pytorch
 * [PyTorch Private](https://github.com/werowe/pytorch/tree/main)
+* [Harvard The Annotated Transformer Updated with PyTorch](https://nlp.seas.harvard.edu/annotated-transformer/)
 * [Extremely Simple Forward Pass](https://github.com/werowe/HypatiaAcademy/blob/master/ml/extremely_simple_linear_regression_manually_pytorch.ipynb)
 * [MNIST](https://github.com/werowe/HypatiaAcademy/blob/master/ml/mnist_pytorch.ipynb)
 
