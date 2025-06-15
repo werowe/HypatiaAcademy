@@ -268,13 +268,13 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 ## Private Repository
 * [IMDB Movie Classification](https://github.com/werowe/chollet/blob/main/classifying_movie_reviews_imdb.ipynb)
 
-# Large Language Models
+# Transformers
 * [Transformers](https://github.com/werowe/HypatiaAcademy/blob/master/ml/transformers.ipynb)
 * [Tranformers Google Paper 2017: Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
 * [Harvard Annotation to Google Paper](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
-* [Fine Tune a Pretrained Model](https://huggingface.co/docs/transformers/training)
-* [BERT Encoded](https://github.com/werowe/HypatiaAcademy/blob/master/ml/bert_encoder.ipynb)
-* [Greek Large Language Model](https://github.com/werowe/HypatiaAcademy/blob/master/ml/greek_large_language.ipynb)
+* [Datacamp Tutorial](https://www.datacamp.com/tutorial/building-a-transformer-with-py-torch)
+
+ 
 
 # Weather Data
 * [Paphos Daily Weather](https://github.com/werowe/HypatiaAcademy/blob/master/stats/paphos_daily_weather_csv.ipynb)
