@@ -261,7 +261,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 ## Pytorch
 * [PyTorch Private](https://github.com/werowe/pytorch/tree/main)
-* [Harvard The Annotated Transformer Updated with PyTorch](https://nlp.seas.harvard.edu/annotated-transformer/)
+
 * [Extremely Simple Forward Pass](https://github.com/werowe/HypatiaAcademy/blob/master/ml/extremely_simple_linear_regression_manually_pytorch.ipynb)
 * [MNIST](https://github.com/werowe/HypatiaAcademy/blob/master/ml/mnist_pytorch.ipynb)
 
@@ -269,6 +269,9 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [IMDB Movie Classification](https://github.com/werowe/chollet/blob/main/classifying_movie_reviews_imdb.ipynb)
 
 # Transformers
+
+* [Datacamp: How Transformers Work](https://www.datacamp.com/tutorial/how-transformers-work)
+* [Harvard The Annotated Transformer Updated with PyTorch](https://nlp.seas.harvard.edu/annotated-transformer/)
 * [Transformers](https://github.com/werowe/HypatiaAcademy/blob/master/ml/transformers.ipynb)
 * [Tranformers Google Paper 2017: Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
 * [Harvard Annotation to Google Paper](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
