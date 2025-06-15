@@ -269,7 +269,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 # Large Language Models
 * [Transformers](https://github.com/werowe/HypatiaAcademy/blob/master/ml/transformers.ipynb)
-* [Tranformers Google Paper: Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
+* [Tranformers Google Paper 2017: Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
+* [Harvard Annotation to Google Paper](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 * [Fine Tune a Pretrained Model](https://huggingface.co/docs/transformers/training)
 * [BERT Encoded](https://github.com/werowe/HypatiaAcademy/blob/master/ml/bert_encoder.ipynb)
 * [Greek Large Language Model](https://github.com/werowe/HypatiaAcademy/blob/master/ml/greek_large_language.ipynb)
