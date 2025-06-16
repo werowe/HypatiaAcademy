@@ -269,7 +269,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [IMDB Movie Classification](https://github.com/werowe/chollet/blob/main/classifying_movie_reviews_imdb.ipynb)
 
 # Transformers
-
+* [Hugging Face Transformers Quick Tour](https://github.com/werowe/HypatiaAcademy/blob/master/ml/transformer_quicktour.ipynb)
 * [Datacamp: How Transformers Work](https://www.datacamp.com/tutorial/how-transformers-work)
 * [Harvard The Annotated Transformer Updated with PyTorch](https://nlp.seas.harvard.edu/annotated-transformer/)
 * [Transformers](https://github.com/werowe/HypatiaAcademy/blob/master/ml/transformers.ipynb)
