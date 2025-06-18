@@ -285,7 +285,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
   
 
 # Reference Links
-*  [Deep Learning with Python Book Code](https://github.com/fchollet/deep-learning-with-python-notebooks)
+*  [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+*  [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
  
 
 
