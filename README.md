@@ -261,12 +261,9 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 ## Pytorch
 * [PyTorch Private](https://github.com/werowe/pytorch/tree/main)
-
 * [Extremely Simple Forward Pass](https://github.com/werowe/HypatiaAcademy/blob/master/ml/extremely_simple_linear_regression_manually_pytorch.ipynb)
-* [MNIST](https://github.com/werowe/HypatiaAcademy/blob/master/ml/mnist_pytorch.ipynb)
+* [PyTorch MNIST](https://github.com/werowe/HypatiaAcademy/blob/master/ml/mnist_pytorch.ipynb)
 
-## Private Repository
-* [IMDB Movie Classification](https://github.com/werowe/chollet/blob/main/classifying_movie_reviews_imdb.ipynb)
 
 # Transformers
 * [Hugging Face Transformers Quick Tour](https://github.com/werowe/HypatiaAcademy/blob/master/ml/transformer_quicktour.ipynb)
