@@ -261,7 +261,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 ## Decision Trees
 
-* Decision Tree Model
+* [Private: Decision Tree Model](https://github.com/werowe/coursera/blob/main/decision_tree.ipynb)
 * Random Forest
 * XGBoost
 
