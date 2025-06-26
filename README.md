@@ -259,7 +259,11 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Simple Linear Regression with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/simple_linear_regression_keras_neural_networkd.ipynb)
 * [Keras Neural Network to solve the AND problem](https://github.com/werowe/HypatiaAcademy/blob/master/ml/convert_perceptron_to_AND_classification_keras.ipynb)
 
-# Decision Trees
+## Decision Trees
+
+* Decision Tree Model
+* Random Forest
+* XGBoost
 
 
 
