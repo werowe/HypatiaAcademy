@@ -287,7 +287,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 # Weather Data
 * [Paphos Daily Weather](https://github.com/werowe/HypatiaAcademy/blob/master/stats/paphos_daily_weather_csv.ipynb)
 * [Consolidate Weather Data and Run SQL Spark Queries](https://github.com/werowe/HypatiaAcademy/blob/master/stats/consolidate_weather_data_run_sql_spark_queries.ipynb)
-  
+* [This Year versus Last Year Sea Conditions 10-Day](https://github.com/werowe/HypatiaAcademy/blob/master/stats/sea_conditions.ipynb)  
 
 # Reference Links
 *  [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
