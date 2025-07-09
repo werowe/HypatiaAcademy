@@ -260,6 +260,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Activation Function Gif by Vizuara](https://github.com/werowe/HypatiaAcademy/blob/master/images/mit-machine-learning-graduate-teaches-machine-learning-and-v0-tjxybbqyngcd1.gif)
 * [Simple Linear Regression with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/simple_linear_regression_keras_neural_networkd.ipynb)
 * [Keras Neural Network to solve the AND problem](https://github.com/werowe/HypatiaAcademy/blob/master/ml/convert_perceptron_to_AND_classification_keras.ipynb)
+* [Computation Graph](https://github.com/werowe/HypatiaAcademy/blob/master/ml/computation_graph_and_the_chain_rule.ipynb)
 
 ## Decision Trees
 
