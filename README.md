@@ -25,7 +25,7 @@
 | [Statistics](#statistics)  | [Charting](#charting) | 
 | [Linear and Logistic Regression](#linear-and-logistic-regression) |  [Data Science Analysis](#data-science-analysis) | 
 | [Neural Networks](#neural-networks) |  [Decision Trees](#decision-trees) | 
-| [Transformers](#transformers) | |
+| [Transformers](#transformers) | [Matrix Operations](#linear-algebra) |
 
 
 
@@ -186,9 +186,12 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Numpy User Guide](https://numpy.org/doc/stable/user/index.html#user)
 * [MIT Numpy Book](https://web.mit.edu/dvp/Public/numpybook.pdf)
 * [Numpy Exercises by Rougier](https://github.com/rougier/numpy-100)
+
+## Linear Algebra
 * [Linear Algebra: Matrix multiplcation and Addition](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/linear_algebra.ipynb)
 * [Linear Algebra:  Algorithm to Explain Matrix Multiplication](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/matrix_multiplication.ipynb)
 * [Broadcasting](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/broadcasting.ipynb)
+* [Matrix Operations Quiz](https://github.com/werowe/HypatiaAcademy/blob/master/ml/linear_algebra_exercises.ipynb)
   
 
 
