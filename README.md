@@ -265,6 +265,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Keras Neural Network to solve the AND problem](https://github.com/werowe/HypatiaAcademy/blob/master/ml/convert_perceptron_to_AND_classification_keras.ipynb)
 * [Computation Graph](https://github.com/werowe/HypatiaAcademy/blob/master/ml/computation_graph_and_the_chain_rule.ipynb)
 * [Deep Learning Notations](https://github.com/werowe/HypatiaAcademy/blob/master/ml/deep-learning-notation.pdf)
+* [Protected:  Neural Network Step-by-Step](https://github.com/werowe/deeplearning/blob/main/neural_network_step_by_step_calculation.ipynb)
+* [Protected:  Deep Learning Step-by-Step](https://github.com/werowe/deeplearning/blob/main/coursera_deep_l_layer_neural_networks.ipynb)
 
 ## Decision Trees
 
