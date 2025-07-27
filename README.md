@@ -267,7 +267,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Deep Learning Notations](https://github.com/werowe/HypatiaAcademy/blob/master/ml/deep-learning-notation.pdf)
 * [Assigningment Single Neuron Manually Calculate Logistic Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/single_node_neural_network_logistic_regression.ipynb)
 * [Working Single Neuron Manually Calculate Logistic Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/working_single_node_neural_network_logistic_regression.ipynb)
-* [Manual Two Layers](https://github.com/werowe/HypatiaAcademy/blob/master/ml/manual_two_layers_four_neurons.ipynb)
+* [Manual Single Hidden-layer Neural Network](https://github.com/werowe/HypatiaAcademy/blob/master/ml/manual_two_layers_four_neurons.ipynb)
 * [Protected:  Neural Network Step-by-Step](https://github.com/werowe/deeplearning/blob/main/neural_network_step_by_step_calculation.ipynb)
 * [Protected:  Deep Learning Step-by-Step](https://github.com/werowe/deeplearning/blob/main/coursera_deep_l_layer_neural_networks.ipynb)
 
