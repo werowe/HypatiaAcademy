@@ -266,6 +266,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Computation Graph](https://github.com/werowe/HypatiaAcademy/blob/master/ml/computation_graph_and_the_chain_rule.ipynb)
 * [Deep Learning Notations](https://github.com/werowe/HypatiaAcademy/blob/master/ml/deep-learning-notation.pdf)
 * [Assigningment Single Neuron Manually Calculate Logistic Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/single_node_neural_network_logistic_regression.ipynb)
+* [TensorFlow Manual Single Neuron](https://github.com/werowe/HypatiaAcademy/blob/master/ml/tensorflow_tape_gradient_descent.ipynb)
 * [Working Single Neuron Manually Calculate Logistic Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/working_single_node_neural_network_logistic_regression.ipynb)
 * [Manual Single Hidden-layer Neural Network](https://github.com/werowe/HypatiaAcademy/blob/master/ml/single_hidden_layer_neural_network.ipynb)
 
