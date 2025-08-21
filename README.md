@@ -300,10 +300,10 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Consolidate Weather Data and Run SQL Spark Queries](https://github.com/werowe/HypatiaAcademy/blob/master/stats/consolidate_weather_data_run_sql_spark_queries.ipynb)
 * [Sea Temperature](https://github.com/werowe/HypatiaAcademy/blob/master/stats/sea_conditions.ipynb)  
 
-# Reference Links
-*  [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
-*  [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
- 
+# About Walker Rowe
+* [Walker Code Tutorials](https://werowe.github.io/walkercodetutorials/)
+* [Walker Rowe LinkedIn](https://www.linkedin.com/in/walkerrowe/)
+* [Walker Rowe Upwork](https://www.upwork.com/freelancers/walkerrowe)
 
 
 
