@@ -283,17 +283,13 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Extremely Simple Forward Pass](https://github.com/werowe/HypatiaAcademy/blob/master/ml/extremely_simple_linear_regression_manually_pytorch.ipynb)
 * [PyTorch MNIST](https://github.com/werowe/HypatiaAcademy/blob/master/ml/mnist_pytorch.ipynb)
 
-
-# Transformers
-* [Hugging Face Transformers Quick Tour](https://github.com/werowe/HypatiaAcademy/blob/master/ml/transformer_quicktour.ipynb)
-* [Datacamp: How Transformers Work](https://www.datacamp.com/tutorial/how-transformers-work)
-* [Harvard The Annotated Transformer Updated with PyTorch](https://nlp.seas.harvard.edu/annotated-transformer/)
-* [Transformers](https://github.com/werowe/HypatiaAcademy/blob/master/ml/transformers.ipynb)
-* [Tranformers Google Paper 2017: Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
-* [Harvard Annotation to Google Paper](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
-* [Datacamp Tutorial](https://www.datacamp.com/tutorial/building-a-transformer-with-py-torch)
-
- 
+# Research Papers
+* [Deep Learning Yann LeCun1,2, Yoshua Bengio3
+ & Geoffrey Hinton4](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+* [Visualizing Data using t-SNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
+* [Attention is All you Need](https://arxiv.org/pdf/1706.03762)
+* [Efficient Estimation of Word Representations in
+Vector Space](https://arxiv.org/pdf/1301.3781)
 
 # Weather Data
 * [Paphos Daily Weather](https://github.com/werowe/HypatiaAcademy/blob/master/stats/paphos_daily_weather_csv.ipynb)
