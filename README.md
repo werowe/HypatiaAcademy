@@ -24,7 +24,7 @@
 | [Pandas](#pandas) |  [Numpy](#numpy) |  
 | [Statistics](#statistics)  | [Charting](#charting) | 
 | [Linear and Logistic Regression](#linear-and-logistic-regression) |  [Data Science Analysis](#data-science-analysis) | 
-| [Neural Networks](#neural-networks) |  [Decision Trees](#decision-trees) | 
+| [Neural Networks](#neural-networks) |   | 
 | [Research Papers and Posts](#research-papers-and-blog-posts) | [Matrix Operations](#linear-algebra) |
 
 
@@ -257,9 +257,6 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
   
 
 # Neural Networks
-* [Deep learning paper in Nature. Yann LeCun, Yoshua Bengio, & Geoffrey Hinton 2017](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
-* [Colah's Blog](https://colah.github.io/)
-* [Chollet book: private, password protected, copyrighted material](https://github.com/werowe/chollet)
 * [Handwriting Recognition with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/neural_network_handwriting_classification.ipynb)
 * [Activation Function Gif by Vizuara](https://github.com/werowe/HypatiaAcademy/blob/master/images/mit-machine-learning-graduate-teaches-machine-learning-and-v0-tjxybbqyngcd1.gif)
 * [Simple Linear Regression with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/simple_linear_regression_keras_neural_networkd.ipynb)
@@ -269,11 +266,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Numpy with Theory Manual Single Neuron](https://github.com/werowe/HypatiaAcademy/blob/master/ml/working_single_node_neural_network_logistic_regression.ipynb)
 * [Manual Single Hidden-layer Neural Network](https://github.com/werowe/HypatiaAcademy/blob/master/ml/single_hidden_layer_neural_network.ipynb)
 * [TensorFlow Manual Single Neuron](https://github.com/werowe/HypatiaAcademy/blob/master/ml/tensorflow_tape_gradient_descent.ipynb)
-
-
-## Decision Trees
-
-* [Private: Decision Tree Model](https://github.com/werowe/coursera/blob/main/decision_tree.ipynb)
+ 
  
 
 
