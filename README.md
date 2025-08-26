@@ -95,10 +95,10 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
  
 ## Videos: Basic Python 
- * [How to use ChatGPT](https://www.youtube.com/TJWUugGb3B4)
- * [Python Data Types, Logic Operators, the If Statement, Printing Numbers](https://youtu.be/5L445gF9wI8)
+* [How to use ChatGPT](https://www.youtube.com/TJWUugGb3B4)
+* [Python Data Types, Logic Operators, the If Statement, Printing Numbers](https://youtu.be/5L445gF9wI8)
 * [Python Editors and Interpreters](https://youtu.be/oXvs7cZ84PQ)
-*  [Character Sets and Character Encoding](https://youtu.be/nVdgxm0ah1c)
+* [Character Sets and Character Encoding](https://youtu.be/nVdgxm0ah1c)
 * [Functions](https://youtu.be/N3iFuashvjM)
 * [Sets and Tuples](https://www.youtube.com/watch?v=qonWnyqBalg)
 * [Class and Objects](https://youtu.be/DLM9lD0yUdg) 
@@ -194,17 +194,13 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Broadcasting](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/broadcasting.ipynb)
 * [Matrix Operations Quiz](https://github.com/werowe/HypatiaAcademy/blob/master/ml/linear_algebra_exercises.ipynb)
   
-
-
 ## Videos: Numpy
 * [Understanding Numpy Dimensions, Shape, and Slicing Operations](https://www.youtube.com/watch?v=CgA0EQjkxlk)
 
- 
 # Data Science Analysis
  * [Is IQ related to COVID Vaccination Rate?](https://github.com/werowe/HypatiaAcademy/blob/master/classNotes/vaccines%20versus%20IQ%20linear%20regression.ipynb)
  * [Is there Global Warming in Cyprus?](https://github.com/werowe/HypatiaAcademy/blob/master/assignment/Paphosweather.ipynb)
  * [How hot is Paphos in July?](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb)
-
 
 # Statistics
 * [The Normal Curve](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/october-20-2023-normal-curve--and-weibull-distribution.ipynb)
@@ -269,7 +265,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
  
 
 # NLP
-* [Glove Vectors](https://colab.research.google.com/drive/1uGxzCa8MWRp7KbjeVqRIsTM8wGAFjaHj#scrollTo=MdA3ATxNNx64)
+* [Word Embeddings](https://colab.research.google.com/drive/1uGxzCa8MWRp7KbjeVqRIsTM8wGAFjaHj#scrollTo=MdA3ATxNNx64)
 
 
 ## Pytorch
