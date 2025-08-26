@@ -25,7 +25,8 @@
 | [Statistics](#statistics)  | [Charting](#charting) | 
 | [Linear and Logistic Regression](#linear-and-logistic-regression) |  [Data Science Analysis](#data-science-analysis) | 
 | [Neural Networks](#neural-networks) |  [Decision Trees](#decision-trees) | 
-| [Transformers](#transformers) | [Matrix Operations](#linear-algebra) |
+| [Research Papers and Posts](#research-papers-and-blog-posts) | [Matrix Operations](#linear-algebra) |
+
 
 
 
@@ -273,9 +274,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 ## Decision Trees
 
 * [Private: Decision Tree Model](https://github.com/werowe/coursera/blob/main/decision_tree.ipynb)
-* Random Forest
-* XGBoost
-
+ 
 
 
 ## Pytorch
