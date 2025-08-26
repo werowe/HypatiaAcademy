@@ -267,7 +267,9 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Manual Single Hidden-layer Neural Network](https://github.com/werowe/HypatiaAcademy/blob/master/ml/single_hidden_layer_neural_network.ipynb)
 * [TensorFlow Manual Single Neuron](https://github.com/werowe/HypatiaAcademy/blob/master/ml/tensorflow_tape_gradient_descent.ipynb)
  
- 
+
+# NLP
+* [Glove Vectors](https://colab.research.google.com/drive/1uGxzCa8MWRp7KbjeVqRIsTM8wGAFjaHj#scrollTo=MdA3ATxNNx64)
 
 
 ## Pytorch
