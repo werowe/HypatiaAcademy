@@ -273,7 +273,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Extremely Simple Forward Pass](https://github.com/werowe/HypatiaAcademy/blob/master/ml/extremely_simple_linear_regression_manually_pytorch.ipynb)
 * [PyTorch MNIST](https://github.com/werowe/HypatiaAcademy/blob/master/ml/mnist_pytorch.ipynb)
 
-# Research Papers and Blog Posts
+# Research Papers
 * [Deep Learning Yann LeCun1,2, Yoshua Bengio3
  & Geoffrey Hinton4](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 * [Visualizing Data using t-SNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
