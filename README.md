@@ -267,11 +267,14 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 # NLP
 * [Word Embeddings](https://colab.research.google.com/drive/1uGxzCa8MWRp7KbjeVqRIsTM8wGAFjaHj#scrollTo=MdA3ATxNNx64)
 
+# Transformers
+* [DataCamp Transformer Tutorials](https://www.datacamp.com/tutorial/how-transformers-work?dc_referrer=https%3A%2F%2Fwww.google.com%2F)
 
 ## Pytorch
 * [PyTorch Private](https://github.com/werowe/pytorch/tree/main)
 * [Extremely Simple Forward Pass](https://github.com/werowe/HypatiaAcademy/blob/master/ml/extremely_simple_linear_regression_manually_pytorch.ipynb)
 * [PyTorch MNIST](https://github.com/werowe/HypatiaAcademy/blob/master/ml/mnist_pytorch.ipynb)
+* [DataCamp: Build a Transformer from Scratch](https://www.datacamp.com/tutorial/building-a-transformer-with-py-torch)
 
 # Research Papers
 * [Deep Learning Yann LeCun1,2, Yoshua Bengio3
@@ -282,6 +285,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 Vector Space](https://arxiv.org/pdf/1301.3781)
 * [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 * [Colah's Blog](https://colah.github.io/)
+* [Harvard Explanation of Transformers](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
 # Weather Data
 * [Paphos Daily Weather](https://github.com/werowe/HypatiaAcademy/blob/master/stats/paphos_daily_weather_csv.ipynb)
