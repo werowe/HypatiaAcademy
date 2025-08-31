@@ -286,7 +286,7 @@ Vector Space](https://arxiv.org/pdf/1301.3781)
 * [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 * [Colah's Blog](https://colah.github.io/)
 * [Harvard Explanation of Transformers](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
-* [Attention Mechanisms](https://d2l.ai/chapter_attention-mechanisms-and-transformers/bahdanau-attention.html)
+* [Attention Mechanisms](https://arxiv.org/pdf/1409.0473)
 
 # Weather Data
 * [Paphos Daily Weather](https://github.com/werowe/HypatiaAcademy/blob/master/stats/paphos_daily_weather_csv.ipynb)
