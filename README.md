@@ -270,7 +270,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 # Transformers
 * [DataCamp Transformer Tutorials](https://www.datacamp.com/tutorial/how-transformers-work?dc_referrer=https%3A%2F%2Fwww.google.com%2F)
 
-## Pytorch
+# Pytorch
 * [PyTorch Private](https://github.com/werowe/pytorch/tree/main)
 * [Extremely Simple Forward Pass](https://github.com/werowe/HypatiaAcademy/blob/master/ml/extremely_simple_linear_regression_manually_pytorch.ipynb)
 * [PyTorch MNIST](https://github.com/werowe/HypatiaAcademy/blob/master/ml/mnist_pytorch.ipynb)
