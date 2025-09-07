@@ -264,12 +264,11 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [TensorFlow Manual Single Neuron](https://github.com/werowe/HypatiaAcademy/blob/master/ml/tensorflow_tape_gradient_descent.ipynb)
  
 
-# NLP
+# Attention and Transformer Architecture
 * [Word Embeddings](https://colab.research.google.com/drive/1uGxzCa8MWRp7KbjeVqRIsTM8wGAFjaHj#scrollTo=MdA3ATxNNx64)
 * [Compute Attention by Hand](https://github.com/werowe/HypatiaAcademy/blob/master/ml/walker-attention-by-hand.ipynb)
 
-# Transformers
-* [DataCamp Transformer Tutorials](https://www.datacamp.com/tutorial/how-transformers-work?dc_referrer=https%3A%2F%2Fwww.google.com%2F)
+
 
 # Pytorch
 * [PyTorch Private](https://github.com/werowe/pytorch/tree/main)
