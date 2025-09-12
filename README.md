@@ -26,7 +26,7 @@
 | [Linear and Logistic Regression](#linear-and-logistic-regression) |  [Data Science Analysis](#data-science-analysis) | 
 | [Neural Networks](#neural-networks) | [Research Papers](#research-papers)  | 
 | [Matrix Operations](#linear-algebra) | [Attention and Transformers](#attention-and-transformer-architecture)|
-| [LLM Powered Agents(#llm-agents-langchain-and-rag-retrieval-augmented-generation)   |    |
+| [LLM Powered Agents](#llm-agents-langchain-and-rag-retrieval-augmented-generation)   |    |
 
 
 
