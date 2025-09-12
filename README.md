@@ -268,6 +268,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Word Embeddings](https://colab.research.google.com/drive/1uGxzCa8MWRp7KbjeVqRIsTM8wGAFjaHj#scrollTo=MdA3ATxNNx64)
 * [Compute Attention by Hand](https://github.com/werowe/HypatiaAcademy/blob/master/ml/walker-attention-by-hand.ipynb)
 
+# LLM Agents, LangChain, and RAG (Retrieval-Augmented Generation)
+* [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 
 # Pytorch
