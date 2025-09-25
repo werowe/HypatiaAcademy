@@ -290,6 +290,7 @@ Vector Space](https://arxiv.org/pdf/1301.3781)
 * [Colah's Blog](https://colah.github.io/)
 * [Harvard Explanation of Transformers](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 * [Attention Mechanism: Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
+* [Efficient Estimation of Word Representations in Vector Space” by Tomas Mikolov](https://arxiv.org/pdf/1301.3781)
 
 
 # Weather Data
