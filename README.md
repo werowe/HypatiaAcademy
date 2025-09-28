@@ -271,6 +271,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 # LLM Agents, LangChain, and RAG (Retrieval-Augmented Generation)
 * [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+* [Query Weather data in SQLLite Database](https://github.com/werowe/HypatiaAcademy/blob/master/ml/weather-language-model.ipynb)
 
 
 # Pytorch
