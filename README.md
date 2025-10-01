@@ -59,6 +59,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Dates and Times](https://github.com/werowe/HypatiaAcademy/blob/master/class/November_2_2023_dates_and_times.ipynb)
 * [Order of Precedence of Math Operators](https://github.com/werowe/HypatiaAcademy/blob/master/class/order_of_precedence.ipynb)
 * [Functions](https://github.com/werowe/HypatiaAcademy/blob/master/basics/functions.ipynb)
+* [Advanced Functions](https://github.com/werowe/HypatiaAcademy/blob/master/class/advanced_functions_homework.ipynb)
 
 ## Data Types and Structures
 * [Data Types](https://github.com/werowe/HypatiaAcademy/blob/master/class/2023_08_09_data_types_math_functions_if_statement.ipynb)
