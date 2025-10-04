@@ -196,6 +196,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Linear Algebra:  Algorithm to Explain Matrix Multiplication](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/matrix_multiplication.ipynb)
 * [Broadcasting](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/broadcasting.ipynb)
 * [Matrix Operations Quiz](https://github.com/werowe/HypatiaAcademy/blob/master/ml/linear_algebra_exercises.ipynb)
+* [Tim Rocktäschel Einsum is All You Need](https://rockt.ai/2018/04/30/einsum)
   
 ## Videos: Numpy
 * [Understanding Numpy Dimensions, Shape, and Slicing Operations](https://www.youtube.com/watch?v=CgA0EQjkxlk)
