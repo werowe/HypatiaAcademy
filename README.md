@@ -276,7 +276,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 * [Query Weather data in SQLLite Database](https://github.com/werowe/HypatiaAcademy/blob/master/ml/weather-language-model.ipynb)
 * [Query Expenses in SQLite Database with langchain](https://github.com/werowe/HypatiaAcademy/blob/master/ml/LangChain-Query-Expenses.ipynb)
-* [Load Data to Pinecone Vector Database](https://github.com/werowe/HypatiaAcademy/tree/master/llm)
+* [Load Data to Pinecone Vector Database](https://github.com/werowe/HypatiaAcademy/blob/master/llm/capitols-and-countries-load-to-pinecone.ipynb)
 
 
 # Pytorch
