@@ -20,6 +20,11 @@
 * https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_10_11_Homework.ipynb
 * https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_10_15_classes.ipynb
 * https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_10_22_classes_and_inheritance.ipynb
+
+# YouTube and Spotify
+* [Youtube and Spotify](https://colab.research.google.com/drive/1hJ_NhXDUwbNlH9HVJYgpioSpW1VbihYY)
+
+  
 * https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_11_08.ipynb
 * https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_11_15_left_to_right_convert_decimal_to_hex.ipynb
 * https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_11_19_regular_expressions.ipynb
