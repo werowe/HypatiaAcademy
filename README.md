@@ -89,6 +89,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [API](https://github.com/werowe/HypatiaAcademy/blob/master/class/october_6_2023_api_introduction.ipynb)
 * [API Exercise](https://github.com/werowe/HypatiaAcademy/blob/master/class/json_current_weather.ipynb)
 * [API copy Results to Google Drive](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_09_17_save_forecast_to_csv.ipynb)
+* [Spotify](https://github.com/werowe/HypatiaAcademy/blob/master/class/2025_10_26_spotify_api.ipynb)
 
 # Databases
 * [Getting Started with SQL Lite](https://github.com/werowe/HypatiaAcademy/blob/master/basics/sqllite_getting_started.ipynb)
