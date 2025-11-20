@@ -29,10 +29,7 @@
 | [Langchain and RAG](#llm-agents-langchain-and-rag-retrieval-augmented-generation)   |    |
 
 
-
-
 # Hypatia Academy
-
 
 Here are lecture notes, videos, tutorials, and computer code from the lectures for [Hypatia Academy](https://hypatiaacademy.io/en/index.html).   
 
@@ -53,7 +50,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 * [Python and Hypatia Class Overview](https://docs.google.com/presentation/d/14R1ppOWIAJj_rqV03FKb8odv_NYzNppPFEsW6f4gs0Y/edit?usp=sharing)
 * [Python Introduction](https://github.com/werowe/HypatiaAcademy/blob/0978ae18babfcb5a1be3496f3458b157e61f2533/class/25_april_2023_intro.ipynb)
 * [How to use Google Colab for Python Programming](https://youtu.be/JwIaYnrM7Oc)
-* [Regular Expressions](class/regular_expressions.ipynb)
+* [Regular Expressions](class/2025_11_11_regular_expressions_2.ipynb)
 * [Handling Errors](https://github.com/werowe/HypatiaAcademy/blob/master/class/novembe4_28_2023_handling_errors.ipynb)
 * [Working with Files](https://github.com/werowe/HypatiaAcademy/blob/master/basics/working%20with%20files.ipynb)
 * [Dates and Times](https://github.com/werowe/HypatiaAcademy/blob/master/class/November_2_2023_dates_and_times.ipynb)
