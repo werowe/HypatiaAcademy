@@ -302,7 +302,8 @@ Vector Space](https://arxiv.org/pdf/1301.3781)
 # Weather Data
 * [Paphos Daily Weather](https://github.com/werowe/HypatiaAcademy/blob/master/stats/paphos_daily_weather_csv.ipynb)
 * [Consolidate Weather Data and Run SQL Spark Queries](https://github.com/werowe/HypatiaAcademy/blob/master/stats/consolidate_weather_data_run_sql_spark_queries.ipynb)
-* [Sea Temperature](https://github.com/werowe/HypatiaAcademy/blob/master/stats/sea_conditions.ipynb)  
+* [Sea Temperature](https://github.com/werowe/HypatiaAcademy/blob/master/stats/consolidate_sea_data_run_sql_spark_queries.ipynb)
+  
 
 # About Walker Rowe
 * [Walker Code Tutorials](https://werowe.github.io/walkercodetutorials/)
