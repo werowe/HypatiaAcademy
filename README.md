@@ -10,7 +10,7 @@
 # Python Basics Table of Contents
 |   |   | 
 | --- | --- |  
-| [Python Basics Curriculum](https://github.com/werowe/HypatiaAcademy/blob/master/basics/pythonBasicsCurriculum.md) | [DeepState](https://github.com/werowe/deepstate-map-data/blob/main/hypatia/README.md)|
+| [Python Basics Curriculum](https://github.com/werowe/HypatiaAcademy/blob/master/basics/pythonBasicsCurriculum.md) | [DeepState Geopandas](https://github.com/werowe/deepstate-map-data/blob/main/hypatia/README.md)|
 | [Python Basics](#python-basics) | [Data Types](#data-types-and-structures)  | 
 | [Strings](#strings-and-string-operations) | [Character Encoding, Bytes, Bits, Languages](#character-encoding-bits-bytes-languages) |
  | [APIs](#apis)| [Algorithms](#algorithms)  |
