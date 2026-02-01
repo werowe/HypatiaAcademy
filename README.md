@@ -35,7 +35,7 @@ Here are lecture notes, videos, tutorials, and computer code from the lectures f
 
 We teach Python programming to children ages 13 to 18.  But adults can use this material too.  Because it's for children, comments are disabled on the YouTube videos.
 
-[Walker Rowe](https://walkercodetutorials.com/) is the owner of Hypatia Academy.  [Walker](https://www.linkedin.com/in/walkerrowe/) is the teacher.  All classes are taught live and are free.  
+Walker Rowe is the owner of Hypatia Academy and sole teacher.  All classes are taught live and are free.  
 
 Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA).  
 
