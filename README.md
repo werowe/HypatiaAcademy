@@ -39,9 +39,7 @@ Walker Rowe is the owner of Hypatia Academy and sole teacher.  All classes are t
 
 Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA).  
 
-> **Contact**
->
-> Contact Walker Rowe at werowe@walkerrowe.com or +357 97629604
+ 
 
 # Python Basics  
 
