@@ -182,6 +182,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 # Numpy 
 
 * [Numpy Introduction](https://github.com/werowe/HypatiaAcademy/blob/master/class/2024_02_04_numpy_slicing_diagonal.ipynb)
+* [Numpy Slicing and Reshaping](https://github.com/werowe/HypatiaAcademy/blob/master/class/2026-02_04_numpy_slicing_diagonal.ipynb) 
 * [Numpy add, multiply, broadcast, relu](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/neural_network_numpy.ipynb)
 * [SciPy Stats Guide](https://docs.scipy.org/doc/scipy-1.15.0/tutorial/stats.html)
 * [Numpy official Quick Start](https://numpy.org/doc/stable/user/quickstart.html)
