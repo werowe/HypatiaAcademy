@@ -6,6 +6,8 @@
   </tr>
 </table>
 
+For inquiries: contact@walkerrowe.com
+
 
 # Python Basics Table of Contents
 |   |   | 
