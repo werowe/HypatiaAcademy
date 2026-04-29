@@ -28,7 +28,7 @@ For inquiries: contact@walkerrowe.com
 | [Linear and Logistic Regression](#linear-and-logistic-regression) |  [Data Science Analysis](#data-science-analysis) | 
 | [Neural Networks](#neural-networks) | [Research Papers](#research-papers)  | 
 | [Matrix Operations](#linear-algebra) | [Attention and Transformers](#attention-and-transformer-architecture)|
-| [Langchain and RAG](#llm-agents-langchain-and-rag-retrieval-augmented-generation)   |    |
+| [Langchain and RAG](#llm-agents-langchain-and-rag-retrieval-augmented-generation)   | [Decision Trees](#decision-trees)   |
 
 
 # Hypatia Academy
@@ -209,7 +209,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
  * [How hot is Paphos in July?](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb)
 
 # Decision Trees
-* Should I go Golfing](https://github.com/werowe/HypatiaAcademy/blob/master/ml/golf_random_forest.ipynb)
+* [Should I go Golfing](https://github.com/werowe/HypatiaAcademy/blob/master/ml/golf_random_forest.ipynb)
 
 # Statistics
 * [The Normal Curve](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/october-20-2023-normal-curve--and-weibull-distribution.ipynb)
