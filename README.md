@@ -208,6 +208,9 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
  * [Is there Global Warming in Cyprus?](https://github.com/werowe/HypatiaAcademy/blob/master/assignment/Paphosweather.ipynb)
  * [How hot is Paphos in July?](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb)
 
+# Decision Trees
+* Should I go Golfing](https://github.com/werowe/HypatiaAcademy/blob/master/ml/golf_random_forest.ipynb)
+
 # Statistics
 * [The Normal Curve](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/october-20-2023-normal-curve--and-weibull-distribution.ipynb)
 * [Normalize Data with z-Score](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/10th_october_zscore.ipynb)
