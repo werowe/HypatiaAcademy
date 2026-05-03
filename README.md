@@ -209,7 +209,8 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
  * [How hot is Paphos in July?](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb)
 
 # Decision Trees
-* [Should I go Golfing](https://github.com/werowe/HypatiaAcademy/blob/master/ml/golf_random_forest.ipynb)
+* [Random Forest Classification](https://github.com/werowe/HypatiaAcademy/blob/master/ml/golf_random_forest.ipynb)
+* [Random Forest Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/linear_regression_random_forest.ipynb)
 
 # Statistics
 * [The Normal Curve](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/october-20-2023-normal-curve--and-weibull-distribution.ipynb)
