@@ -300,6 +300,7 @@ This is our tutorials and lectures on CUDA, GPUs, and AI Inference Optimization
 
 # Pytorch
 * [PyTorch Private](https://github.com/werowe/pytorch/tree/main)
+* [Single Neuron Forward Pass PyTorch II](https://github.com/werowe/HypatiaAcademy/blob/master/ml/single_neural_pytorch.ipynb)
 * [Extremely Simple Forward Pass](https://github.com/werowe/HypatiaAcademy/blob/master/ml/extremely_simple_linear_regression_manually_pytorch.ipynb)
 * [PyTorch MNIST](https://github.com/werowe/HypatiaAcademy/blob/master/ml/mnist_pytorch.ipynb)
 * [DataCamp: Build a Transformer from Scratch](https://www.datacamp.com/tutorial/building-a-transformer-with-py-torch)
