@@ -221,7 +221,7 @@ This is our tutorials and lectures on CUDA, GPUs, and AI Inference Optimization
  * [How hot is Paphos in July?](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/paphosWeatherSummerHottestJuly2023.ipynb)
 
 # Decision Trees
-* [Random Forest Classification](https://github.com/werowe/HypatiaAcademy/blob/master/ml/golf_random_forest.ipynb)
+* [Random Forest Classification](https://github.com/werowe/HypatiaAcademy/blob/master/ml/student_random_forest.ipynb)
 * [Random Forest Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/linear_regression_random_forest.ipynb)
 
 # Statistics
