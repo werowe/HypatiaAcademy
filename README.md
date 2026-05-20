@@ -222,7 +222,7 @@ This is our tutorials and lectures on CUDA, GPUs, and AI Inference Optimization
 
 # Decision Trees
 * [Random Forest Classification](https://github.com/werowe/HypatiaAcademy/blob/master/ml/student_random_forest.ipynb)
-* [Random Forest Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/linear_regression_random_forest.ipynb)
+* [Random Forest Linear Regression](https://github.com/werowe/HypatiaAcademy/blob/master/ml/euro_random_forest_regression.ipynb)
 
 # Statistics
 * [The Normal Curve](https://github.com/werowe/HypatiaAcademy/blob/master/numpy/october-20-2023-normal-curve--and-weibull-distribution.ipynb)
