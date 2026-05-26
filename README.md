@@ -276,6 +276,7 @@ This is our tutorials and lectures on CUDA, GPUs, and AI Inference Optimization
 
 # Neural Networks
 * [Step by Step Single Neuron Neural Network](https://github.com/werowe/HypatiaAcademy/blob/master/ml/step_by_step_single_neural_pytorch.ipynb)
+* [pytorch_single_neuron_with_gradient.ipynb](https://github.com/werowe/HypatiaAcademy/blob/master/ml/pytorch_single_neuron_with_gradient.ipynb)
 * [Handwriting Recognition with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/neural_network_handwriting_classification.ipynb)
 * [Activation Function Gif by Vizuara](https://github.com/werowe/HypatiaAcademy/blob/master/images/mit-machine-learning-graduate-teaches-machine-learning-and-v0-tjxybbqyngcd1.gif)
 * [Simple Linear Regression with Keras](https://github.com/werowe/HypatiaAcademy/blob/master/ml/simple_linear_regression_keras_neural_networkd.ipynb)
