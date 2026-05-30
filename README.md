@@ -41,22 +41,14 @@ Walker Rowe is the owner of Hypatia Academy and sole teacher.  All classes are t
 
 Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA).  
 
-# Spanish Language Code and Videos
+# Code for YouTube Channels
 
 * [Spanish Language Code and Videos](https://github.com/werowe/HypatiaAcademy/blob/master/espanol/README.md)
+* [Silicon Skeptic GPU/CUDA](https://github.com/werowe/silicon_skeptic/blob/main/README.md)
 
 
 
-# The Silicon Skeptic
-
-This is our tutorials and lectures on CUDA, GPUs, and AI Inference Optimization
-
-* [First C++ CUDA Program](https://youtu.be/Yd1_ZQrglKI)
-- [One Dimension Example](https://github.com/werowe/silicon_skeptic/blob/main/cuda_projects/one_dimension.cu)
- [Two Dimension Example](https://github.com/werowe/silicon_skeptic/blob/main/cuda_projects/two_dimensional.cu)
-
-* [Tiling Video](https://www.youtube.com/watch?v=rYM66WlFvSU)
-- [Tiling Study](https://github.com/werowe/silicon_skeptic/tree/main/cuda_projects/tile)
+ 
 
  
 
