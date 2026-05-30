@@ -41,6 +41,11 @@ Walker Rowe is the owner of Hypatia Academy and sole teacher.  All classes are t
 
 Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA).  
 
+# Spanish Language Code and Videos
+
+* [Spanish Language Code and Videos](https://github.com/werowe/HypatiaAcademy/blob/master/espanol/README.md)
+
+
 
 # The Silicon Skeptic
 
