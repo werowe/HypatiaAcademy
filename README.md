@@ -38,7 +38,7 @@ We teach Python programming to children ages 13 to 18 — but adults are welcome
 
 - [Spanish Language Code and Videos](https://github.com/werowe/HypatiaAcademy/blob/master/espanol/README.md)
 - [Silicon Skeptic GPU/CUDA](https://github.com/werowe/silicon_skeptic/blob/main/README.md)
-- [Arduino](https://www.youtube.com/watch?v=OFJqmgFnlJ0)
+- [Arduino](https://github.com/werowe/HypatiaAcademy/blob/master/arduino/REAMD.md)
 
 ---
 
