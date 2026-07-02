@@ -14,6 +14,9 @@
   <a href="https://github.com/werowe/HypatiaAcademy/blob/master/README.md">⬅ Back to Hypatia Academy (Python) main page</a>
 </p>
 
+# YouTube Channel
+* [Hypatia Lab](https://www.youtube.com/@TheSiliconSkeptic-e8g)
+
 ---
 
 ## 🔧 Project 1: Resistor and LED
