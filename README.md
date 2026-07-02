@@ -11,7 +11,7 @@
 <h1 align="center">Hypatia Academy</h1>
 
 <p align="center">
-  Free, live Python, data science, and machine learning classes for students ages 13–18.
+  Free, live Python, data science, and machine learning classes for students ages 13–18.  European time zones.
 </p>
 
 <p align="center">
