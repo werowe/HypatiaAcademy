@@ -19,6 +19,8 @@
 
 ---
 
+# Code and Schematics
+
 ## 🔧 Project 1: Resistor and LED
 
 - [Code](https://github.com/werowe/HypatiaAcademy/blob/master/arduino/led_off.ino)
