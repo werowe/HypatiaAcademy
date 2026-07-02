@@ -19,7 +19,7 @@
   &nbsp;•&nbsp;
   <a href="https://hypatiaacademy.io/en/index.html">🌐 hypatiaacademy.io</a>
   &nbsp;•&nbsp;
-  <a href="https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA">▶️ YouTube Channel</a>
+  <a href="https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA">▶️ (Spanish) YouTube Channel</a>
   &nbsp;•&nbsp;
   <a href="mailto:contact@walkerrowe.com">✉️ contact@walkerrowe.com</a>
 </p>
