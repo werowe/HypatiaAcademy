@@ -45,6 +45,7 @@ Here is our [YouTube video channel](https://www.youtube.com/channel/UCmdy7GcXxuz
 
 * [Spanish Language Code and Videos](https://github.com/werowe/HypatiaAcademy/blob/master/espanol/README.md)
 * [Silicon Skeptic GPU/CUDA](https://github.com/werowe/silicon_skeptic/blob/main/README.md)
+* [Arduino](https://www.youtube.com/watch?v=OFJqmgFnlJ0)
 
 
 
