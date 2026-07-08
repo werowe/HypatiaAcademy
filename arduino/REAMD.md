@@ -22,7 +22,7 @@
 # Code and Schematics
 
 ## 🔧 Project 1: Resistor and LED
-This project shows how to wire the Arduino to make a LED light come on.  So the student learns what a resistor is for and that a LED has both a positive and negative side.  And they learn how to use `pinMode` and 'digitalWrite'.
+This project shows how to wire the Arduino to make a LED light come on.  So the student learns what a resistor is for and that a LED has both a positive and negative side.  And they learn how to use `pinMode` and `digitalWrite`.
 
 - [Wokiwi](https://wokwi.com/projects/468913872872885249)
 - [Video](https://www.youtube.com/watch?v=OFJqmgFnlJ0)
