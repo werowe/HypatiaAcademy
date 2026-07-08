@@ -23,8 +23,7 @@
 
 ## 🔧 Project 1: Resistor and LED
 
-- [Code](https://github.com/werowe/HypatiaAcademy/blob/master/arduino/led_off.ino)
-- [Schematic](https://github.com/werowe/HypatiaAcademy/blob/master/arduino/fritz_len.fzz)
+- [Wokiwi](https://wokwi.com/projects/468913872872885249)
 - [Video](https://www.youtube.com/watch?v=OFJqmgFnlJ0)
 
 ---
