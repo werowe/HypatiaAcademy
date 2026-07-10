@@ -27,6 +27,8 @@ This project shows how to wire the Arduino to make a LED light come on.  So the 
 - [Wokiwi](https://wokwi.com/projects/468913872872885249)
 - [Video](https://www.youtube.com/watch?v=OFJqmgFnlJ0)
 
+- [Use a Transitor as a Switch](https://www.tinkercad.com/things/cCD3kAaFX9Z-use-transistor-as-switch?sharecode=gqMofYtFndFCz_TKFRNXE4qT-6XjS8kaZuFX5hUsIA4)
+
 ---
 
 <p align="center">
