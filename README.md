@@ -34,15 +34,24 @@ We teach Python programming to children ages 13 to 18 — but adults are welcome
 
 **Walker Rowe** is the owner of Hypatia Academy and its sole teacher. All classes are taught live and are completely free.
 
-## 🎬 Code for YouTube Channels
+## 🔌 Hypatia Arduino Lab
 
-- [Spanish Language Code and Videos](https://github.com/werowe/HypatiaAcademy/blob/master/espanol/README.md)
-- [Silicon Skeptic GPU/CUDA](https://github.com/werowe/silicon_skeptic/blob/main/README.md)
-- [Arduino](https://github.com/werowe/HypatiaAcademy/blob/master/arduino/REAMD.md)
+> **Learn C by using it to understand and build a computer—not just by completing programming exercises.**
+
+Hypatia Arduino Lab teaches teenagers how computers work from the ground up through electronics, Arduino, C programming, logic gates, and computer architecture.
+
+### [➡️ Visit the Hypatia Arduino Lab curriculum](https://github.com/werowe/HypatiaAcademy/blob/master/arduino/README.md)
+
+**Electronics Basics** → current, voltage, switches, transistors  
+**Arduino Builds** → LEDs, buttons, sensors  
+**C for Computer Builders** → binary, memory, logic, registers  
+**From NAND to CPU** → gates, adders, registers, CPU emulator  
 
 ---
 
 ## 📑 Table of Contents
+
+
 
 ### Python Basics
 
