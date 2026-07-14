@@ -28,7 +28,7 @@
 
 ## 👋 About
 
-Here are lecture notes, videos, tutorials, and computer code from the lectures for [Hypatia Academy](https://hypatiaacademy.io/en/index.html).
+Here are lecture notes, videos, tutorials, and computer code from the lectures for [Hypatia Academy](https://hypatiaacademy.io/).
 
 We teach Python programming to children ages 13 to 18 — but adults are welcome to use this material too. Because the classes are for children, comments are disabled on the YouTube videos.
 
