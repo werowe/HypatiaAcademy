@@ -49,6 +49,8 @@ Hypatia Arduino Lab teaches teenagers how computers work from the ground up thro
 
 ---
 
+# Hypatia Academy Python Course Material
+
 ## 📑 Table of Contents
 
 
