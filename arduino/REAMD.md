@@ -42,90 +42,13 @@ Watch lessons, demonstrations, and project videos on the:
 
 ---
 
-## Channel Structure
+## Course Material
 
-### Electronics Basics
+* [C Data Types and Operators](https://docs.google.com/document/d/1Z24MPVMrEk-U5n7Y8ZugDzmd57H5F6ZlfZU1-5ydt_M/edit?usp=sharing))
 
-**Current → voltage → switches → transistors**
+* [Arduino Source Code](https://docs.google.com/document/d/1LjD-wkb3c02tX05zMkzuwdilmjwIcPsPwBMjJWG9gWQ/edit?usp=sharing)
 
-Learn how electricity moves through a circuit and how switches and transistors control that movement.
+## Curriculum
 
-### Arduino Builds
-
-**LEDs → buttons → sensors**
-
-Build working circuits and control them with Arduino programs.
-
-### C for Computer Builders
-
-**Binary → memory → logic → registers**
-
-Learn C by using it to understand how computers represent information, make decisions, store data, and communicate with hardware.
-
-### From NAND to CPU
-
-**Gates → adders → registers → CPU emulator**
-
-Begin with logic gates and gradually build the components needed to understand a simple computer processor.
-
----
-
-# Code and Schematics
-
-## 🔧 Project 1: Resistor and LED
-
-This project shows how to wire an LED to an Arduino and control it with a simple program.
-
-Students learn:
-
-- Why an LED needs a resistor
-- That an LED has a positive and negative side
-- How to build a complete circuit
-- How to configure an Arduino pin with `pinMode`
-- How to turn an output on and off with `digitalWrite`
-
-### Project Resources
-
-- [Open the circuit in Wokwi](https://wokwi.com/projects/468913872872885249)
-- [Watch the video](https://www.youtube.com/watch?v=OFJqmgFnlJ0)
-
----
-
-## 🔧 Project 2: Use a Transistor as a Switch
-
-This project shows how a small Arduino signal can control another part of a circuit through a transistor.
-
-Students learn:
-
-- What a transistor does
-- How a transistor works as an electronic switch
-- The roles of the base, collector, and emitter
-- How an Arduino output controls a transistor
-- Why transistors are important in logic gates and computers
-
-### Project Resources
-
-- [Open the circuit in Tinkercad](https://www.tinkercad.com/things/cCD3kAaFX9Z-use-transistor-as-switch?sharecode=gqMofYtFndFCz_TKFRNXE4qT-6XjS8kaZuFX5hUsIA4)
-
----
-
-## From Electricity to Software
-
-Each section of the channel introduces another layer of the computer:
-
-```text
-Electricity
-    ↓
-Switches
-    ↓
-Transistors
-    ↓
-Logic Gates
-    ↓
-Adders and Memory
-    ↓
-Registers
-    ↓
-CPU
-    ↓
-C Programs
+[Course Curriculim A](https://docs.google.com/document/d/1USZ2dndHsG9r1FFVa631dvzaOIcvRh5gBL8QWbP0D4U/edit?usp=sharing)
+[Course Curriculim B](https://docs.google.com/document/d/1snvTrSdtZHK8v-NUbATcldobrPB2fD7hC63Y8UbqowM/edit?usp=sharing)
