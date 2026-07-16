@@ -52,3 +52,9 @@ Watch lessons, demonstrations, and project videos on the:
 
 * [C Course Curriculum](https://docs.google.com/document/d/1USZ2dndHsG9r1FFVa631dvzaOIcvRh5gBL8QWbP0D4U/edit?usp=sharing)
 * [Arduino and C Course](https://docs.google.com/document/d/1snvTrSdtZHK8v-NUbATcldobrPB2fD7hC63Y8UbqowM/edit?usp=sharing)
+
+## Circuits
+
+* [Logical Or](https://www.tinkercad.com/things/01P3CTTz8oX-logical-or)
+* [Using a Transistor as a Switch](https://www.tinkercad.com/things/cCD3kAaFX9Z-use-transistor-as-switch)
+* 
