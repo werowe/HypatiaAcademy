@@ -50,6 +50,7 @@ Watch lessons, demonstrations, and project videos on the:
 
 ## Curriculum
 
+* [Basic C Intro Chapter](https://docs.google.com/document/d/1e6RlwtTXMFfqnIET399ItRagNic3UzQLUKGAiOItDdY/edit?usp=sharing)
 * [C Course Curriculum](https://docs.google.com/document/d/1USZ2dndHsG9r1FFVa631dvzaOIcvRh5gBL8QWbP0D4U/edit?usp=sharing)
 * [Arduino and C Course](https://docs.google.com/document/d/1snvTrSdtZHK8v-NUbATcldobrPB2fD7hC63Y8UbqowM/edit?usp=sharing)
 
