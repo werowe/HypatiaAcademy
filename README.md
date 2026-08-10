@@ -15,7 +15,6 @@
 </p>
 
 <p align="center">
-  <strong>This is the course I teach now.</strong><br>
   Free, live classes in <strong>C programming</strong> and <strong>Arduino electronics</strong> for students ages 13–18.<br>
   Build real circuits, write real C, and finish by building a 4-bit CPU out of NAND gates.
 </p>
