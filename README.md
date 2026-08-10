@@ -75,8 +75,6 @@ classes were for children, comments are disabled on the YouTube videos.
 **Walker Rowe** is the owner of Hypatia Academy and its sole teacher. All classes are taught live and are completely free.
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA">▶️ (Spanish) YouTube Channel</a>
-  &nbsp;•&nbsp;
   <a href="https://hypatiaacademy.io/en/index.html">🌐 hypatiaacademy.io</a>
 </p>
 
