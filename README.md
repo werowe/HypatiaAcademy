@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/CURRICULUM-22d3ee?style=for-the-badge&labelColor=0A2540" alt="Curriculum">
   </a>
   &nbsp;
-  <a href="https://hypatiaacademy.io/en/index.html">
+  <a href="https://hypatiaacademy.io">
     <img src="https://img.shields.io/badge/ENROLL-fb923c?style=for-the-badge&labelColor=0A2540" alt="Enroll">
   </a>
 </p>
