@@ -3,6 +3,18 @@
 </p>
 
 <p align="center">
+  <a href="https://hypatiaacademy.io/">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20HYPATIAACADEMY.IO%20%20%E2%86%92-0A2540?style=for-the-badge&labelColor=0A2540" alt="hypatiaacademy.io">
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="https://hypatiaacademy.io/">👉 Visit hypatiaacademy.io — class schedule, enrollment, and everything else</a></strong>
+</p>
+
+---
+
+<p align="center">
   <a href="https://github.com/werowe/hypatia_lab">
     <img src="https://raw.githubusercontent.com/werowe/HypatiaAcademy/master/images/hypatia_lab_logo.jpg" alt="Hypatia Arduino Lab logo" width="190">
   </a>
@@ -20,6 +32,10 @@
 </p>
 
 <p align="center">
+  <a href="https://hypatiaacademy.io/">
+    <img src="https://img.shields.io/badge/ENROLL%20NOW-fb923c?style=for-the-badge&labelColor=0A2540" alt="Enroll at hypatiaacademy.io">
+  </a>
+  &nbsp;
   <a href="https://github.com/werowe/hypatia_lab">
     <img src="https://img.shields.io/badge/%E2%9A%A1%20ENTER%20THE%20ARDUINO%20LAB-0A2540?style=for-the-badge&labelColor=0A2540" alt="Enter the Arduino Lab">
   </a>
@@ -27,16 +43,12 @@
   <a href="https://github.com/werowe/hypatia_lab/blob/main/README.md">
     <img src="https://img.shields.io/badge/CURRICULUM-22d3ee?style=for-the-badge&labelColor=0A2540" alt="Curriculum">
   </a>
-  &nbsp;
-  <a href="https://hypatiaacademy.io">
-    <img src="https://img.shields.io/badge/ENROLL-fb923c?style=for-the-badge&labelColor=0A2540" alt="Enroll">
-  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/werowe/hypatia_lab">📦 hypatia_lab repository</a>
+  <a href="https://hypatiaacademy.io/">🌐 hypatiaacademy.io</a>
   &nbsp;•&nbsp;
-  <a href="https://hypatiaacademy.io/en/index.html">🌐 hypatiaacademy.io</a>
+  <a href="https://github.com/werowe/hypatia_lab">📦 hypatia_lab repository</a>
   &nbsp;•&nbsp;
   <a href="mailto:contact@walkerrowe.com">✉️ contact@walkerrowe.com</a>
 </p>
@@ -75,7 +87,7 @@ classes were for children, comments are disabled on the YouTube videos.
 **Walker Rowe** is the owner of Hypatia Academy and its sole teacher. All classes are taught live and are completely free.
 
 <p align="center">
-  <a href="https://hypatiaacademy.io">🌐 hypatiaacademy.io</a>
+  <a href="https://hypatiaacademy.io/">🌐 hypatiaacademy.io</a>
 </p>
 
 ---
@@ -222,7 +234,6 @@ classes were for children, comments are disabled on the YouTube videos.
 - [Pandas Introduction](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/2025_02_18_pandas.ipynb)
 - [More Pandas Commands](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_commands.ipynb)
 - [Convert Netflix Data to Apache Spark](https://github.com/werowe/HypatiaAcademy/blob/master/spark/netflix_spark.ipynb)
-- [IMDB Pandas](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/imdb_pandas_data.ipynb)
 - [Pandas Official User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
 - [Searching for Pandas Data](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_search.ipynb)
 - [Group By, sort, Statistics](https://github.com/werowe/HypatiaAcademy/blob/master/pandas/pandas_statistics.ipynb)
@@ -380,7 +391,6 @@ classes were for children, comments are disabled on the YouTube videos.
 
 ## 🔥 Pytorch
 
-- [PyTorch Private](https://github.com/werowe/pytorch/tree/main)
 - [Single Neuron Forward Pass PyTorch II](https://github.com/werowe/HypatiaAcademy/blob/master/ml/single_neural_pytorch.ipynb)
 - [Extremely Simple Forward Pass](https://github.com/werowe/HypatiaAcademy/blob/master/ml/extremely_simple_linear_regression_manually_pytorch.ipynb)
 - [PyTorch MNIST](https://github.com/werowe/HypatiaAcademy/blob/master/ml/mnist_pytorch.ipynb)
@@ -410,8 +420,13 @@ classes were for children, comments are disabled on the YouTube videos.
 
 - [Walker Rowe LinkedIn](https://www.linkedin.com/in/walkerrowe/)
 
-
 ---
+
+<p align="center">
+  <a href="https://hypatiaacademy.io/">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20HYPATIAACADEMY.IO%20%20%E2%86%92-0A2540?style=for-the-badge&labelColor=0A2540" alt="hypatiaacademy.io">
+  </a>
+</p>
 
 <p align="center">
   <strong>⚡ Looking for the current course? <a href="https://github.com/werowe/hypatia_lab">Hypatia Arduino Lab →</a></strong>
