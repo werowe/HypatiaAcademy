@@ -1,51 +1,89 @@
 <p align="center">
-  <a href="https://github.com/werowe/HypatiaAcademy/blob/master/images/logo.png">
-    <img src="https://github.com/werowe/HypatiaAcademy/raw/master/images/logo.png" alt="Hypatia Academy logo" width="260">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/werowe/HypatiaAcademy/blob/master/images/hypatia.png">
-    <img src="https://github.com/werowe/HypatiaAcademy/raw/master/images/hypatia.png" alt="Hypatia" width="260">
-  </a>
-</p>
-
-<h1 align="center">Hypatia Academy</h1>
-
-<p align="center">
-  Free, live Python, data science, and machine learning classes for students ages 13–18.  European time zones.
+  <img src="https://raw.githubusercontent.com/werowe/HypatiaAcademy/master/images/logo.png" alt="Hypatia" width="420">
 </p>
 
 <p align="center">
-  <a href="https://github.com/werowe/HypatiaAcademy/blob/master/README.md">⬅ Back to main repository page</a>
+  <a href="https://github.com/werowe/hypatia_lab">
+    <img src="https://raw.githubusercontent.com/werowe/HypatiaAcademy/master/images/hypatia_lab_logo.jpg" alt="Hypatia Arduino Lab logo" width="190">
+  </a>
+</p>
+
+<h1 align="center">⚡ Hypatia Arduino Lab</h1>
+
+<p align="center">
+  <strong>CODE. CIRCUITS. CREATE.</strong>
+</p>
+
+<p align="center">
+  <strong>This is the course I teach now.</strong><br>
+  Free, live classes in <strong>C programming</strong> and <strong>Arduino electronics</strong> for students ages 13–18.<br>
+  Build real circuits, write real C, and finish by building a 4-bit CPU out of NAND gates.
+</p>
+
+<p align="center">
+  <a href="https://github.com/werowe/hypatia_lab">
+    <img src="https://img.shields.io/badge/%E2%9A%A1%20ENTER%20THE%20ARDUINO%20LAB-0A2540?style=for-the-badge&labelColor=0A2540" alt="Enter the Arduino Lab">
+  </a>
+  &nbsp;
+  <a href="https://github.com/werowe/hypatia_lab/blob/main/README.md">
+    <img src="https://img.shields.io/badge/CURRICULUM-22d3ee?style=for-the-badge&labelColor=0A2540" alt="Curriculum">
+  </a>
+  &nbsp;
+  <a href="https://hypatiaacademy.io/en/index.html">
+    <img src="https://img.shields.io/badge/ENROLL-fb923c?style=for-the-badge&labelColor=0A2540" alt="Enroll">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/werowe/hypatia_lab">📦 hypatia_lab repository</a>
   &nbsp;•&nbsp;
   <a href="https://hypatiaacademy.io/en/index.html">🌐 hypatiaacademy.io</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA">▶️ (Spanish) YouTube Channel</a>
   &nbsp;•&nbsp;
   <a href="mailto:contact@walkerrowe.com">✉️ contact@walkerrowe.com</a>
 </p>
 
+### What you'll learn in the Lab
+
+| | |
+|---|---|
+| 🔌 **Electronics from scratch** | Breadboards, resistors, diodes, transistors, and how a semiconductor actually works |
+| 🧮 **Logic gates** | NAND, AND, OR, XOR — built from transistors and from 74HC00 chips |
+| 💻 **The C language** | Data types, pointers, memory, bit manipulation — the language the hardware speaks |
+| 🤖 **Arduino projects** | Sensors, displays, motors, and circuits you design yourself |
+| 🏆 **Capstone: NANDINO-4** | A working 4-bit CPU emulator built entirely from NAND logic |
+
+<p align="center">
+  <strong><a href="https://github.com/werowe/hypatia_lab">➡️ Go to the full Arduino Lab course material</a></strong>
+</p>
+
+---
 ---
 
-## 👋 About
+<p align="center">
+  <img src="https://raw.githubusercontent.com/werowe/HypatiaAcademy/master/images/hypatia%20logo%20-%20colors.jpg" alt="Hypatia at her laptop" width="220">
+</p>
 
-Here are lecture notes, videos, tutorials, and computer code from the lectures for [Hypatia Academy](https://hypatiaacademy.io/).
+# 🐍 The Python & Machine Learning Archive
 
-We teach Python programming to children ages 13 to 18 — but adults are welcome to use this material too. Because the classes are for children, comments are disabled on the YouTube videos.
+> **📌 Note:** I no longer teach the Python course. Six years of lecture notes, notebooks, videos, and
+> tutorials remain here — free and permanently online for anyone who wants to learn from them.
+> **Current students: head to the [Arduino Lab](https://github.com/werowe/hypatia_lab) instead.**
+
+Everything below is archived teaching material from the Hypatia Academy Python, data science, and
+machine learning classes for students ages 13–18. Adults are welcome to use it too. Because the
+classes were for children, comments are disabled on the YouTube videos.
 
 **Walker Rowe** is the owner of Hypatia Academy and its sole teacher. All classes are taught live and are completely free.
 
-## C and Arduino Course
-This is [a link](https://github.com/werowe/hypatia_lab/blob/main/README.md) to our other course, [Hypatia Arduino Lab](https://github.com/werowe/hypatia_lab/blob/main/README.md) .  Below is the curriculum to the Python course.  
-
-
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCmdy7GcXxuzetz1yWTTrLEA">▶️ (Spanish) YouTube Channel</a>
+  &nbsp;•&nbsp;
+  <a href="https://hypatiaacademy.io/en/index.html">🌐 hypatiaacademy.io</a>
+</p>
 
 ---
 
-# Hypatia Academy Python Course Material
-
 ## 📑 Table of Contents
-
-
 
 ### Python Basics
 
@@ -380,5 +418,5 @@ This is [a link](https://github.com/werowe/hypatia_lab/blob/main/README.md) to o
 ---
 
 <p align="center">
-  <a href="https://github.com/werowe/HypatiaAcademy/blob/master/README.md">⬅ Back to main repository page</a>
+  <strong>⚡ Looking for the current course? <a href="https://github.com/werowe/hypatia_lab">Hypatia Arduino Lab →</a></strong>
 </p>
