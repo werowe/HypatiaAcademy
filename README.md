@@ -411,9 +411,8 @@ classes were for children, comments are disabled on the YouTube videos.
 
 ## 👤 About Walker Rowe
 
-- [Walker Code Tutorials](https://werowe.github.io/walkercodetutorials/)
 - [Walker Rowe LinkedIn](https://www.linkedin.com/in/walkerrowe/)
-- [Walker Rowe Upwork](https://www.upwork.com/freelancers/walkerrowe)
+
 
 ---
 
