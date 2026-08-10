@@ -44,7 +44,7 @@ Watch lessons, demonstrations, and project videos on the:
 
 ## Course Material
 
-* [C Data Types and Operators](https://docs.google.com/document/d/1Z24MPVMrEk-U5n7Y8ZugDzmd57H5F6ZlfZU1-5ydt_M/edit?usp=sharing))
+* [C Data Types and Operators](https://docs.google.com/document/d/1Z24MPVMrEk-U5n7Y8ZugDzmd57H5F6ZlfZU1-5ydt_M/edit?usp=sharing)
 
 * [Arduino Source Code](https://docs.google.com/document/d/1LjD-wkb3c02tX05zMkzuwdilmjwIcPsPwBMjJWG9gWQ/edit?usp=sharing)
 
