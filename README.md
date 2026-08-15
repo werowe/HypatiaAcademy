@@ -14,65 +14,8 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/werowe/hypatia_lab">
-    <img src="https://raw.githubusercontent.com/werowe/HypatiaAcademy/master/images/hypatia_lab_logo.jpg" alt="Hypatia Arduino Lab logo" width="190">
-  </a>
-</p>
 
-<h1 align="center">⚡ Hypatia Arduino Lab</h1>
 
-<p align="center">
-  <strong>CODE. CIRCUITS. CREATE.</strong>
-</p>
-
-<p align="center">
-  Free, live classes in <strong>C programming</strong> and <strong>Arduino electronics</strong> for students ages 13–18.<br>
-  Build real circuits, write real C, and finish by building a 4-bit CPU out of NAND gates.
-</p>
-
-<p align="center">
-  <a href="https://hypatiaacademy.io/">
-    <img src="https://img.shields.io/badge/ENROLL%20NOW-fb923c?style=for-the-badge&labelColor=0A2540" alt="Enroll at hypatiaacademy.io">
-  </a>
-  &nbsp;
-  <a href="https://github.com/werowe/hypatia_lab">
-    <img src="https://img.shields.io/badge/%E2%9A%A1%20ENTER%20THE%20ARDUINO%20LAB-0A2540?style=for-the-badge&labelColor=0A2540" alt="Enter the Arduino Lab">
-  </a>
-  &nbsp;
-  <a href="https://github.com/werowe/hypatia_lab/blob/main/README.md">
-    <img src="https://img.shields.io/badge/CURRICULUM-22d3ee?style=for-the-badge&labelColor=0A2540" alt="Curriculum">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://hypatiaacademy.io/">🌐 hypatiaacademy.io</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/werowe/hypatia_lab">📦 hypatia_lab repository</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:contact@walkerrowe.com">✉️ contact@walkerrowe.com</a>
-</p>
-
-### What you'll learn in the Lab
-
-| | |
-|---|---|
-| 🔌 **Electronics from scratch** | Breadboards, resistors, diodes, transistors, and how a semiconductor actually works |
-| 🧮 **Logic gates** | NAND, AND, OR, XOR — built from transistors and from 74HC00 chips |
-| 💻 **The C language** | Data types, pointers, memory, bit manipulation — the language the hardware speaks |
-| 🤖 **Arduino projects** | Sensors, displays, motors, and circuits you design yourself |
-| 🏆 **Capstone: NANDINO-4** | A working 4-bit CPU emulator built entirely from NAND logic |
-
-<p align="center">
-  <strong><a href="https://github.com/werowe/hypatia_lab">➡️ Go to the full Arduino Lab course material</a></strong>
-</p>
-
----
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/werowe/HypatiaAcademy/master/images/hypatia%20logo%20-%20colors.jpg" alt="Hypatia at her laptop" width="220">
-</p>
 
 # 🐍 The Python & Machine Learning Archive
 
