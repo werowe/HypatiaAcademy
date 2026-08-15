@@ -21,7 +21,7 @@
 
 > **📌 Note:** I no longer teach the Python course. Six years of lecture notes, notebooks, videos, and
 > tutorials remain here — free and permanently online for anyone who wants to learn from them.
-> **Current students: head to the [Arduino Lab](https://github.com/werowe/hypatia_lab) instead.**
+> **Now I teach [C programming and Arduino microcontrollers.](https://github.com/werowe/hypatia_lab).**
 
 Everything below is archived teaching material from the Hypatia Academy Python, data science, and
 machine learning classes for students ages 13–18. Adults are welcome to use it too. Because the
